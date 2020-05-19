@@ -4,19 +4,19 @@ Middle is a macOS app that's made specifically to provide middle click functiona
 
 The app is closed source, but here are the localization files. It's obvious that I've used machines for the translations. If you fix more than a few lines of translations, I will give you a free license for the app (or a refund if you've already purchased it). 
 
-Keep in mind that a lot of the strings in those files are not used, as I left the base menu in the app. It's only necessary to fix localizations that are actually displayed in the app.
+_Important_: The current translations for each language have been auto-generated with a lot of text that isn't actually seen by a user in the app. You only need to translate what's seen by the user, and this is in the Master.strings file.
 
 Translations can also be emailed to support@middleclick.app instead of updated via GitHub.
 
 Translations that haven't been touched by a human include:
-German
-Portuguese (Brazil)
-Portuguese (Portugal)
-Russian
-French
-Polish
-Italian
-Dutch
-Japanese
+* German
+* Portuguese (Brazil)
+* Portuguese (Portugal)
+* Russian
+* French
+* Polish
+* Italian
+* Dutch
+* Japanese
 
 Translations for any languages that aren't localized at all are also welcome.
