@@ -7,3 +7,16 @@ The app is closed source, but here are the localization files. It's obvious that
 Keep in mind that a lot of the strings in those files are not used, as I left the base menu in the app. It's only necessary to fix localizations that are actually displayed in the app.
 
 Translations can also be emailed to support@middleclick.app instead of updated via GitHub.
+
+Translations that haven't been touched by a human include:
+German
+Portuguese (Brazil)
+Portuguese (Portugal)
+Russian
+French
+Polish
+Italian
+Dutch
+Japanese
+
+Translations for any languages that aren't localized at all are also welcome.
