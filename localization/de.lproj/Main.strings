@@ -488,9 +488,9 @@
 /* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; */
 "z6F-FW-3nz.title" = "Vertretungen anzeigen";
 
-"threeFingerDragAlert.title" = "Konflikt mit macOS Drei-Finger-Zug";
+"Conflict with macOS three finger drag" = "Konflikt mit macOS Drei-Finger-Zug";
 
-"threeFingerDragAlert.text" = "Die Geste mit drei Fingern könnte verhindern, dass die macOS-Funktion zum Ziehen von drei Fingern ordnungsgemäß funktioniert. Sie können eine andere Geste auswählen oder den Dreifingerzug in den macOS-Systemeinstellungen deaktivieren.";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Die Geste mit drei Fingern könnte verhindern, dass die macOS-Funktion zum Ziehen von drei Fingern ordnungsgemäß funktioniert. Sie können eine andere Geste auswählen oder den Dreifingerzug in den macOS-Systemeinstellungen deaktivieren.";
 
 "OK" = "OK";
 

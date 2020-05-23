@@ -488,9 +488,9 @@
 /* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; */
 "z6F-FW-3nz.title" = "Показать замены";
 
-"threeFingerDragAlert.title" = "Конфликт с MacOS Перетаскивание тремя пальцами";
+"Conflict with macOS three finger drag" = "Конфликт с MacOS Перетаскивание тремя пальцами";
 
-"threeFingerDragAlert.text" = "Трехпальцевый щелчок может помешать нормальной работе функции трехпальцевого перетаскивания с помощью MacOS. Можно выбрать другой жест или отключить трехпальцевое перетаскивание в системных настройках MacOS.";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Трехпальцевый щелчок может помешать нормальной работе функции трехпальцевого перетаскивания с помощью MacOS. Можно выбрать другой жест или отключить трехпальцевое перетаскивание в системных настройках MacOS.";
 
 "OK" = "ХОРОШО";
 

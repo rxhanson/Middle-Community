@@ -149,9 +149,9 @@
 /* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
 "zdd-tk-qnC.title" = "Touch Viewer";
 
-"threeFingerDragAlert.title" = "Conflict with macOS three finger drag";
+"Conflict with macOS three finger drag" = "Conflict with macOS three finger drag";
 
-"threeFingerDragAlert.text" = "The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences.";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences.";
 
 "OK" = "OK";
 

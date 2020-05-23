@@ -488,9 +488,9 @@
 /* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; */
 "z6F-FW-3nz.title" = "Toon vervangingen";
 
-"threeFingerDragAlert.title" = "Conflict met macOS slepen met drie vingers";
+"Conflict with macOS three finger drag" = "Conflict met macOS slepen met drie vingers";
 
-"threeFingerDragAlert.text" = "De drie vingerbewegingen kunnen voorkomen dat de macOS drie vingersleepfunctie goed werkt. U kunt een ander gebaar selecteren of drie vingerslepen in macOS-systeemvoorkeuren uitschakelen.";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "De drie vingerbewegingen kunnen voorkomen dat de macOS drie vingersleepfunctie goed werkt. U kunt een ander gebaar selecteren of drie vingerslepen in macOS-systeemvoorkeuren uitschakelen.";
 
 "OK" = "OK";
 

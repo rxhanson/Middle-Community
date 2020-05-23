@@ -1,7 +1,14 @@
 
-"threeFingerDragAlert.title" = "Conflitto con macOS trascinamento a tre dita";
+"Conflict with macOS three finger drag" = "Conflitto con \"Trascina con tre dita\" di macOS";
 
-"threeFingerDragAlert.text" = "Il gesto del tre dita click potrebbe impedire il corretto funzionamento della funzione di trascinamento a tre dita di MacOS. È possibile selezionare un gesto diverso o disabilitare il trascinamento a tre dita in Preferenze di sistema di macOS.";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Il gesto \"Clic con tre dita\" può impedire a \"Trascina con tre dita\" di macOS di funzionare correttamente. Seleziona un diverso gesto oppure disattiva \"Trascina con tre dita\" dalle Preferenze di Sistema. (*)
+
+
+(*) Preferenze di Sistema > Accessibilità > Mouse e trackpad
+
+
+https://support.apple.com/it-it/HT204609
+";
 
 "OK" = "OK";
 

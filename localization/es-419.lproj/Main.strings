@@ -1,7 +1,13 @@
 
-"threeFingerDragAlert.title" = "Conflicto con el arrastre de tres dedos de macOS";
+"Conflict with macOS three finger drag" = "Conflicto con \"Arrastrar con tres dedos\" de macOS";
 
-"threeFingerDragAlert.text" = "El gesto de hacer clic con tres dedos puede impedir que la funcionalidad de arrastre con tres dedos de macOS funcione correctamente. Es posible que desee seleccionar un gesto diferente o desactivar el arrastre de tres dedos en las Preferencias del Sistema macOS.";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "El gesto \"Clic con tres dedos\" podría impedir al gesto \"Arrastrar con tres dedos\" de macOS de funcionar adecuadamente. Seleccionar otro gesto o desmarcar \"Activar arrastre\" en las Preferencias del Sistema. (*)
+
+
+(*) Preferencias del Sistema > Accesibilidad > Ratón y trackpad
+
+
+https://support.apple.com/es-lamr/HT204609";
 
 "OK" = "OK";
 
