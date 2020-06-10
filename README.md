@@ -12,7 +12,6 @@ Translations that haven't been touched by a human include:
 * German
 * Portuguese (Brazil)
 * Portuguese (Portugal)
-* Russian
 * French
 * Polish
 * Italian
