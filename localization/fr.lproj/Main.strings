@@ -498,7 +498,7 @@
 "Kew-ib-Ihk.title" = "Libération lorsque les touches du trackpad sont retirées";
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
-"p39-0h-R0h.title" = "Ceci est utile lorsque vous utilisez le clic central du trackpad pour effectuer un panoramique dans les applications de modélisation 3D. Cliquez avec trois doigts, effectuez une panoramique avec un doigt et relâchez en retirant les touches.";
+"p39-0h-R0h.title" = "Ceci est utile lorsque vous utilisez le clic central du trackpad pour effectuer un panoramique dans les applications de modélisation 3D. Cliquez avec trois doigts, effectuez un panoramique avec un doigt et relâchez en retirant les touches.";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
 "gGO-yQ-xCQ.title" = "Utilisez fn et le clic gauche pour le clic central";
