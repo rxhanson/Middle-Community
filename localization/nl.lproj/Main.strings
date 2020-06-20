@@ -93,7 +93,10 @@
 "Bw7-FT-i3A.title" = "Red als…";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
-"Ccz-CJ-ZRm.title" = "Vingerkraan met drie vingers";
+"Ccz-CJ-ZRm.title" = "Tik met drie vingers";
+
+/* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
+"Bcb-Ja-zQs.title" = "Tik met vier vingers";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
 "DVo-aG-piG.title" = "Sluiten";
@@ -491,6 +494,10 @@
 "Conflict with macOS three finger drag" = "Conflict met macOS slepen met drie vingers";
 
 "The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "De drie vingerbewegingen kunnen voorkomen dat de macOS drie vingersleepfunctie goed werkt. U kunt een ander gebaar selecteren of drie vingerslepen in macOS-systeemvoorkeuren uitschakelen.";
+
+"Three finger tap with macOS three finger drag" = "Drie vingerkraan met macOS drie vingerkraan";
+
+"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Wanneer drie vingers worden versleept en drie vingers worden getikt, voert macOS een klik uit die Midden niet voorkomt.";
 
 "OK" = "OK";
 

@@ -95,6 +95,9 @@
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
 "Ccz-CJ-ZRm.title" = "Tapotement à trois doigts";
 
+/* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
+"Bcb-Ja-zQs.title" = "Tapotements à quatre doigts";
+
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
 "DVo-aG-piG.title" = "Fermer";
 
@@ -491,6 +494,10 @@
 "Conflict with macOS three finger drag" = "Conflit avec macOS glisser trois doigts";
 
 "The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Le geste du clic à trois doigts pourrait empêcher la fonctionnalité de glisser-déposer de macOS à trois doigts de fonctionner correctement. Vous pouvez sélectionner un autre geste ou désactiver le glisser-déposer à trois doigts dans les Préférences Système MacOS.";
+
+"Three finger tap with macOS three finger drag" = "Tapotement à trois doigts avec macOS trois doigts";
+
+"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Lorsque le glissement de trois doigts est activé et que trois doigts sont tapés, macOS exécute un clic que le milieu n'empêchera pas.";
 
 "OK" = "OK";
 

@@ -414,13 +414,16 @@
 "q09-fT-Sye.title" = "Encontrar Próximo";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
-"q6q-GJ-liZ.title" = "Três Dedos Clique";
+"q6q-GJ-liZ.title" = "Clique com três dedos";
 
 /* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "qIS-W8-SiK"; */
 "qIS-W8-SiK.title" = "Configuração da página…";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "qWt-7C-fnF"; */
-"qWt-7C-fnF.title" = "Três Finger Tap";
+"qWt-7C-fnF.title" = "Toque com três dedos";
+
+/* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
+"Bcb-Ja-zQs.title" = "Toque com quatro dedos";
 
 /* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "rbD-Rh-wIN"; */
 "rbD-Rh-wIN.title" = "Verificar ortografia durante a digitação";
@@ -491,6 +494,10 @@
 "Conflict with macOS three finger drag" = "Conflito com macOS arrastar três dedos";
 
 "The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "O gesto de clique com três dedos pode impedir que a funcionalidade de arrastar com três dedos do macOS funcione correctamente. Você pode querer selecionar um gesto diferente ou desativar o arrasto com três dedos em Preferências do sistema macOS.";
+
+"Three finger tap with macOS three finger drag" = "Bate com três dedos com macOS arrasto de três dedos";
+
+"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Quando o arrasto de três dedos é ativado e três dedos são batidos, o MacOS executa um clique que o Meio não irá impedir.";
 
 "OK" = "OK";
 

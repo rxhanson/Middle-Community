@@ -95,6 +95,9 @@
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
 "Ccz-CJ-ZRm.title" = "Dreifinger-Tippen";
 
+/* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
+"Bcb-Ja-zQs.title" = "Vierfinger-Tippen";
+
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
 "DVo-aG-piG.title" = "Schließen";
 
@@ -505,3 +508,8 @@
 
 /* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
 "mCY-qk-eUa.title" = "Zwei-Finger-Klick";
+
+"Three finger tap with macOS three finger drag" = "Dreifinger-Tippen mit MacOS-Dreifinger-Ziehen";
+
+"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Wenn das Ziehen mit drei Fingern aktiviert ist und drei Finger getippt werden, führt macOS einen Klick aus, der von der Mitte nicht verhindert wird.";
+

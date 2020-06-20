@@ -128,6 +128,9 @@
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "qWt-7C-fnF"; */
 "qWt-7C-fnF.title" = "Three Finger Tap";
 
+/* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
+"Bcb-Ja-zQs.title" = "Four Finger Tap";
+
 /* Class = "NSMenu"; title = "Middle"; ObjectID = "uQy-DD-JDr"; */
 "uQy-DD-JDr.title" = "Middle";
 
@@ -155,3 +158,6 @@
 
 "OK" = "OK";
 
+"Three finger tap with macOS three finger drag" = "Three finger tap with macOS three finger drag";
+
+"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent.";

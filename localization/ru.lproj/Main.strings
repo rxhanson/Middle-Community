@@ -95,6 +95,9 @@
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
 "Ccz-CJ-ZRm.title" = "Три касания пальцами";
 
+/* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
+"Bcb-Ja-zQs.title" = "Четыре прикосновения пальцами";
+
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
 "DVo-aG-piG.title" = "Близко";
 
@@ -493,6 +496,10 @@
 "The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Трехпальцевый щелчок может помешать нормальной работе функции трехпальцевого перетаскивания с помощью MacOS. Можно выбрать другой жест или отключить трехпальцевое перетаскивание в системных настройках MacOS.";
 
 "OK" = "ХОРОШО";
+
+"Three finger tap with macOS three finger drag" = "Трёхпальцевое касание с макосом трёхпальцевым перетаскиванием";
+
+"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Когда трехпальцевое перетаскивание облегчается и три пальца касаются друг друга, macOS выполняет щелчок, который не предотвратит Middle.";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
 "Kew-ib-Ihk.title" = "Освобождается при касании трекпада";

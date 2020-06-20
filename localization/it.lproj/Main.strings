@@ -10,6 +10,10 @@
 https://support.apple.com/it-it/HT204609
 ";
 
+"Three finger tap with macOS three finger drag" = "Rubinetto a tre dita con macOS trascinamento a tre dita";
+
+"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Quando si abilita il trascinamento con tre dita e si toccano tre dita, macOS esegue un clic che il mezzo non impedirà.";
+
 "OK" = "OK";
 
 /* Class = "NSMenuItem"; title = "Viewer"; ObjectID = "0G3-TF-iyg"; */
@@ -47,6 +51,9 @@ https://support.apple.com/it-it/HT204609
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
 "Ccz-CJ-ZRm.title" = "Tocco con tre dita";
+
+/* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
+"Bcb-Ja-zQs.title" = "Tocco con quattro dita";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
 "ExA-de-taD.title" = "Non autorizzato a controllare il tuo Mac";

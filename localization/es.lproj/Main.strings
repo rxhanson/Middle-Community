@@ -9,6 +9,10 @@
 
 https://support.apple.com/es-es/HT204609";
 
+"Three finger tap with macOS three finger drag" = "Tres dedos de arrastre con MacOS tres dedos de arrastre";
+
+"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Cuando se habilita el arrastre de tres dedos y se dan tres golpecitos, el MacOS ejecuta un clic que el Medio no impedirá.";
+
 "OK" = "OK";
 
 /* Class = "NSMenuItem"; title = "Viewer"; ObjectID = "0G3-TF-iyg"; */
@@ -46,6 +50,9 @@ https://support.apple.com/es-es/HT204609";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
 "Ccz-CJ-ZRm.title" = "Toque con tres dedos";
+
+/* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
+"Bcb-Ja-zQs.title" = "Toque con cuatro dedos";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
 "ExA-de-taD.title" = "Denegado a controlar tu Mac";

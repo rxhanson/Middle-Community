@@ -93,7 +93,10 @@
 "Bw7-FT-i3A.title" = "Save As…";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
-"Ccz-CJ-ZRm.title" = "Trzypalcowe stuknięcie palcem";
+"Ccz-CJ-ZRm.title" = "Stuknij trzema palcami";
+
+/* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
+"Bcb-Ja-zQs.title" = "Stuknij czterema palcami";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
 "DVo-aG-piG.title" = "Zamknij się.";
@@ -491,6 +494,10 @@
 "Conflict with macOS three finger drag" = "Konflikt z systemem MacOS - przeciągnięcie trzema palcami";
 
 "The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Gest trzypalcowego kliknięcia może uniemożliwić prawidłowe działanie funkcji przeciągania trzech palców w systemie MacOS. Możesz wybrać inny gest lub wyłączyć funkcję przeciągania trzema palcami w preferencjach systemu MacOS.";
+
+"Three finger tap with macOS three finger drag" = "Stuknięcie trzema palcami z macOSem Przeciągnięcie trzema palcami";
+
+"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Po przeciągnięciu trzech palców i stuknięciu trzech palców, MacOS wykonuje kliknięcie, któremu nie zapobiegnie Middle.";
 
 "OK" = "OK";
 

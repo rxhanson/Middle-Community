@@ -93,7 +93,10 @@
 "Bw7-FT-i3A.title" = "名前を付けて保存…";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
-"Ccz-CJ-ZRm.title" = "スリーフィンガータップ";
+"Ccz-CJ-ZRm.title" = "三本指タップ";
+
+/* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
+"Bcb-Ja-zQs.title" = "四本指タップ";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
 "DVo-aG-piG.title" = "クローズ";
@@ -500,3 +503,12 @@
 /* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; */
 "z6F-FW-3nz.title" = "代替品の表示";
 
+"Conflict with macOS three finger drag" = "macOSの3本指ドラッグとの競合";
+
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "3本指クリックジェスチャーのせいで、macOSの3本指ドラッグ機能が正常に動作しなくなっている可能性があります。macOSのシステム環境設定で別のジェスチャーを選択するか、3本指ドラッグを無効にしてください。";
+
+"OK" = "宜しい";
+
+"Three finger tap with macOS three finger drag" = "macOSで三本指タップ 三本指ドラッグ";
+
+"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "3本指ドラッグをエナベリングして3本指をタップすると、macOSはMiddleが防ぐことができないクリックを実行してしまいます。";
