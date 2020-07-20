@@ -13,7 +13,6 @@ The current translations for each language have been auto-generated with a lot o
 Translations can also be emailed to support@middleclick.app instead of updated via GitHub.
 
 Translations that haven't been touched by a human include:
-* German
 * Portuguese (Brazil)
 * Portuguese (Portugal)
 * Polish
