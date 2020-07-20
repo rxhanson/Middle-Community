@@ -497,7 +497,7 @@
 
 "Three finger tap with macOS three finger drag" = "Tapotement à trois doigts avec macOS trois doigts";
 
-"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Lorsque le glissement de trois doigts est activé et que trois doigts sont tapés, macOS exécute un clic que le milieu n'empêchera pas.";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Lorsque le glissement de trois doigts est activé et que trois doigts sont tapés, macOS exécute un clic que le milieu n'empêchera pas.";
 
 "OK" = "OK";
 

@@ -499,7 +499,7 @@
 
 "Three finger tap with macOS three finger drag" = "Трёхпальцевое касание с макосом трёхпальцевым перетаскиванием";
 
-"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Когда трехпальцевое перетаскивание облегчается и три пальца касаются друг друга, macOS выполняет щелчок, который не предотвратит Middle.";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Когда трехпальцевое перетаскивание облегчается и три пальца касаются друг друга, macOS выполняет щелчок, который не предотвратит Middle.";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
 "Kew-ib-Ihk.title" = "Освобождается при касании трекпада";

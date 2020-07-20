@@ -36,7 +36,7 @@
 "4J7-dP-txa.title" = "Vollbild eingeben";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "4sb-4s-VLi"; */
-"4sb-4s-VLi.title" = "Beenden Middle";
+"4sb-4s-VLi.title" = "Middle Beenden";
 
 /* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
 "575-o0-Etz.title" = "Autorisieren…";
@@ -54,7 +54,7 @@
 "5kV-Vb-QxS.title" = "Über Middle";
 
 /* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
-"6F1-Vv-ruT.title" = "Überprüfen Sie Middle.app";
+"6F1-Vv-ruT.title" = "Middle.app überprüfen";
 
 /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; */
 "6dh-zS-Vam.title" = "Wiederholen";
@@ -81,7 +81,7 @@
 "AYu-sK-qS6.title" = "Hauptmenü";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
-"BOF-NM-1cW.title" = "Präferenzen…";
+"BOF-NM-1cW.title" = "Einstellungen…";
 
 /* Class = "NSButtonCell"; title = "Launch on login"; ObjectID = "BbU-e2-Ypo"; */
 "BbU-e2-Ypo.title" = "Start beim Login";
@@ -96,7 +96,7 @@
 "Ccz-CJ-ZRm.title" = "Dreifinger-Tippen";
 
 /* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
-"Bcb-Ja-zQs.title" = "Vierfinger-Tippen";
+"Bcb-Ja-zQs.title" = "Vier-Finger-Tippen";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
 "DVo-aG-piG.title" = "Schließen";
@@ -174,7 +174,7 @@
 "Kd2-mp-pUS.title" = "Alle anzeigen";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
-"L4H-fe-hjK.title" = "Wenn das Kontrollkästchen deaktiviert ist, klicken Sie auf das Vorhängeschloss und geben Sie Ihr Passwort ein.";
+"L4H-fe-hjK.title" = "Falls das Kontrollkästchen deaktiviert ist, klicken Sie auf das Vorhängeschloss und geben Sie Ihr Passwort ein.";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
 "LE2-aR-0XJ.title" = "Bringen Sie alles in den Vordergrund";
@@ -198,7 +198,7 @@
 "MkV-Pr-PK5.title" = "Lineal kopieren";
 
 /* Class = "NSMenuItem"; title = "One Finger Force Touch"; ObjectID = "Mx0-0X-Uk5"; */
-"Mx0-0X-Uk5.title" = "Ein-Finger-Kraft-Touch";
+"Mx0-0X-Uk5.title" = "Ein-Finger Force-Touch (Klick)";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
 "NJ3-Fi-h4c.title" = "Über";
@@ -219,7 +219,7 @@
 "OhY-VJ-Tcc.title" = "Fenster";
 
 /* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "Verstecken Middle";
+"Olw-nP-bQN.title" = "Middle Verstecken";
 
 /* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV"; */
 "OwM-mh-QMV.title" = "Vorherige finden";
@@ -255,7 +255,7 @@
 "Td7-aD-5lo.title" = "Fenster";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
-"Tfy-3A-o4I.title" = "Wenn ausgeblendet, starten Sie den Neustart aus dem Finder, um das Menü zu öffnen.";
+"Tfy-3A-o4I.title" = "Wenn ausgeblendet, starten Sie Middle (im Finder) erneut, um das Menü zu öffnen.";
 
 /* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG"; */
 "UEZ-Bs-lqG.title" = "Großschreibung";
@@ -306,7 +306,7 @@
 "ZvO-Gk-QUH.title" = "Absatz";
 
 /* Class = "NSMenuItem"; title = "One Finger Click in Center"; ObjectID = "aQ2-MA-F8F"; */
-"aQ2-MA-F8F.title" = "Ein Fingerklick in die Mitte";
+"aQ2-MA-F8F.title" = "Ein-Finger-Klick in die/der Mitte";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS"; */
 "aTl-1u-JFS.title" = "Drucken…";
@@ -417,13 +417,13 @@
 "q09-fT-Sye.title" = "Weitersuchen";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
-"q6q-GJ-liZ.title" = "Dreifinger-Klick";
+"q6q-GJ-liZ.title" = "Drei-Finger-Klick";
 
 /* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "qIS-W8-SiK"; */
 "qIS-W8-SiK.title" = "Seiteneinrichtung…";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "qWt-7C-fnF"; */
-"qWt-7C-fnF.title" = "Dreifinger-Tippen";
+"qWt-7C-fnF.title" = "Drei-Finger-Tippen";
 
 /* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "rbD-Rh-wIN"; */
 "rbD-Rh-wIN.title" = "Rechtschreibprüfung während der Eingabe";
@@ -471,7 +471,7 @@
 "wb2-vD-lq4.title" = "Rechts ausrichten";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
-"wic-K8-WSX.title" = "Autorisieren Middle";
+"wic-K8-WSX.title" = "Middle Autorisieren";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
 "wpr-3q-Mcd.title" = "Hilfe";
@@ -491,9 +491,9 @@
 /* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; */
 "z6F-FW-3nz.title" = "Vertretungen anzeigen";
 
-"Conflict with macOS three finger drag" = "Konflikt mit macOS Drei-Finger-Zug";
+"Conflict with macOS three finger drag" = "Konflikt mit macOS Drei-Finger-Bewegen";
 
-"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Die Geste mit drei Fingern könnte verhindern, dass die macOS-Funktion zum Ziehen von drei Fingern ordnungsgemäß funktioniert. Sie können eine andere Geste auswählen oder den Dreifingerzug in den macOS-Systemeinstellungen deaktivieren.";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Die Geste mit drei Fingern könnte verhindern, dass die macOS-Funktion zum Ziehen mit drei Fingern ordnungsgemäß funktioniert. Sie können eine andere Geste auswählen oder das Bewegen mit drei Fingern in den macOS-Systemeinstellungen deaktivieren.";
 
 "OK" = "OK";
 
@@ -504,12 +504,12 @@
 "p39-0h-R0h.title" = "Dies ist nützlich, wenn Sie den Trackpad-Mittelklick zum Schwenken in 3D-Modellierungsanwendungen verwenden. Klicken Sie mit drei Fingern, schwenken Sie mit einem Finger und lassen Sie die Maustaste los, indem Sie Berührungen entfernen.";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Verwenden Sie fn und Linksklick bis Mittelklick";
+"gGO-yQ-xCQ.title" = "Fn und Linksklick für Mittelklick verwenden";
 
 /* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
 "mCY-qk-eUa.title" = "Zwei-Finger-Klick";
 
-"Three finger tap with macOS three finger drag" = "Dreifinger-Tippen mit MacOS-Dreifinger-Ziehen";
+"Three finger tap with macOS three finger drag" = "Drei-Finger-Tippen mit MacOS-Drei-Finger-Bewegen";
 
-"When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Wenn das Ziehen mit drei Fingern aktiviert ist und drei Finger getippt werden, führt macOS einen Klick aus, der von der Mitte nicht verhindert wird.";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Wenn das Ziehen mit drei Fingern aktiviert ist und drei Finger getippt werden, führt macOS einen Klick aus, der von der Mitte nicht verhindert wird.";
 
