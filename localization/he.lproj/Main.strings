@@ -1,81 +1,81 @@
 
 /* Class = "NSMenuItem"; title = "Viewer"; ObjectID = "0G3-TF-iyg"; */
-"0G3-TF-iyg.title" = "Viewer";
+"0G3-TF-iyg.title" = "צופה";
 
 /* Class = "NSMenuItem"; title = "Middle"; ObjectID = "1Xt-HY-uBw"; */
 "1Xt-HY-uBw.title" = "Middle";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "4sb-4s-VLi"; */
-"4sb-4s-VLi.title" = "Quit Middle";
+"4sb-4s-VLi.title" = "צא מ-Middle";
 
 /* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
-"575-o0-Etz.title" = "Authorize…";
+"575-o0-Etz.title" = "תן גישה…";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "5Y9-2l-gqF"; */
-"5Y9-2l-gqF.title" = "About";
+"5Y9-2l-gqF.title" = "אודות";
 
 /* Class = "NSMenuItem"; title = "About Middle"; ObjectID = "5kV-Vb-QxS"; */
-"5kV-Vb-QxS.title" = "About Middle";
+"5kV-Vb-QxS.title" = "אודות Middle";
 
 /* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
-"6F1-Vv-ruT.title" = "Check Middle.app";
+"6F1-Vv-ruT.title" = "סמן את Middle.app";
 
 /* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
-"6np-Zg-K5q.title" = "Check for updates automatically";
+"6np-Zg-K5q.title" = "בדוק עבור עדכונים באופן אוטומטי";
 
 /* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "6rO-9w-PdI"; */
-"6rO-9w-PdI.title" = "Open System Preferences";
+"6rO-9w-PdI.title" = "פתח את העדפות המערכת";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
-"BOF-NM-1cW.title" = "Preferences…";
+"BOF-NM-1cW.title" = "העדפות…";
 
 /* Class = "NSButtonCell"; title = "Launch on login"; ObjectID = "BbU-e2-Ypo"; */
-"BbU-e2-Ypo.title" = "Launch on login";
+"BbU-e2-Ypo.title" = "הפעל בהדלקה";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
-"Ccz-CJ-ZRm.title" = "Three Finger Tap";
+"Ccz-CJ-ZRm.title" = "הקשה עם שלוש אצבעות";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
-"ExA-de-taD.title" = "Not Authorized to Control Your Computer";
+"ExA-de-taD.title" = "לא מורשה לשליטה במחשב שלך";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
-"FKE-Sm-Kum.title" = "Middle Help";
+"FKE-Sm-Kum.title" = "עזרה Middle";
 
 /* Class = "NSMenuItem"; title = "Ignore frontmost.app"; ObjectID = "Hc4-Pm-7tu"; */
-"Hc4-Pm-7tu.title" = "Ignore frontmost.app";
+"Hc4-Pm-7tu.title" = "התעלם מ-frontmost.app";
 
 /* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
-"IQv-IB-iLA.title" = "Middle Preferences";
+"IQv-IB-iLA.title" = "העדפות Middle";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
-"Kew-ib-Ihk.title" = "Release when trackpad touches removed";
+"Kew-ib-Ihk.title" = "שחרר כשמסתיימת הנגיעה";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
-"L4H-fe-hjK.title" = "If the checkbox is disabled, click the padlock and enter your password";
+"L4H-fe-hjK.title" = "אם הסימון חסום, לחץ על המנעול והזן את הסיסמא שלך";
 
 /* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
-"LQa-8U-aNp.title" = "Middle needs your permission to read events from your touch devices.";
+"LQa-8U-aNp.title" = "Middle צריך הרשאה לקרוא אירועים ממשטחי המגע שלך.";
 
 /* Class = "NSMenu"; title = "Viewer"; ObjectID = "Lvn-z3-2Z5"; */
 "Lvn-z3-2Z5.title" = "Viewer";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
-"LxB-Qw-Mem.title" = "Quit Middle";
+"LxB-Qw-Mem.title" = "צא מ-Middle";
 
 /* Class = "NSMenuItem"; title = "Purchase"; ObjectID = "MWV-Ks-lbA"; */
-"MWV-Ks-lbA.title" = "Purchase";
+"MWV-Ks-lbA.title" = "רכישה";
 
 /* Class = "NSMenuItem"; title = "One Finger Force Touch"; ObjectID = "Mx0-0X-Uk5"; */
-"Mx0-0X-Uk5.title" = "One Finger Force Touch";
+"Mx0-0X-Uk5.title" = "Force Touch עם אצבע אחת";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
-"NJ3-Fi-h4c.title" = "About";
+"NJ3-Fi-h4c.title" = "אודות";
 
 /* Class = "NSWindow"; title = "Authorize Middle"; ObjectID = "OhY-VJ-Tcc"; */
-"OhY-VJ-Tcc.title" = "Authorize Middle";
+"OhY-VJ-Tcc.title" = "תן גישה ל-Middle";
 
 /* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "Hide Middle";
+"Olw-nP-bQN.title" = "הסתר Middle";
 
 /* Class = "NSTextFieldCell"; title = "Magic Mouse: "; ObjectID = "Qn1-tG-Pis"; */
 "Qn1-tG-Pis.title" = "Magic Mouse: ";
@@ -84,70 +84,70 @@
 "S0p-oC-mLd.title" = "Jump to Selection";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
-"Tfy-3A-o4I.title" = "When hidden, relaunch from Finder to open the menu.";
+"Tfy-3A-o4I.title" = "כשמוסתר, הפעל מ-Finder על מנת לפתוח את התפריט.";
 
 /* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
-"YvJ-SA-Bje.title" = "Hide menu bar icon";
+"YvJ-SA-Bje.title" = "הסתר אייקון מהתפריט";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "ZFQ-xY-Fls"; */
-"ZFQ-xY-Fls.title" = "None";
+"ZFQ-xY-Fls.title" = "ללא";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "F5y-6x-Tuc"; */
-"F5y-6x-Tuc.title" = "None";
+"F5y-6x-Tuc.title" = "ללא";
 
 /* Class = "NSMenuItem"; title = "One Finger Click in Center"; ObjectID = "aQ2-MA-F8F"; */
-"aQ2-MA-F8F.title" = "One Finger Click in Center";
+"aQ2-MA-F8F.title" = "לחיצה של אצבע אחת במרכז";
 
 /* Class = "NSTextFieldCell"; title = "Trackpad: "; ObjectID = "eDR-Aa-cTe"; */
-"eDR-Aa-cTe.title" = "Trackpad: ";
+"eDR-Aa-cTe.title" = "משטח מגע: ";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
-"fQ6-M2-dr6.title" = "Quit Middle";
+"fQ6-M2-dr6.title" = "צא מ-Middle";
 
 /* Class = "NSMenuItem"; title = "Launch viewer on start"; ObjectID = "gAS-dZ-pX7"; */
 "gAS-dZ-pX7.title" = "Launch viewer on start";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Use fn and left click to middle click";
+"gGO-yQ-xCQ.title" = "השתמש במקש fn ולחצן שמאלי בשביל להפעיל לחיצת אמצע";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
-"gQZ-HU-YQU.title" = "Check for Updates...";
+"gQZ-HU-YQU.title" = "בדוק עבור עדכונים...";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "ksi-rt-hhB"; */
-"ksi-rt-hhB.title" = "Preferences…";
+"ksi-rt-hhB.title" = "העדפות…";
 
 /* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
-"mCY-qk-eUa.title" = "Two Finger Click";
+"mCY-qk-eUa.title" = "לחיצה של שתי אצבעות";
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
 "p39-0h-R0h.title" = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches.";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
-"q6q-GJ-liZ.title" = "Three Finger Click";
+"q6q-GJ-liZ.title" = "לחיצה עם שלוש אצבעות";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "qWt-7C-fnF"; */
-"qWt-7C-fnF.title" = "Three Finger Tap";
+"qWt-7C-fnF.title" = "הקשה עם שלוש אצבעות";
 
 /* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
-"Bcb-Ja-zQs.title" = "Four Finger Tap";
+"Bcb-Ja-zQs.title" = "הקשה עם ארבע אצבעות";
 
 /* Class = "NSMenu"; title = "Middle"; ObjectID = "uQy-DD-JDr"; */
 "uQy-DD-JDr.title" = "Middle";
 
 /* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
-"vCt-Cm-ARK.title" = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility";
+"vCt-Cm-ARK.title" = "גש להעדפות המערכת  → אבטחה ופרטיות → פרטיות → נגישות";
 
 /* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
 "vZH-gr-9dX.title" = "Show viewer…";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
-"wic-K8-WSX.title" = "Authorize Middle";
+"wic-K8-WSX.title" = "תן גישה ל-Middle";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
-"wpr-3q-Mcd.title" = "Help";
+"wpr-3q-Mcd.title" = "עזרה";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "yCX-6y-ayG"; */
-"yCX-6y-ayG.title" = "Three Finger Click";
+"yCX-6y-ayG.title" = "לחיצה של שלוש אצבעות";
 
 /* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
 "zdd-tk-qnC.title" = "Touch Viewer";
