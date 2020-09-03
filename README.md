@@ -18,6 +18,5 @@ Translations that haven't been touched by a human include:
 * Polish
 * Italian
 * Dutch
-* Japanese
 
 Translations for any languages that aren't localized at all are also welcome.
