@@ -5,7 +5,7 @@
 "1Xt-HY-uBw.title" = "Middle";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "4sb-4s-VLi"; */
-"4sb-4s-VLi.title" = "Sluit Midden af";
+"4sb-4s-VLi.title" = "Sluit Middle af";
 
 /* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
 "575-o0-Etz.title" = "Autoriseren…";
@@ -17,7 +17,7 @@
 "5kV-Vb-QxS.title" = "Over Middle";
 
 /* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
-"6F1-Vv-ruT.title" = "Controleer Midden.app";
+"6F1-Vv-ruT.title" = "Controleer Middle.app";
 
 /* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
 "6np-Zg-K5q.title" = "Controleer automatisch voor updates";
@@ -38,13 +38,13 @@
 "ExA-de-taD.title" = "Niet gemachtigd om uw computer te bedienen";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
-"FKE-Sm-Kum.title" = "Midden Helpen";
+"FKE-Sm-Kum.title" = "Middle Helpen";
 
 /* Class = "NSMenuItem"; title = "Ignore frontmost.app"; ObjectID = "Hc4-Pm-7tu"; */
 "Hc4-Pm-7tu.title" = "Negeren frontmost.app";
 
 /* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
-"IQv-IB-iLA.title" = "Midden Voorkeuren";
+"IQv-IB-iLA.title" = "Middle Voorkeuren";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
 "Kew-ib-Ihk.title" = "Laat los wanneer trackpad raakt verwijderd";
@@ -53,13 +53,13 @@
 "L4H-fe-hjK.title" = "Als het selectievakje is uitgeschakeld, klikt u op het hangslot en voert u uw wachtwoord in";
 
 /* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
-"LQa-8U-aNp.title" = "Midden heeft uw toestemming nodig om gebeurtenissen van uw aanraakapparaten te lezen..";
+"LQa-8U-aNp.title" = "Middle heeft uw toestemming nodig om gebeurtenissen van uw aanraakapparaten te lezen..";
 
 /* Class = "NSMenu"; title = "Viewer"; ObjectID = "Lvn-z3-2Z5"; */
 "Lvn-z3-2Z5.title" = "Kijker";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
-"LxB-Qw-Mem.title" = "Afsluiten Midden";
+"LxB-Qw-Mem.title" = "Afsluiten Middle";
 
 /* Class = "NSMenuItem"; title = "Purchase"; ObjectID = "MWV-Ks-lbA"; */
 "MWV-Ks-lbA.title" = "Aankoop";
@@ -71,10 +71,10 @@
 "NJ3-Fi-h4c.title" = "Over";
 
 /* Class = "NSWindow"; title = "Authorize Middle"; ObjectID = "OhY-VJ-Tcc"; */
-"OhY-VJ-Tcc.title" = "Autoriseren Midden";
+"OhY-VJ-Tcc.title" = "Autoriseren Middle";
 
 /* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "Zich verstoppen Midden";
+"Olw-nP-bQN.title" = "Zich verstoppen Middle";
 
 /* Class = "NSTextFieldCell"; title = "Magic Mouse: "; ObjectID = "Qn1-tG-Pis"; */
 "Qn1-tG-Pis.title" = "Magische muis: ";
@@ -101,7 +101,7 @@
 "eDR-Aa-cTe.title" = "Trackpad: ";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
-"fQ6-M2-dr6.title" = "Afsluiten Midden";
+"fQ6-M2-dr6.title" = "Afsluiten Middle";
 
 /* Class = "NSMenuItem"; title = "Launch viewer on start"; ObjectID = "gAS-dZ-pX7"; */
 "gAS-dZ-pX7.title" = "Start de viewer bij het starten";
@@ -131,7 +131,7 @@
 "Bcb-Ja-zQs.title" = "Tik met vier vingers";
 
 /* Class = "NSMenu"; title = "Middle"; ObjectID = "uQy-DD-JDr"; */
-"uQy-DD-JDr.title" = "Midden";
+"uQy-DD-JDr.title" = "Middle";
 
 /* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
 "vCt-Cm-ARK.title" = "Ga naar Systeem voorkeuren → Beveiliging en Geheimhouding → Geheimhouding → Toegankelijkheid";
@@ -140,7 +140,7 @@
 "vZH-gr-9dX.title" = "Toon kijker…";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
-"wic-K8-WSX.title" = "Autoriseren Midden";
+"wic-K8-WSX.title" = "Autoriseren Middle";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
 "wpr-3q-Mcd.title" = "Helpen";
@@ -159,4 +159,4 @@
 
 "Three finger tap with macOS three finger drag" = "Tikken met drie vingers met macOS slepen met drie vingers";
 
-"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Wanneer slepen met drie vingers is ingeschakeld en met drie vingers wordt getikt, voert macOS een klik uit die Midden niet voorkomt.";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Wanneer slepen met drie vingers is ingeschakeld en met drie vingers wordt getikt, voert macOS een klik uit die Middle niet voorkomt.";
