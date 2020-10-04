@@ -1,6 +1,6 @@
 
 /* Class = "NSMenuItem"; title = "Viewer"; ObjectID = "0G3-TF-iyg"; */
-"0G3-TF-iyg.title" = "Fönster";
+"0G3-TF-iyg.title" = "Visningsyta";
 
 /* Class = "NSMenuItem"; title = "Middle"; ObjectID = "1Xt-HY-uBw"; */
 "1Xt-HY-uBw.title" = "Middle";
@@ -57,7 +57,7 @@
 "LQa-8U-aNp.title" = "Middle behöver ditt godkännande för att läsa händelser från touch-enheter.";
 
 /* Class = "NSMenu"; title = "Viewer"; ObjectID = "Lvn-z3-2Z5"; */
-"Lvn-z3-2Z5.title" = "Fönster";
+"Lvn-z3-2Z5.title" = "Visningsyta";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
 "LxB-Qw-Mem.title" = "Avsluta Middle";
@@ -105,7 +105,7 @@
 "fQ6-M2-dr6.title" = "Avsluta Middle";
 
 /* Class = "NSMenuItem"; title = "Launch viewer on start"; ObjectID = "gAS-dZ-pX7"; */
-"gAS-dZ-pX7.title" = "Visa fönster vid start";
+"gAS-dZ-pX7.title" = "Visa visningsyta vid start";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
 "gGO-yQ-xCQ.title" = "Använd fn och vänsterklick för att mittenklicka";
@@ -138,7 +138,7 @@
 "vCt-Cm-ARK.title" = "Gå till Systeminställningar → Säkerhet och integritet → Integritet → Hjälpmedel";
 
 /* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
-"vZH-gr-9dX.title" = "Visa fönster";
+"vZH-gr-9dX.title" = "Visa visningsyta…";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
 "wic-K8-WSX.title" = "Ge tillgång för Middle";
@@ -150,7 +150,7 @@
 "yCX-6y-ayG.title" = "Trefingersklick";
 
 /* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
-"zdd-tk-qnC.title" = "Touch-fönster";
+"zdd-tk-qnC.title" = "Touch-visningsyta";
 
 "Conflict with macOS three finger drag" = "Konflikt med trefingersdragning i macOS";
 
