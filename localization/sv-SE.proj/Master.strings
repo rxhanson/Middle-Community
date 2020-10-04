@@ -1,0 +1,163 @@
+
+/* Class = "NSMenuItem"; title = "Viewer"; ObjectID = "0G3-TF-iyg"; */
+"0G3-TF-iyg.title" = "Fönster";
+
+/* Class = "NSMenuItem"; title = "Middle"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Middle";
+
+/* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Avsluta Middle";
+
+/* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
+"575-o0-Etz.title" = "Ge tillgång…";
+
+/* Class = "NSMenuItem"; title = "About"; ObjectID = "5Y9-2l-gqF"; */
+"5Y9-2l-gqF.title" = "Om";
+
+/* Class = "NSMenuItem"; title = "About Middle"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "Om Middle";
+
+/* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
+"6F1-Vv-ruT.title" = "Kontrollera Middle.app";
+
+/* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
+"6np-Zg-K5q.title" = "Sök efter uppdateringar automatiskt";
+
+/* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "6rO-9w-PdI"; */
+"6rO-9w-PdI.title" = "Öppna Systeminställningar";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Inställningar…";
+
+/* Class = "NSButtonCell"; title = "Launch on login"; ObjectID = "BbU-e2-Ypo"; */
+"BbU-e2-Ypo.title" = "Starta vid inloggning";
+
+/* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
+"Ccz-CJ-ZRm.title" = "Trefingerstryck";
+
+/* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
+"ExA-de-taD.title" = "Saknar tillgång att styra din dator";
+
+/* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Middle hjälp";
+
+/* Class = "NSMenuItem"; title = "Ignore frontmost.app"; ObjectID = "Hc4-Pm-7tu"; */
+"Hc4-Pm-7tu.title" = "Ignorera frontmost.app";
+
+/* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "Middle-inställningar";
+
+/* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
+"Kew-ib-Ihk.title" = "Släpp när vidrörning av trackpad upphör";
+
+/* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
+"L4H-fe-hjK.title" = "Om kryssrutan är inaktiv, klicka på hänglåset och skriv in ditt lösenord";
+
+/* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
+"LQa-8U-aNp.title" = "Middle behöver ditt godkännande för att läsa händelser från touch-enheter.";
+
+/* Class = "NSMenu"; title = "Viewer"; ObjectID = "Lvn-z3-2Z5"; */
+"Lvn-z3-2Z5.title" = "Fönster";
+
+/* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
+"LxB-Qw-Mem.title" = "Avsluta Middle";
+
+/* Class = "NSMenuItem"; title = "Purchase"; ObjectID = "MWV-Ks-lbA"; */
+"MWV-Ks-lbA.title" = "Köp";
+
+/* Class = "NSMenuItem"; title = "One Finger Force Touch"; ObjectID = "Mx0-0X-Uk5"; */
+"Mx0-0X-Uk5.title" = "Hårt klick med en finger";
+
+/* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
+"NJ3-Fi-h4c.title" = "Om";
+
+/* Class = "NSWindow"; title = "Authorize Middle"; ObjectID = "OhY-VJ-Tcc"; */
+"OhY-VJ-Tcc.title" = "Ge tillgång för Middle";
+
+/* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Göm Middle";
+
+/* Class = "NSTextFieldCell"; title = "Magic Mouse: "; ObjectID = "Qn1-tG-Pis"; */
+"Qn1-tG-Pis.title" = "Magic Mouse: ";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
+"S0p-oC-mLd.title" = "Hoppa till urval";
+
+/* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
+"Tfy-3A-o4I.title" = "När gömd, starta om från Finder för att öppna menyn.";
+
+/* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
+"YvJ-SA-Bje.title" = "Göm menyfältsikon";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "ZFQ-xY-Fls"; */
+"ZFQ-xY-Fls.title" = "Ingen";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "F5y-6x-Tuc"; */
+"F5y-6x-Tuc.title" = "Ignen";
+
+/* Class = "NSMenuItem"; title = "One Finger Click in Center"; ObjectID = "aQ2-MA-F8F"; */
+"aQ2-MA-F8F.title" = "Klick med ett finger i mitten";
+
+/* Class = "NSTextFieldCell"; title = "Trackpad: "; ObjectID = "eDR-Aa-cTe"; */
+"eDR-Aa-cTe.title" = "Trackpad: ";
+
+/* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
+"fQ6-M2-dr6.title" = "Avsluta Middle";
+
+/* Class = "NSMenuItem"; title = "Launch viewer on start"; ObjectID = "gAS-dZ-pX7"; */
+"gAS-dZ-pX7.title" = "Visa fönster vid start";
+
+/* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
+"gGO-yQ-xCQ.title" = "Använd fn och vänsterklick för att mittenklicka";
+
+/* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
+"gQZ-HU-YQU.title" = "Sök efter uppdateringar...";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "ksi-rt-hhB"; */
+"ksi-rt-hhB.title" = "Inställningar…";
+
+/* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
+"mCY-qk-eUa.title" = "Tvåfingerklick";
+
+/* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
+"p39-0h-R0h.title" = "Detta är användbart när mittenklick på trackpad används för att panorera i 3D-modelleringsapplikationer. Klicka med tre fingrar, panorera med ett finger och släpp genom att avlägsna fingret.";
+
+/* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
+"q6q-GJ-liZ.title" = "Trefingersklick";
+
+/* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "qWt-7C-fnF"; */
+"qWt-7C-fnF.title" = "Trefingerstryck";
+
+/* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
+"Bcb-Ja-zQs.title" = "Fyrfingerstryck";
+
+/* Class = "NSMenu"; title = "Middle"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Middle";
+
+/* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
+"vCt-Cm-ARK.title" = "Gå till Systeminställningar → Säkerhet och integritet → Integritet → Hjälpmedel";
+
+/* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
+"vZH-gr-9dX.title" = "Visa fönster";
+
+/* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
+"wic-K8-WSX.title" = "Ge tillgång för Middle";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Hjälp";
+
+/* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "yCX-6y-ayG"; */
+"yCX-6y-ayG.title" = "Trefingersklick";
+
+/* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
+"zdd-tk-qnC.title" = "Touch-fönster";
+
+"Conflict with macOS three finger drag" = "Konflikt med trefingersdragning i macOS";
+
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Trefingersklick-gesten kan hindra trefingersdragning i macOS från att fungera normalt. Överväg att välja en annan gest eller stänga av trefingersdragning i macOS Systeminställningar.";
+
+"OK" = "OK";
+
+"Three finger tap with macOS three finger drag" = "Trefingerstryck med macOS trefingersdragning";
+
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "När trefingersdragning är påslaget och tre fingrar trycker, verkställer macOS en klickning som Middle inte fångar.";
