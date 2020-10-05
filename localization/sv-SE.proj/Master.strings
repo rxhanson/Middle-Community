@@ -9,7 +9,7 @@
 "4sb-4s-VLi.title" = "Avsluta Middle";
 
 /* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
-"575-o0-Etz.title" = "Ge tillgång…";
+"575-o0-Etz.title" = "Ge åtkomst";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "5Y9-2l-gqF"; */
 "5Y9-2l-gqF.title" = "Om";
@@ -72,7 +72,7 @@
 "NJ3-Fi-h4c.title" = "Om";
 
 /* Class = "NSWindow"; title = "Authorize Middle"; ObjectID = "OhY-VJ-Tcc"; */
-"OhY-VJ-Tcc.title" = "Ge tillgång för Middle";
+"OhY-VJ-Tcc.title" = "Ge åtkomst för Middle";
 
 /* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
 "Olw-nP-bQN.title" = "Göm Middle";
@@ -93,7 +93,7 @@
 "ZFQ-xY-Fls.title" = "Ingen";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "F5y-6x-Tuc"; */
-"F5y-6x-Tuc.title" = "Ignen";
+"F5y-6x-Tuc.title" = "Ingen";
 
 /* Class = "NSMenuItem"; title = "One Finger Click in Center"; ObjectID = "aQ2-MA-F8F"; */
 "aQ2-MA-F8F.title" = "Klick med ett finger i mitten";
@@ -141,7 +141,7 @@
 "vZH-gr-9dX.title" = "Visa visningsyta…";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
-"wic-K8-WSX.title" = "Ge tillgång för Middle";
+"wic-K8-WSX.title" = "Ge åtkomst för Middle";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
 "wpr-3q-Mcd.title" = "Hjälp";
