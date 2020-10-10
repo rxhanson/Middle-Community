@@ -111,7 +111,7 @@
 "F2S-fz-NVQ.title" = "Aide";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "F5y-6x-Tuc"; */
-"F5y-6x-Tuc.title" = "Aucun(e)";
+"F5y-6x-Tuc.title" = "Aucun geste";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
 "FKE-Sm-Kum.title" = "Aide Middle";
@@ -297,7 +297,7 @@
 "YvJ-SA-Bje.title" = "Masquer l'icône de la barre de menu";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "ZFQ-xY-Fls"; */
-"ZFQ-xY-Fls.title" = "Aucun(e)";
+"ZFQ-xY-Fls.title" = "Aucun geste";
 
 /* Class = "NSMenuItem"; title = "Align Left"; ObjectID = "ZM1-6Q-yy1"; */
 "ZM1-6Q-yy1.title" = "Aligner à gauche";
