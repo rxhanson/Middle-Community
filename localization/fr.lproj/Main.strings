@@ -111,7 +111,7 @@
 "F2S-fz-NVQ.title" = "Aide";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "F5y-6x-Tuc"; */
-"F5y-6x-Tuc.title" = "Aucune";
+"F5y-6x-Tuc.title" = "Aucun geste";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
 "FKE-Sm-Kum.title" = "Aide Middle";
@@ -192,13 +192,13 @@
 "LxB-Qw-Mem.title" = "Quitter Middle";
 
 /* Class = "NSMenuItem"; title = "Purchase"; ObjectID = "MWV-Ks-lbA"; */
-"MWV-Ks-lbA.title" = "Achat";
+"MWV-Ks-lbA.title" = "Acheter";
 
 /* Class = "NSMenuItem"; title = "Copy Ruler"; ObjectID = "MkV-Pr-PK5"; */
 "MkV-Pr-PK5.title" = "Copier règle";
 
 /* Class = "NSMenuItem"; title = "One Finger Force Touch"; ObjectID = "Mx0-0X-Uk5"; */
-"Mx0-0X-Uk5.title" = "Toucher à force d'un seul doigt";
+"Mx0-0X-Uk5.title" = "Clic fort d'un seul doigt";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
 "NJ3-Fi-h4c.title" = "À propos";
@@ -234,7 +234,7 @@
 "Q5e-8K-NDq.title" = "Afficher les polices";
 
 /* Class = "NSTextFieldCell"; title = "Magic Mouse: "; ObjectID = "Qn1-tG-Pis"; */
-"Qn1-tG-Pis.title" = "Magic Mouse: ";
+"Qn1-tG-Pis.title" = "Magic Mouse : ";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
 "R4o-n2-Eq4.title" = "Zoom";
@@ -255,7 +255,7 @@
 "Td7-aD-5lo.title" = "Fenêtre";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
-"Tfy-3A-o4I.title" = "Une fois masqué, redémarrer à partir du Finder pour ouvrir le menu.";
+"Tfy-3A-o4I.title" = "Une fois masqué, relancer l'application à partir du Finder pour ouvrir le menu.";
 
 /* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG"; */
 "UEZ-Bs-lqG.title" = "Mettre en majuscules";
@@ -297,7 +297,7 @@
 "YvJ-SA-Bje.title" = "Masquer l'icône de la barre de menu";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "ZFQ-xY-Fls"; */
-"ZFQ-xY-Fls.title" = "Aucune";
+"ZFQ-xY-Fls.title" = "Aucun geste";
 
 /* Class = "NSMenuItem"; title = "Align Left"; ObjectID = "ZM1-6Q-yy1"; */
 "ZM1-6Q-yy1.title" = "Aligner à gauche";
@@ -306,7 +306,7 @@
 "ZvO-Gk-QUH.title" = "Paragraphe";
 
 /* Class = "NSMenuItem"; title = "One Finger Click in Center"; ObjectID = "aQ2-MA-F8F"; */
-"aQ2-MA-F8F.title" = "Clicquer avec un doigt au centre";
+"aQ2-MA-F8F.title" = "Clic à un doigt au centre";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS"; */
 "aTl-1u-JFS.title" = "Imprimer…";
@@ -354,7 +354,7 @@
 "dRJ-4n-Yzg.title" = "Annuler";
 
 /* Class = "NSTextFieldCell"; title = "Trackpad: "; ObjectID = "eDR-Aa-cTe"; */
-"eDR-Aa-cTe.title" = "Trackpad :";
+"eDR-Aa-cTe.title" = "Trackpad : ";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
 "fQ6-M2-dr6.title" = "Quitter Middle";
@@ -450,7 +450,7 @@
 "uRl-iY-unG.title" = "Couper";
 
 /* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
-"vCt-Cm-ARK.title" = "Aller à Préférences Système → Sécurité et confidentialité → Confidentialité → Confidentialité → Accessibilité";
+"vCt-Cm-ARK.title" = "Aller à Préférences Système → Sécurité et confidentialité → Confidentialité → Accessibilité";
 
 /* Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "vKC-jM-MkH"; */
 "vKC-jM-MkH.title" = "Coller style";
@@ -497,7 +497,7 @@
 
 "Three finger tap with macOS three finger drag" = "Tapotement à trois doigts avec macOS trois doigts";
 
-"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Lorsque le glissement de trois doigts est activé et que trois doigts sont tapés, macOS exécute un clic que le milieu n'empêchera pas.";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Lorsque le glissement de trois doigts est activé et que trois doigts sont tapés, macOS exécute un clic que Middle n'empêchera pas.";
 
 "OK" = "OK";
 
