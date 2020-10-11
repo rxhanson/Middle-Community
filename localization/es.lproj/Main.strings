@@ -108,7 +108,7 @@ https://support.apple.com/es-es/HT204609";
 /* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
 "YvJ-SA-Bje.title" = "Ocultar el ícono en la barra de menús";
 
-/* Class = "NSMenuItem"; title = "None"; ObjectID = "ZFQ-xY-Fls"; */
+/* Class = "NSMenuItem"; title = "-"; ObjectID = "ZFQ-xY-Fls"; */
 "ZFQ-xY-Fls.title" = "Ninguno";
 
 /* Class = "NSMenuItem"; title = "One Finger Click in Center"; ObjectID = "aQ2-MA-F8F"; */
@@ -165,6 +165,6 @@ https://support.apple.com/es-es/HT204609";
 /* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
 "zdd-tk-qnC.title" = "Visor Touch";
 
-/* Class = "NSMenuItem"; title = "None"; ObjectID = "F5y-6x-Tuc"; */
+/* Class = "NSMenuItem"; title = "-"; ObjectID = "F5y-6x-Tuc"; */
 "F5y-6x-Tuc.title" = "Ninguno";
 

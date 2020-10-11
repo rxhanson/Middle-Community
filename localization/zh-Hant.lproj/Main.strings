@@ -1,163 +1,163 @@
 
 /* Class = "NSMenuItem"; title = "Viewer"; ObjectID = "0G3-TF-iyg"; */
-"0G3-TF-iyg.title" = "Visningsyta";
+"0G3-TF-iyg.title" = "檢視器";
 
 /* Class = "NSMenuItem"; title = "Middle"; ObjectID = "1Xt-HY-uBw"; */
 "1Xt-HY-uBw.title" = "Middle";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "4sb-4s-VLi"; */
-"4sb-4s-VLi.title" = "Avsluta Middle";
+"4sb-4s-VLi.title" = "退出Middle";
 
 /* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
-"575-o0-Etz.title" = "Ge åtkomst…";
+"575-o0-Etz.title" = "授權…";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "5Y9-2l-gqF"; */
-"5Y9-2l-gqF.title" = "Om";
+"5Y9-2l-gqF.title" = "關於...";
 
 /* Class = "NSMenuItem"; title = "About Middle"; ObjectID = "5kV-Vb-QxS"; */
-"5kV-Vb-QxS.title" = "Om Middle";
+"5kV-Vb-QxS.title" = "關於Middle”;
 
 /* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
-"6F1-Vv-ruT.title" = "Kontrollera Middle.app";
+"6F1-Vv-ruT.title" = "檢查Middle.app";
 
 /* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
-"6np-Zg-K5q.title" = "Sök efter uppdateringar automatiskt";
+"6np-Zg-K5q.title" = "自動檢查更新";
 
 /* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "6rO-9w-PdI"; */
-"6rO-9w-PdI.title" = "Öppna Systeminställningar";
+"6rO-9w-PdI.title" = "開啟系統偏好設定";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
-"BOF-NM-1cW.title" = "Inställningar…";
+"BOF-NM-1cW.title" = "偏好設定…";
 
 /* Class = "NSButtonCell"; title = "Launch on login"; ObjectID = "BbU-e2-Ypo"; */
-"BbU-e2-Ypo.title" = "Starta vid inloggning";
+"BbU-e2-Ypo.title" = "登陸時啟動";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
-"Ccz-CJ-ZRm.title" = "Trefingerstryck";
+"Ccz-CJ-ZRm.title" = "三指點擊";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
-"ExA-de-taD.title" = "Saknar tillgång att styra din dator";
+"ExA-de-taD.title" = "Middle未被授權控制你的電腦";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
-"FKE-Sm-Kum.title" = "Middle hjälp";
+"FKE-Sm-Kum.title" = "Middle 协助 ";
 
 /* Class = "NSMenuItem"; title = "Ignore frontmost.app"; ObjectID = "Hc4-Pm-7tu"; */
-"Hc4-Pm-7tu.title" = "Ignorera frontmost.app";
+"Hc4-Pm-7tu.title" = "無視frontmost.app";
 
 /* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
-"IQv-IB-iLA.title" = "Middle-inställningar";
+"IQv-IB-iLA.title" = "Middle 偏好設定";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
-"Kew-ib-Ihk.title" = "Släpp när vidrörning av trackpad upphör";
+"Kew-ib-Ihk.title" = "「觸摸板」被觸摸時釋放";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
-"L4H-fe-hjK.title" = "Om kryssrutan är inaktiv, klicka på hänglåset och skriv in ditt lösenord";
+"L4H-fe-hjK.title" = "如果該複選框被禁用，請點按掛鎖並輸入密碼";
 
 /* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
-"LQa-8U-aNp.title" = "Middle behöver ditt godkännande för att läsa händelser från touch-enheter.";
+"LQa-8U-aNp.title" = "Middle 需要您的許可才能從觸摸設備讀取事件";
 
 /* Class = "NSMenu"; title = "Viewer"; ObjectID = "Lvn-z3-2Z5"; */
-"Lvn-z3-2Z5.title" = "Visningsyta";
+"Lvn-z3-2Z5.title" = "檢視器";
 
-/* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
-"LxB-Qw-Mem.title" = "Avsluta Middle";
+/* Class = "NSMenuItem"; title = "Middle"; ObjectID = "LxB-Qw-Mem"; */
+"LxB-Qw-Mem.title" = "退出Middle";
 
 /* Class = "NSMenuItem"; title = "Purchase"; ObjectID = "MWV-Ks-lbA"; */
-"MWV-Ks-lbA.title" = "Köp";
+"MWV-Ks-lbA.title" = "購買";
 
 /* Class = "NSMenuItem"; title = "One Finger Force Touch"; ObjectID = "Mx0-0X-Uk5"; */
-"Mx0-0X-Uk5.title" = "Hårt klick med en finger";
+"Mx0-0X-Uk5.title" = “單指用力點按";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
-"NJ3-Fi-h4c.title" = "Om";
+"NJ3-Fi-h4c.title" = “關於”;
 
 /* Class = "NSWindow"; title = "Authorize Middle"; ObjectID = "OhY-VJ-Tcc"; */
-"OhY-VJ-Tcc.title" = "Ge åtkomst för Middle";
+"OhY-VJ-Tcc.title" = "授權Middle;
 
 /* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "Göm Middle";
+"Olw-nP-bQN.title" = "隱藏Middle”;
 
 /* Class = "NSTextFieldCell"; title = "Magic Mouse: "; ObjectID = "Qn1-tG-Pis"; */
 "Qn1-tG-Pis.title" = "Magic Mouse: ";
 
 /* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
-"S0p-oC-mLd.title" = "Hoppa till urval";
+"S0p-oC-mLd.title" = "跳轉到選擇";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
-"Tfy-3A-o4I.title" = "När gömd, starta om från Finder för att öppna menyn.";
+"Tfy-3A-o4I.title" = "隱藏後，請從Finder重新啟動以打開菜單";
 
 /* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
-"YvJ-SA-Bje.title" = "Göm menyfältsikon";
+"YvJ-SA-Bje.title" = "隱藏菜單欄圖標”;
 
-/* Class = "NSMenuItem"; title = "None"; ObjectID = "ZFQ-xY-Fls"; */
-"ZFQ-xY-Fls.title" = "Ingen";
+/* Class = "NSMenuItem"; title = "-"; ObjectID = "ZFQ-xY-Fls"; */
+"ZFQ-xY-Fls.title" = "-";
 
-/* Class = "NSMenuItem"; title = "None"; ObjectID = "F5y-6x-Tuc"; */
-"F5y-6x-Tuc.title" = "Ingen";
+/* Class = "NSMenuItem"; title = "-"; ObjectID = "F5y-6x-Tuc"; */
+"F5y-6x-Tuc.title" = "-";
 
 /* Class = "NSMenuItem"; title = "One Finger Click in Center"; ObjectID = "aQ2-MA-F8F"; */
-"aQ2-MA-F8F.title" = "Klick med ett finger i mitten";
+"aQ2-MA-F8F.title" = "單指點擊中央";
 
 /* Class = "NSTextFieldCell"; title = "Trackpad: "; ObjectID = "eDR-Aa-cTe"; */
-"eDR-Aa-cTe.title" = "Trackpad: ";
+"eDR-Aa-cTe.title" = "觸控板: ";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
-"fQ6-M2-dr6.title" = "Avsluta Middle";
+"fQ6-M2-dr6.title" = "退出Middle”;
 
 /* Class = "NSMenuItem"; title = "Launch viewer on start"; ObjectID = "gAS-dZ-pX7"; */
-"gAS-dZ-pX7.title" = "Visa visningsyta vid start";
+"gAS-dZ-pX7.title" = "啟動時啟動檢視器";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Använd fn och vänsterklick för att mittenklicka";
+"gGO-yQ-xCQ.title" = "請使用fn並以左鍵點按便能中鍵點按";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
-"gQZ-HU-YQU.title" = "Sök efter uppdateringar...";
+"gQZ-HU-YQU.title" = "檢查更新 …”;
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "ksi-rt-hhB"; */
-"ksi-rt-hhB.title" = "Inställningar…";
+"ksi-rt-hhB.title" = "偏好設定…";
 
 /* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
-"mCY-qk-eUa.title" = "Tvåfingerklick";
+"mCY-qk-eUa.title" = “兩指點按”;
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
-"p39-0h-R0h.title" = "Detta är användbart när mittenklick på trackpad används för att panorera i 3D-modelleringsapplikationer. Klicka med tre fingrar, panorera med ett finger och släpp genom att avlägsna fingret.";
+"p39-0h-R0h.title" = "在3D建模應用程序中使用觸控板中鍵點按來平移時，這個功能會很有用。你可以用三指點按來中鍵點按，用單指來平移，然後移除觸摸來釋放中鍵點按”;
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
-"q6q-GJ-liZ.title" = "Trefingersklick";
+"q6q-GJ-liZ.title" = “三指點按";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "qWt-7C-fnF"; */
-"qWt-7C-fnF.title" = "Trefingerstryck";
+"qWt-7C-fnF.title" = "三指輕點”;
 
 /* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
-"Bcb-Ja-zQs.title" = "Fyrfingerstryck";
+"Bcb-Ja-zQs.title" = “四指輕點";
 
 /* Class = "NSMenu"; title = "Middle"; ObjectID = "uQy-DD-JDr"; */
 "uQy-DD-JDr.title" = "Middle";
 
 /* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
-"vCt-Cm-ARK.title" = "Gå till Systeminställningar → Säkerhet och integritet → Integritet → Hjälpmedel";
+"vCt-Cm-ARK.title" = “請選擇「系統偏好設定」→ 「安全和隱私」→ 「隱私」 → 「輔助功能」";
 
 /* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
-"vZH-gr-9dX.title" = "Visa visningsyta…";
+"vZH-gr-9dX.title" = "顯示檢視器";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
-"wic-K8-WSX.title" = "Ge åtkomst för Middle";
+"wic-K8-WSX.title" = "授權Middle”;
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
-"wpr-3q-Mcd.title" = "Hjälp";
+"wpr-3q-Mcd.title" = “協助”;
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "yCX-6y-ayG"; */
-"yCX-6y-ayG.title" = "Trefingersklick";
+"yCX-6y-ayG.title" = "三指點按";
 
 /* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
-"zdd-tk-qnC.title" = "Touch-visningsyta";
+"zdd-tk-qnC.title" = "觸摸檢視器";
 
-"Conflict with macOS three finger drag" = "Konflikt med trefingersdragning i macOS";
+"Conflict with macOS three finger drag" = "與macOS的三指拖動有衝突";
 
-"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Trefingersklick-gesten kan hindra trefingersdragning i macOS från att fungera normalt. Överväg att välja en annan gest eller stänga av trefingersdragning i macOS Systeminställningar.";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "三指點按的手勢可能會阻止macOS三指拖動功能的正常運作。您可能會想在macOS系的「統偏好設定」中選擇其他手勢或禁用三指拖動。";
 
 "OK" = "OK";
 
-"Three finger tap with macOS three finger drag" = "Trefingerstryck med macOS trefingersdragning";
+"Three finger tap with macOS three finger drag" = "用macOS的三指拖動來三指點按";
 
-"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "När trefingersdragning är påslaget och tre fingrar trycker, verkställer macOS en klickning som Middle inte fångar.";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = “當三指拖動被啟動而你三指點按時，macOS會執行一次Middle不會阻止的點按。";
