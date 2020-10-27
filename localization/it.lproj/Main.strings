@@ -1,7 +1,7 @@
 
-"Conflict with macOS three finger drag" = "Conflitto con \"Trascina con tre dita\" di macOS";
+"Conflict with macOS three finger drag" = "Conflitto con \"Scorri con tre dita\" di macOS";
 
-"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Il gesto \"Clic con tre dita\" può impedire a \"Trascina con tre dita\" di macOS di funzionare correttamente. Seleziona un diverso gesto oppure disattiva \"Trascina con tre dita\" dalle Preferenze di Sistema. (*)
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "L'azione \"Clic con tre dita\" può impedire a \"Scorri con tre dita\" di macOS di funzionare correttamente. Seleziona un'azione diversa oppure disattiva \"Scorri con tre dita\" dalle Preferenze di Sistema. (*)
 
 
 (*) Preferenze di Sistema > Accessibilità > Mouse e trackpad
@@ -10,9 +10,9 @@
 https://support.apple.com/it-it/HT204609
 ";
 
-"Three finger tap with macOS three finger drag" = "Rubinetto a tre dita con macOS trascinamento a tre dita";
+"Three finger tap with macOS three finger drag" = "Tocca con tre dita insieme a scorri con tre dita di macOS";
 
-"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Quando si abilita il trascinamento con tre dita e si toccano tre dita, macOS esegue un clic che il mezzo non impedirà.";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Quando si abilita lo scorrimento con tre dita e si tocca con tre dita, macOS esegue un clic che Middle non può prevenire.";
 
 "OK" = "OK";
 
@@ -35,7 +35,7 @@ https://support.apple.com/it-it/HT204609
 "5kV-Vb-QxS.title" = "Informazioni su Middle";
 
 /* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
-"6F1-Vv-ruT.title" = "Verifica Middle";
+"6F1-Vv-ruT.title" = "Verifica Middle.app";
 
 /* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
 "6np-Zg-K5q.title" = "Verifica automaticamente gli aggiornamenti";
@@ -50,10 +50,10 @@ https://support.apple.com/it-it/HT204609
 "BbU-e2-Ypo.title" = "Avvia al login";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
-"Ccz-CJ-ZRm.title" = "Tocco con tre dita";
+"Ccz-CJ-ZRm.title" = "Tocca con tre dita";
 
 /* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
-"Bcb-Ja-zQs.title" = "Tocco con quattro dita";
+"Bcb-Ja-zQs.title" = "Tocca con quattro dita";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
 "ExA-de-taD.title" = "Non autorizzato a controllare il tuo Mac";
@@ -77,7 +77,7 @@ https://support.apple.com/it-it/HT204609
 "LQa-8U-aNp.title" = "Middle ha bisogno della tua autorizzazione per riconoscere gli eventi dai tuoi dispositivi touch.";
 
 /* Class = "NSMenu"; title = "Viewer"; ObjectID = "Lvn-z3-2Z5"; */
-"Lvn-z3-2Z5.title" = "Visore";
+"Lvn-z3-2Z5.title" = "Viewer";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
 "LxB-Qw-Mem.title" = "Esci da Middle";
@@ -104,7 +104,7 @@ https://support.apple.com/it-it/HT204609
 "S0p-oC-mLd.title" = "Vai alla selezione";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
-"Tfy-3A-o4I.title" = "Se Middle è nascosta, riaprila dal Finder per aprire il menu.";
+"Tfy-3A-o4I.title" = "Se Middle è nascosto, riaprilo dal Finder per aprire il menu.";
 
 /* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
 "YvJ-SA-Bje.title" = "Nascondi l'icona nella barra dei menu";
@@ -113,7 +113,7 @@ https://support.apple.com/it-it/HT204609
 "ZFQ-xY-Fls.title" = "-";
 
 /* Class = "NSMenuItem"; title = "One Finger Click in Center"; ObjectID = "aQ2-MA-F8F"; */
-"aQ2-MA-F8F.title" = "Clic centrale con un dito";
+"aQ2-MA-F8F.title" = "Fai clic centrale con un dito";
 
 /* Class = "NSTextFieldCell"; title = "Trackpad: "; ObjectID = "eDR-Aa-cTe"; */
 "eDR-Aa-cTe.title" = "Trackpad: ";
@@ -122,10 +122,10 @@ https://support.apple.com/it-it/HT204609
 "fQ6-M2-dr6.title" = "Esci da Middle";
 
 /* Class = "NSMenuItem"; title = "Launch viewer on start"; ObjectID = "gAS-dZ-pX7"; */
-"gAS-dZ-pX7.title" = "Apri il visore all'avvio";
+"gAS-dZ-pX7.title" = "Apri il viewer all'avvio";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Premi il tasto Fn e Clic sinistro per il Clic centrale";
+"gGO-yQ-xCQ.title" = "Premi il tasto Fn e fai clic sul lato sinistro per il clic centrale";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
 "gQZ-HU-YQU.title" = "Verifica aggiornamenti...";
@@ -134,16 +134,16 @@ https://support.apple.com/it-it/HT204609
 "ksi-rt-hhB.title" = "Preferenze...";
 
 /* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
-"mCY-qk-eUa.title" = "Clic con due dita";
+"mCY-qk-eUa.title" = "Fai clic con due dita";
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
 "p39-0h-R0h.title" = "Quest'azione è utile quando si usa il clic centrale del trackpad per effettuare una panoramica nelle applicazioni di modellazione 3D. Fai clic con tre dita, trascina con un dito e rilascia il trackpad.";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
-"q6q-GJ-liZ.title" = "Clic con tre dita";
+"q6q-GJ-liZ.title" = "Fai clic con tre dita";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "qWt-7C-fnF"; */
-"qWt-7C-fnF.title" = "Tocco con tre dita";
+"qWt-7C-fnF.title" = "Tocca con tre dita";
 
 /* Class = "NSMenu"; title = "Middle"; ObjectID = "uQy-DD-JDr"; */
 "uQy-DD-JDr.title" = "Middle";
@@ -152,7 +152,7 @@ https://support.apple.com/it-it/HT204609
 "vCt-Cm-ARK.title" = "Vai a Preferenze di Sistema → Sicurezza e Privacy → Privacy → Accessibilità";
 
 /* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
-"vZH-gr-9dX.title" = "Mostra visore...";
+"vZH-gr-9dX.title" = "Mostra viewer...";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
 "wic-K8-WSX.title" = "Autorizza Middle";
@@ -161,10 +161,10 @@ https://support.apple.com/it-it/HT204609
 "wpr-3q-Mcd.title" = "Aiuto";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "yCX-6y-ayG"; */
-"yCX-6y-ayG.title" = "Clic con tre dita";
+"yCX-6y-ayG.title" = "Fai clic con tre dita";
 
 /* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
-"zdd-tk-qnC.title" = "Visore Touch";
+"zdd-tk-qnC.title" = "Touch Viewer";
 
 /* Class = "NSMenuItem"; title = "-"; ObjectID = "F5y-6x-Tuc"; */
 "F5y-6x-Tuc.title" = "-";
