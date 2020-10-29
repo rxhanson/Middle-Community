@@ -1,7 +1,7 @@
 
 "Conflict with macOS three finger drag" = "Conflicto con \"Arrastrar con tres dedos\" de macOS";
 
-"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "El gesto \"Clic con tres dedos\" podría impedir al gesto \"Arrastrar con tres dedos\" de macOS de funcionar adecuadamente. Seleccionar otro gesto o desmarcar \"Activar arrastre\" en las Preferencias del Sistema. (*)
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "El gesto \"Clic con tres dedos\" podría impedir al gesto \"Arrastrar con tres dedos\" de macOS funcionar adecuadamente. Seleccionar otro gesto o desmarcar \"Activar arrastre\" en las Preferencias del Sistema. (*)
 
 
 (*) Preferencias del Sistema > Accesibilidad > Ratón y trackpad
@@ -9,9 +9,9 @@
 
 https://support.apple.com/es-lamr/HT204609";
 
-"Three finger tap with macOS three finger drag" = "Tres dedos de arrastre con MacOS tres dedos de arrastre";
+"Three finger tap with macOS three finger drag" = "Toque de tres dedos con arrastre con tres dedos de macOS";
 
-"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Cuando se habilita el arrastre de tres dedos y se dan tres golpecitos, el MacOS ejecuta un clic que el Medio no impedirá.";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Cuando se habilita el arrastre de tres dedos y se dan tres golpecitos, el MacOS ejecuta un clic que el Middle no impedirá.";
 
 "OK" = "OK";
 
@@ -25,7 +25,7 @@ https://support.apple.com/es-lamr/HT204609";
 "4sb-4s-VLi.title" = "Salir de Middle";
 
 /* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
-"575-o0-Etz.title" = "Permite...";
+"575-o0-Etz.title" = "Autorizar...";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "5Y9-2l-gqF"; */
 "5Y9-2l-gqF.title" = "Acerca de";
@@ -34,7 +34,7 @@ https://support.apple.com/es-lamr/HT204609";
 "5kV-Vb-QxS.title" = "Acerca de Middle";
 
 /* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
-"6F1-Vv-ruT.title" = "Verifica Middle";
+"6F1-Vv-ruT.title" = "Verificar Middle";
 
 /* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
 "6np-Zg-K5q.title" = "Buscar actualizaciones automáticamente";
@@ -52,7 +52,7 @@ https://support.apple.com/es-lamr/HT204609";
 "Ccz-CJ-ZRm.title" = "Toque con tres dedos";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
-"ExA-de-taD.title" = "Denegado a controlar tu Mac";
+"ExA-de-taD.title" = "Acceso a controlar tu Mac denegado";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
 "FKE-Sm-Kum.title" = "Ayuda de Middle";
@@ -64,13 +64,13 @@ https://support.apple.com/es-lamr/HT204609";
 "IQv-IB-iLA.title" = "Preferencias de Middle";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
-"Kew-ib-Ihk.title" = "Soltar cuando quites el toque sobre el trackpad";
+"Kew-ib-Ihk.title" = "Soltar al quitar el toque sobre el trackpad";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
 "L4H-fe-hjK.title" = "Si la casilla está deseleccionada, haz clic en el candado, ingresa la contraseña del administrador y concede permiso a Middle.";
 
 /* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
-"LQa-8U-aNp.title" = "Middle necesita tu permiso para reconocer a los eventos de tus dispositivos touch.";
+"LQa-8U-aNp.title" = "Middle necesita tu permiso para recibir a los eventos de tus dispositivos touch.";
 
 /* Class = "NSMenu"; title = "Viewer"; ObjectID = "Lvn-z3-2Z5"; */
 "Lvn-z3-2Z5.title" = "Visor";
@@ -154,7 +154,7 @@ https://support.apple.com/es-lamr/HT204609";
 "vCt-Cm-ARK.title" = "Ir a Preferencias del Sistema → Seguridad y privacidad → Privacidad → Accesibilidad";
 
 /* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
-"vZH-gr-9dX.title" = "Muestra visor...";
+"vZH-gr-9dX.title" = "Mostrar visor...";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
 "wic-K8-WSX.title" = "Concede permiso a Middle";
