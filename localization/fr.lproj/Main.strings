@@ -9,10 +9,10 @@
 "1b7-l0-nxx.title" = "Rechercher";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "1tx-W0-xDw"; */
-"1tx-W0-xDw.title" = "Abaisser";
+"1tx-W0-xDw.title" = "Descendre";
 
 /* Class = "NSMenuItem"; title = "Raise"; ObjectID = "2h7-ER-AoG"; */
-"2h7-ER-AoG.title" = "Élever";
+"2h7-ER-AoG.title" = "Remonter";
 
 /* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC"; */
 "2oI-Rn-ZJC.title" = "Transformations";
@@ -105,7 +105,7 @@
 "Dv1-io-Yv7.title" = "Orthographe et grammaire";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
-"ExA-de-taD.title" = "Non autorisé à contrôler votre ordinateur";
+"ExA-de-taD.title" = "Contrôle de l’ordinateur non  autorisé";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "Aide";
@@ -165,7 +165,7 @@
 "J5U-5w-g23.title" = "Justifier";
 
 /* Class = "NSMenuItem"; title = "Use None"; ObjectID = "J7y-lM-qPV"; */
-"J7y-lM-qPV.title" = "Utiliser Aucune";
+"J7y-lM-qPV.title" = "Utiliser aucune";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "KaW-ft-85H"; */
 "KaW-ft-85H.title" = "Retour à l'enregistré";
@@ -174,7 +174,7 @@
 "Kd2-mp-pUS.title" = "Tout afficher";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
-"L4H-fe-hjK.title" = "Si la case est désactivée, cliquez sur le cadenas et entrez votre mot de passe.";
+"L4H-fe-hjK.title" = "Si l’option est désactivée, cliquez sur le cadenas et entrez votre mot de passe.";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
 "LE2-aR-0XJ.title" = "Tout ramener au premier plan";
@@ -183,7 +183,7 @@
 "LQa-8U-aNp.title" = "Middle a besoin de votre permission pour interpréter les événements de vos appareils tactiles.";
 
 /* Class = "NSMenuItem"; title = "Paste Ruler"; ObjectID = "LVM-kO-fVI"; */
-"LVM-kO-fVI.title" = "Coller règle";
+"LVM-kO-fVI.title" = "Coller la règle";
 
 /* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "Lbh-J2-qVU"; */
 "Lbh-J2-qVU.title" = "\tDe gauche à droite";
@@ -333,7 +333,7 @@
 "c8a-y6-VQd.title" = "Transformations";
 
 /* Class = "NSMenuItem"; title = "Use None"; ObjectID = "cDB-IK-hbR"; */
-"cDB-IK-hbR.title" = "Utiliser Aucune";
+"cDB-IK-hbR.title" = "Utiliser aucune";
 
 /* Class = "NSMenuItem"; title = "Selection"; ObjectID = "cqv-fj-IhA"; */
 "cqv-fj-IhA.title" = "Sélection";

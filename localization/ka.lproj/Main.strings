@@ -1,0 +1,166 @@
+
+/* Class = "NSMenuItem"; title = "Debug"; ObjectID = "0G3-TF-iyg"; */
+"0G3-TF-iyg.title" = "დებაგი";
+
+/* Class = "NSMenuItem"; title = "Middle"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Middle";
+
+/* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "გათიშვა";
+
+/* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
+"575-o0-Etz.title" = "ავტორიზაცია…";
+
+/* Class = "NSMenuItem"; title = "About"; ObjectID = "5Y9-2l-gqF"; */
+"5Y9-2l-gqF.title" = "შესახებ";
+
+/* Class = "NSMenuItem"; title = "About Middle"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "პროგრამის შესახებ";
+
+/* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
+"6F1-Vv-ruT.title" = "Middle.app შემოწმება";
+
+/* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
+"6np-Zg-K5q.title" = "განახლებაზე ავტომატური შემოწმება";
+
+/* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "6rO-9w-PdI"; */
+"6rO-9w-PdI.title" = "სისტემური პარამეტრების გახსნა";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "პარამეტრები…";
+
+/* Class = "NSButtonCell"; title = "Launch on login"; ObjectID = "BbU-e2-Ypo"; */
+"BbU-e2-Ypo.title" = "ჩაირთოს Middle MacOS - ის ჩართვისას";
+
+/* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
+"Ccz-CJ-ZRm.title" = "სამი თითით შეხება";
+
+/* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
+"ExA-de-taD.title" = "გაიარეთ ავტორიზაცია კომპიუტერის სამართავად";
+
+/* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "დახმარება";
+
+/* Class = "NSMenuItem"; title = "Ignore frontmost.app"; ObjectID = "Hc4-Pm-7tu"; */
+"Hc4-Pm-7tu.title" = "frontmost.app - ის იგნორირება";
+
+/* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "Middle პარამეტრები";
+
+/* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
+"Kew-ib-Ihk.title" = "შეაჩერეთ ტრეკპადზე შეხება, რომ შუა დაწკაპუნება გაათავისუფლოთ";
+
+/* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
+"L4H-fe-hjK.title" = "თუ სანიშნი გათიშულია, დაკლიკეთ ბოქლომზე და შეიყვანეთ პაროლი";
+
+/* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
+"LQa-8U-aNp.title" = "Middle ითხოვს ნებართვას  მოვლენების წასაკითხად თქვენს სენსორულ მოწყობილობაზე.";
+
+/* Class = "NSMenu"; title = "Viewer"; ObjectID = "Lvn-z3-2Z5"; */
+"Lvn-z3-2Z5.title" = "დამთვალიერებელი";
+
+/* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
+"LxB-Qw-Mem.title" = "გათიშვა";
+
+/* Class = "NSMenuItem"; title = "Purchase"; ObjectID = "MWV-Ks-lbA"; */
+"MWV-Ks-lbA.title" = "ყიდვა";
+
+/* Class = "NSMenuItem"; title = "One Finger Force Touch"; ObjectID = "Mx0-0X-Uk5"; */
+"Mx0-0X-Uk5.title" = "ერთი თითით სწრაფი შეხება";
+
+/* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
+"NJ3-Fi-h4c.title" = "შესახებ";
+
+/* Class = "NSWindow"; title = "Authorize Middle"; ObjectID = "OhY-VJ-Tcc"; */
+"OhY-VJ-Tcc.title" = "ავტორიზაცია";
+
+/* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "დამალვა";
+
+/* Class = "NSTextFieldCell"; title = "Magic Mouse: "; ObjectID = "Qn1-tG-Pis"; */
+"Qn1-tG-Pis.title" = "Magic Mouse: ";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
+"S0p-oC-mLd.title" = "მონიშნულზე გადასვლა";
+
+/* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
+"Tfy-3A-o4I.title" = "თუ ხატულა დამალულია ჩართეთ აპლიკაცია Finder - დან.";
+
+/* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
+"YvJ-SA-Bje.title" = "მენიუს ხატულას დამალვა";
+
+/* Class = "NSMenuItem"; title = "-"; ObjectID = "ZFQ-xY-Fls"; */
+"ZFQ-xY-Fls.title" = "-";
+
+/* Class = "NSMenuItem"; title = "-"; ObjectID = "F5y-6x-Tuc"; */
+"F5y-6x-Tuc.title" = "-";
+
+/* Class = "NSMenuItem"; title = "One Finger Click in Center"; ObjectID = "aQ2-MA-F8F"; */
+"aQ2-MA-F8F.title" = "ცენტრში ერთი თითით დაკლიკვა";
+
+/* Class = "NSTextFieldCell"; title = "Trackpad: "; ObjectID = "eDR-Aa-cTe"; */
+"eDR-Aa-cTe.title" = "Trackpad: ";
+
+/* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
+"fQ6-M2-dr6.title" = "გათიშვა";
+
+/* Class = "NSMenuItem"; title = "Launch viewer on start"; ObjectID = "gAS-dZ-pX7"; */
+"gAS-dZ-pX7.title" = "დამთვალიერებელის ჩართვა MacOS-ის ჩართვისას";
+
+/* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
+"gGO-yQ-xCQ.title" = "გამოიყენეთ fn და მარცხენა კლიკი შუა კლიკისათვის";
+
+/* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
+"gQZ-HU-YQU.title" = "განახლებაზე შემოწმება...";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "ksi-rt-hhB"; */
+"ksi-rt-hhB.title" = "პარამეტრები…";
+
+/* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
+"mCY-qk-eUa.title" = "ორი თითით დაკლიკვა";
+
+/* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
+"p39-0h-R0h.title" = " ეს მოსახერხებელია ტრეკპადის შუა ღილაკის გამოყენებისას პანორამირებისთვის 3D აპლიკაციებში. დააჭირეთ სამი თითი, განაგრძეთ პანორამირება ერთი თითით.";
+
+/* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
+"q6q-GJ-liZ.title" = "სამი თითით დაკლიკვა";
+
+/* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "qWt-7C-fnF"; */
+"qWt-7C-fnF.title" = "სამი თითით შეხება";
+
+/* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
+"Bcb-Ja-zQs.title" = "ოთხი თითით შეხება";
+
+/* Class = "NSMenu"; title = "Middle"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Middle";
+
+/* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
+"vCt-Cm-ARK.title" = "შედით System Preferences  → Security & Privacy → Privacy → Accessibility";
+
+/* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
+"vZH-gr-9dX.title" = "დამთვალიერებლის გამოჩენა";
+
+/* Class = "NSMenuItem"; title = "Delay Relaunch After Wake"; ObjectID = "Rs1-Wo-FZp"; */
+"Rs1-Wo-FZp.title" = "დაყოვნებით გაშვება სისტემის ჩართვისას";
+
+/* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
+"wic-K8-WSX.title" = "ავტორიზაცია";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "დახმარება";
+
+/* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "yCX-6y-ayG"; */
+"yCX-6y-ayG.title" = "სამი თითით დაკლიკვა";
+
+/* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
+"zdd-tk-qnC.title" = "Touch -ის დამთვალიერებელი";
+
+"Conflict with macOS three finger drag" = "კონფლიქტი MacOS -ის სამი თითით გადატანის ფუნქციასთან";
+
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "სამი თითით კლიკმა შეიძლება ხელი შეუშალოს MacOS-ის სამი თითით გადატანის ფუნქციის გამართულ მუშაობას. შესაძლებელია სხვა ჟესტის არჩევა ან MacOS-ის პარამეტრებში სამი თითით გადატანის ფუნქციის გათიშვა.";
+
+"OK" = "კარგი";
+
+"Three finger tap with macOS three finger drag" = "სამი თითით შეხება macOS -ის სამი თითით გადატანასთან ერთად.";
+
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "როცა ჩართულია სამი თითით გადატანის ფუნქცია და სამი თითით შეეხებით, macOS შეასრულებს კლიკს, რომელსაც Middle   ვერ შეუშლის ხელს.";
