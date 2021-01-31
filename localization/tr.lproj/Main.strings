@@ -33,28 +33,28 @@
 "BbU-e2-Ypo.title" = "Açılışta Başlat";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
-"Ccz-CJ-ZRm.title" = "Üç Parmakla Dokunma";
+"Ccz-CJ-ZRm.title" = "Üç Parmakla Dokun";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
-"ExA-de-taD.title" = "Bilgisayarınızı Kontrol Etmeye Yetkili Değil";
+"ExA-de-taD.title" = "Bilgisayarınızı Kontrol Etmek için Yetkilendirilmemiş";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
 "FKE-Sm-Kum.title" = "Middle Yardım";
 
 /* Class = "NSMenuItem"; title = "Ignore frontmost.app"; ObjectID = "Hc4-Pm-7tu"; */
-"Hc4-Pm-7tu.title" = "frontmost.app Yoksay";
+"Hc4-Pm-7tu.title" = "frontmost.app'ı Yoksay";
 
 /* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
 "IQv-IB-iLA.title" = "Middle Tercihler";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
-"Kew-ib-Ihk.title" = "İzleme paneli dokunuşları kaldırıldığında bırakın";
+"Kew-ib-Ihk.title" = "İzleme dörtgeninden dokunuş kalktığında bırak";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
-"L4H-fe-hjK.title" = "Onay kutusu devre dışıysa, asma kilidi tıklayın ve şifrenizi girin";
+"L4H-fe-hjK.title" = "Onay kutusu devre dışıysa, kilit simgesine tıklayın ve şifrenizi girin";
 
 /* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
-"LQa-8U-aNp.title" = "Dokunmatik cihazlarınızdan olayları okumak için Middle'ın izninize ihtiyacı var.";
+"LQa-8U-aNp.title" = "Dokunmatik cihazları kontrol edebilmek için Middle'ın izninize ihtiyacı var.";
 
 /* Class = "NSMenu"; title = "Viewer"; ObjectID = "Lvn-z3-2Z5"; */
 "Lvn-z3-2Z5.title" = "Görüntüleyici";
@@ -96,10 +96,10 @@
 "F5y-6x-Tuc.title" = "-";
 
 /* Class = "NSMenuItem"; title = "One Finger Click in Center"; ObjectID = "aQ2-MA-F8F"; */
-"aQ2-MA-F8F.title" = "Merkezde Tek Parmak Tıklaması";
+"aQ2-MA-F8F.title" = "Tek Parmakla Merkeze Tıkla";
 
 /* Class = "NSTextFieldCell"; title = "Trackpad: "; ObjectID = "eDR-Aa-cTe"; */
-"eDR-Aa-cTe.title" = "Dokunma paneli: ";
+"eDR-Aa-cTe.title" = "İzleme Dörtgeni: ";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
 "fQ6-M2-dr6.title" = "Middle'dan Çık";
@@ -108,7 +108,7 @@
 "gAS-dZ-pX7.title" = "Görüntüleyiciyi başlangıçta başlat";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Middle'a tıklamak için fn ve sol tıklamayı kullanın";
+"gGO-yQ-xCQ.title" = "Orta tuş ile tıklamak için fn ve sol tıklamayı kullanın";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
 "gQZ-HU-YQU.title" = "Güncellemeleri kontrol et...";
@@ -120,7 +120,7 @@
 "mCY-qk-eUa.title" = "İki Parmakla Tıklama";
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
-"p39-0h-R0h.title" = "Bu, 3B modelleme uygulamalarında kaydırma yapmak için izleme dörtgeni orta tıklamasını kullanırken yararlıdır. Üç parmağınızla tıklayın, bir parmağınızla kaydırın ve dokunuşları kaldırarak bırakın.";
+"p39-0h-R0h.title" = "Bu, 3B modelleme uygulamalarında kaydırma yapmak için izleme dörtgeni orta tıklamasını kullanırken yararlıdır. Üç parmağınızla tıklayın, bir parmağınızla kaydırın ve dokunmayı keserek bırakın.";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
 "q6q-GJ-liZ.title" = "Üç Parmakla Tıklama";
@@ -150,7 +150,7 @@
 "yCX-6y-ayG.title" = "Üç Parmak Tıklaması";
 
 /* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
-"zdd-tk-qnC.title" = "Görüntüleyiciye dokunun";
+"zdd-tk-qnC.title" = "Görüntüleyiciye Dokun";
 
 "Conflict with macOS three finger drag" = "MacOS üç parmakla sürükleme ile çakışma";
 
@@ -158,6 +158,6 @@
 
 "OK" = "OK";
 
-"Three finger tap with macOS three finger drag" = "MacOS ile üç parmakla dokunma üç parmakla sürükleme";
+"Three finger tap with macOS three finger drag" = "MacOS üç parmakla sürükle ile üç parmakla dokunuş";
 
 "When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Üç parmakla sürükleme etkinleştirildiğinde ve üç parmakla dokunulduğunda macOS, Uygulamanın engellemeyeceği bir tıklama yürütür.";
