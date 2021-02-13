@@ -56,8 +56,8 @@
 /* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
 "LQa-8U-aNp.title" = "Middle needs your permission to read events from your touch devices.";
 
-/* Class = "NSMenu"; title = "Viewer"; ObjectID = "Lvn-z3-2Z5"; */
-"Lvn-z3-2Z5.title" = "Viewer";
+/* Class = "NSMenu"; title = "Debug"; ObjectID = "Lvn-z3-2Z5"; */
+"Lvn-z3-2Z5.title" = "Debug";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
 "LxB-Qw-Mem.title" = "Quit Middle";
@@ -79,9 +79,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Magic Mouse: "; ObjectID = "Qn1-tG-Pis"; */
 "Qn1-tG-Pis.title" = "Magic Mouse: ";
-
-/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
-"S0p-oC-mLd.title" = "Jump to Selection";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
 "Tfy-3A-o4I.title" = "When hidden, relaunch from Finder to open the menu.";
