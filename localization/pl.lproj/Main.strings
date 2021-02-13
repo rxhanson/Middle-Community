@@ -56,8 +56,8 @@
 /* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
 "LQa-8U-aNp.title" = "Middle wymaga zezwolenia, aby odczytywać akcje z urządzeń wprowadzania dotykowego.";
 
-/* Class = "NSMenu"; title = "Viewer"; ObjectID = "Lvn-z3-2Z5"; */
-"Lvn-z3-2Z5.title" = "Viewer";
+/* Class = "NSMenu"; title = "Debug"; ObjectID = "Lvn-z3-2Z5"; */
+"Lvn-z3-2Z5.title" = "Debug";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
 "LxB-Qw-Mem.title" = "Zamknij Middle";
