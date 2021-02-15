@@ -1,6 +1,6 @@
 
 /* Class = "NSMenuItem"; title = "Debug"; ObjectID = "0G3-TF-iyg"; */
-"0G3-TF-iyg.title" = "Debug";
+"0G3-TF-iyg.title" = "Debuguj";
 
 /* Class = "NSMenuItem"; title = "Middle"; ObjectID = "1Xt-HY-uBw"; */
 "1Xt-HY-uBw.title" = "Middle";
@@ -15,16 +15,16 @@
 "5Y9-2l-gqF.title" = "O";
 
 /* Class = "NSMenuItem"; title = "About Middle"; ObjectID = "5kV-Vb-QxS"; */
-"5kV-Vb-QxS.title" = "O aplikacji Middle";
+"5kV-Vb-QxS.title" = "O aplikacji";
 
 /* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
 "6F1-Vv-ruT.title" = "Sprawdź Middle.app";
 
 /* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
-"6np-Zg-K5q.title" = "Sprawdzaj aktualizacje automatycznie";
+"6np-Zg-K5q.title" = "Automatycznie sprawdzaj aktualizacje";
 
 /* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "6rO-9w-PdI"; */
-"6rO-9w-PdI.title" = "Otwórz Ustawienia Systemu";
+"6rO-9w-PdI.title" = "Otwórz Preferencje systemowe";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
 "BOF-NM-1cW.title" = "Ustawienia…";
@@ -33,10 +33,10 @@
 "BbU-e2-Ypo.title" = "Włączaj przy zalogowaniu";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
-"Ccz-CJ-ZRm.title" = "Tapnięcie trzema palcami";
+"Ccz-CJ-ZRm.title" = "Tapnij trzema palcami";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
-"ExA-de-taD.title" = "Brak autoryzacji do kontroli komputera";
+"ExA-de-taD.title" = "Brak autoryzacji do kontrolowania komputera";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
 "FKE-Sm-Kum.title" = "Pomoc Middle";
@@ -45,19 +45,19 @@
 "Hc4-Pm-7tu.title" = "Ignoruj frontmost.app";
 
 /* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
-"IQv-IB-iLA.title" = "Ustawienia Middle";
+"IQv-IB-iLA.title" = "Ustawienia aplikacji";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
-"Kew-ib-Ihk.title" = "Zwolnij, gdy gładzik przestał być dotykany";
+"Kew-ib-Ihk.title" = "Zwolnij, gdy gładzik przestał być dotykany";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
-"L4H-fe-hjK.title" = "Jeżeli pole wyboru jest nieaktywne, naciśnij kłódkę i wpisz swoje hasło";
+"L4H-fe-hjK.title" = "Jeżeli pole wyboru jest nieaktywne, naciśnij kłódkę i potwierdź swoim hasłem użytkownika";
 
 /* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
-"LQa-8U-aNp.title" = "Middle wymaga zezwolenia, aby odczytywać akcje z urządzeń wprowadzania dotykowego.";
+"LQa-8U-aNp.title" = "Middle wymaga zezwolenia na odczytywanie akcji z urządzeń wprowadzania dotykowego.";
 
 /* Class = "NSMenu"; title = "Debug"; ObjectID = "Lvn-z3-2Z5"; */
-"Lvn-z3-2Z5.title" = "Debug";
+"Lvn-z3-2Z5.title" = "Debuguj";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
 "LxB-Qw-Mem.title" = "Zamknij Middle";
@@ -81,13 +81,13 @@
 "Qn1-tG-Pis.title" = "Magic Mouse: ";
 
 /* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
-"S0p-oC-mLd.title" = "Przeskocz do sekcji";
+"S0p-oC-mLd.title" = "Przejdź do wyboru";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
-"Tfy-3A-o4I.title" = "Kiedy ukryta, otwórz Middle ponownie z folderu Aplikacji, aby wyświetlić menu";
+"Tfy-3A-o4I.title" = "Kiedy ukryta, otwórz Middle ponownie z folderu Aplikacji, aby wyświetlić ustawień";
 
 /* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
-"YvJ-SA-Bje.title" = "Ukryj ikonę w Pasku Menu";
+"YvJ-SA-Bje.title" = "Ukryj ikonę na Pasku Menu";
 
 /* Class = "NSMenuItem"; title = "-"; ObjectID = "ZFQ-xY-Fls"; */
 "ZFQ-xY-Fls.title" = "-";
@@ -105,13 +105,13 @@
 "fQ6-M2-dr6.title" = "Zamknij Middle";
 
 /* Class = "NSMenuItem"; title = "Launch viewer on start"; ObjectID = "gAS-dZ-pX7"; */
-"gAS-dZ-pX7.title" = "Launch viewer on start";
+"gAS-dZ-pX7.title" = "Uruchamiaj sprawdzanie dotyku przy starcie aplikacji"; // On app start
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Użyj klawisza fn i lewego przycisku, aby wykonać środkowe naciśnięcie";
+"gGO-yQ-xCQ.title" = "Użyj klawisza fn i lewego przycisku, aby wykonać akcę środkowego naciśnięcia";
 
-/* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
-"gQZ-HU-YQU.title" = "Sprawdź aktualizacje...";
+/* Class = "NSMenuItem"; title = "Check for Updates…"; ObjectID = "gQZ-HU-YQU"; */
+"gQZ-HU-YQU.title" = "Sprawdź aktualizacje…";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "ksi-rt-hhB"; */
 "ksi-rt-hhB.title" = "Ustawienia…";
@@ -120,7 +120,7 @@
 "mCY-qk-eUa.title" = "Naciśnij dwoma palcami";
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
-"p39-0h-R0h.title" = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches.";
+"p39-0h-R0h.title" = "Przydatne, gdy gładzik wykorzystywany jest w aplikacjach do modelowania 3D. Naciśnij trzema palcami by wywołać akcję kliknięcia kółkiem myszki, a następnie obracaj obraz dotykając jednym palcem. Zwolnij palec, aby zatrzymać akcję.";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
 "q6q-GJ-liZ.title" = "Naciśnij trzema palcami";
@@ -135,10 +135,10 @@
 "uQy-DD-JDr.title" = "Middle";
 
 /* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
-"vCt-Cm-ARK.title" = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility";
+"vCt-Cm-ARK.title" = "Idź do Preferencji Systemowych → Bezpieczeństwo i Prywatność → Prywatność → Dostępność";
 
 /* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
-"vZH-gr-9dX.title" = "Show viewer…";
+"vZH-gr-9dX.title" = "Otwórz sprawdzanie dotyku…";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
 "wic-K8-WSX.title" = "Autoryzuj Middle";
@@ -147,17 +147,21 @@
 "wpr-3q-Mcd.title" = "Pomoc";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "yCX-6y-ayG"; */
-"yCX-6y-ayG.title" = "Nacisnij trzema palcami";
+"yCX-6y-ayG.title" = "Naciśnij trzema palcami";
 
 /* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
-"zdd-tk-qnC.title" = "Touch Viewer";
+"zdd-tk-qnC.title" = "Sprawdzanie dotyku";
 
-"Conflict with macOS three finger drag" = "Conflict with macOS three finger drag";
+"Conflict with macOS three finger drag" = "Konflikt z systemową funkcją Przeciągania trzema palcami";
 
-"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences.";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Wybrana opcja Kliknięcia trzema palcami może spowodować nieprawidłowe działanie systemowej funkcji Przeciągania trzema palcami. Zalecamy wybór innej akcji w Middle lub wyłączenie funkcji Przeciągania trzema palcami w ustawieniach Dostępności systemu.";
 
 "OK" = "OK";
 
-"Three finger tap with macOS three finger drag" = "Three finger tap with macOS three finger drag";
+"Three finger tap with macOS three finger drag" = "Systemowa funkcja Przeciągania trzema palcami, a wybrana akcja Tapnięcia trzema palcami";
 
-"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "When three finger drag is enabaled and three fingers are tapped, macOS executes a click that Middle will not prevent.";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Gdy aktywowana jest funkcja Przeciągania trzema palcami i zostanie wykonana akcja Tapnięcia trzema palcami, System wykona kliknięcie, którego aplikacja Middle nie będzie mogła anulować.";
+
+"Viewing windows will be displayed for each device when touches are deteced on that device" = "Okna sprawdzania dotyku zostaną wyświetlone dla każdego urządzenia, na którym zostanie wykryty dotyk"
+
+"Delay Relaunch after Wake" = "Opóźnij uruchomienie po wybudzeniu urządzenia"

@@ -14,6 +14,5 @@ Translations can also be emailed to support@middleclick.app instead of updated v
 
 Translations that haven't been touched by a human include:
 * Portuguese (Brazil)
-* Polish
 
 Translations for any languages that aren't localized at all are also welcome.
