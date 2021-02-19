@@ -17,7 +17,7 @@ Translations that haven't been touched by a human include:
 
 Translations for any languages that aren't localized at all are also welcome.
 
-##Translation FAQ
+## Translation FAQ
 
 1. What is the Viewer and where is it in the app?
 
