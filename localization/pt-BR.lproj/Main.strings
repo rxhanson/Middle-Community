@@ -24,7 +24,7 @@
 "3Om-Ey-2VK.title" = "Usar Padrão";
 
 /* Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH"; */
-"3rS-ZA-NoH.title" = "Discurso";
+"3rS-ZA-NoH.title" = "Fala";
 
 /* Class = "NSMenuItem"; title = "Tighten"; ObjectID = "46P-cB-AYj"; */
 "46P-cB-AYj.title" = "Apertar";
@@ -60,22 +60,22 @@
 "6dh-zS-Vam.title" = "Refazer";
 
 /* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
-"6np-Zg-K5q.title" = "Verifique se há atualizações automaticamente";
+"6np-Zg-K5q.title" = "Verificar atualizações automaticamente";
 
 /* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "6rO-9w-PdI"; */
-"6rO-9w-PdI.title" = "Preferências de Sistema Aberto";
+"6rO-9w-PdI.title" = "Abrir Preferências de Sistema";
 
 /* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "78Y-hA-62v"; */
 "78Y-hA-62v.title" = "Correção automática da ortografia";
 
 /* Class = "NSMenu"; title = "Writing Direction"; ObjectID = "8mr-sm-Yjd"; */
-"8mr-sm-Yjd.title" = "Direção de Redação";
+"8mr-sm-Yjd.title" = "Direção do texto";
 
 /* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "9ic-FL-obx"; */
 "9ic-FL-obx.title" = "Substituições";
 
 /* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "9yt-4B-nSM"; */
-"9yt-4B-nSM.title" = "Cópia/Colar Inteligente";
+"9yt-4B-nSM.title" = "Copiar/Colar Inteligente";
 
 /* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
 "AYu-sK-qS6.title" = "Menu principal";
@@ -93,7 +93,7 @@
 "Bw7-FT-i3A.title" = "Salvar como…";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
-"Ccz-CJ-ZRm.title" = "Três Finger Tap";
+"Ccz-CJ-ZRm.title" = "Toque de três dedos";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
 "DVo-aG-piG.title" = "Fechar";
@@ -105,13 +105,13 @@
 "ExA-de-taD.title" = "Não autorizado a controlar o seu computador";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
-"F2S-fz-NVQ.title" = "Ajudar";
+"F2S-fz-NVQ.title" = "Ajuda";
 
 /* Class = "NSMenuItem"; title = "-"; ObjectID = "F5y-6x-Tuc"; */
 "F5y-6x-Tuc.title" = "-";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
-"FKE-Sm-Kum.title" = "Middle Ajuda";
+"FKE-Sm-Kum.title" = "Ajuda do Middle";
 
 /* Class = "NSMenuItem"; title = "Text"; ObjectID = "Fal-I4-PZk"; */
 "Fal-I4-PZk.title" = "Texto";
@@ -123,16 +123,16 @@
 "GB9-OM-e27.title" = "Negrito";
 
 /* Class = "NSMenu"; title = "Format"; ObjectID = "GEO-Iw-cKr"; */
-"GEO-Iw-cKr.title" = "Formato";
+"GEO-Iw-cKr.title" = "Formatar";
 
 /* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "GUa-eO-cwY"; */
 "GUa-eO-cwY.title" = "Usar Padrão";
 
 /* Class = "NSMenuItem"; title = "Font"; ObjectID = "Gi5-1S-RQB"; */
-"Gi5-1S-RQB.title" = "Tipo de letra";
+"Gi5-1S-RQB.title" = "Fonte";
 
 /* Class = "NSMenuItem"; title = "Writing Direction"; ObjectID = "H1b-Si-o9J"; */
-"H1b-Si-o9J.title" = "Direção de Redação";
+"H1b-Si-o9J.title" = "Direção do texto";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
 "H8h-7b-M4v.title" = "Ver";
@@ -153,49 +153,49 @@
 "I0S-gh-46l.title" = "Assinatura";
 
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "IAo-SY-fd9"; */
-"IAo-SY-fd9.title" = "Abre…";
+"IAo-SY-fd9.title" = "Abrir…";
 
 /* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
-"IQv-IB-iLA.title" = "Middle Preferências";
+"IQv-IB-iLA.title" = "Preferências do Middle";
 
 /* Class = "NSMenuItem"; title = "Justify"; ObjectID = "J5U-5w-g23"; */
 "J5U-5w-g23.title" = "Justificar";
 
 /* Class = "NSMenuItem"; title = "Use None"; ObjectID = "J7y-lM-qPV"; */
-"J7y-lM-qPV.title" = "Utilização Nenhum";
+"J7y-lM-qPV.title" = "Não usar nenhum";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "KaW-ft-85H"; */
-"KaW-ft-85H.title" = "Reverter para Guardado";
+"KaW-ft-85H.title" = "Reverter para salvo";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
 "Kd2-mp-pUS.title" = "Mostrar todos";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
-"L4H-fe-hjK.title" = "Se a caixa de verificação estiver desactivada, clique no cadeado e introduza a sua palavra-passe";
+"L4H-fe-hjK.title" = "Se a checkbox estiver desmarcada, clique no cadeado e coloque sua senha";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
 "LE2-aR-0XJ.title" = "Traga tudo para a frente";
 
 /* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
-"LQa-8U-aNp.title" = "Middle Precisa da tua permissão para ler eventos dos teus dispositivos tácteis.";
+"LQa-8U-aNp.title" = "Middle Precisa da sua permissão para ler eventos dos teus dispositivos touch.";
 
 /* Class = "NSMenuItem"; title = "Paste Ruler"; ObjectID = "LVM-kO-fVI"; */
-"LVM-kO-fVI.title" = "Pasta Régua";
+"LVM-kO-fVI.title" = "Régua de colar";
 
 /* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "Lbh-J2-qVU"; */
 "Lbh-J2-qVU.title" = "\tDa esquerda para a direita";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
-"LxB-Qw-Mem.title" = "Sair Middle";
+"LxB-Qw-Mem.title" = "Sair do Middle";
 
 /* Class = "NSMenuItem"; title = "Purchase"; ObjectID = "MWV-Ks-lbA"; */
-"MWV-Ks-lbA.title" = "Compra";
+"MWV-Ks-lbA.title" = "Comprar";
 
 /* Class = "NSMenuItem"; title = "Copy Ruler"; ObjectID = "MkV-Pr-PK5"; */
-"MkV-Pr-PK5.title" = "Régua de Cópia";
+"MkV-Pr-PK5.title" = "Régua de copiar";
 
 /* Class = "NSMenuItem"; title = "One Finger Force Touch"; ObjectID = "Mx0-0X-Uk5"; */
-"Mx0-0X-Uk5.title" = "One Finger Force Touch";
+"Mx0-0X-Uk5.title" = "Toque com força de um dedo";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
 "NJ3-Fi-h4c.title" = "Sobre a";
@@ -216,7 +216,7 @@
 "OhY-VJ-Tcc.title" = "Janela";
 
 /* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "Esconder Middle";
+"Olw-nP-bQN.title" = "Esconder o Middle";
 
 /* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV"; */
 "OwM-mh-QMV.title" = "Encontrar Anterior";
@@ -243,7 +243,7 @@
 "Rqc-34-cIF.title" = "Superescrito";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
-"Ruw-6m-B2m.title" = "Selecione Todos";
+"Ruw-6m-B2m.title" = "Selecionar Tudo";
 
 /* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
 "S0p-oC-mLd.title" = "Ir para a seleção";
@@ -303,7 +303,7 @@
 "ZvO-Gk-QUH.title" = "Parágrafo";
 
 /* Class = "NSMenuItem"; title = "One Finger Click in Center"; ObjectID = "aQ2-MA-F8F"; */
-"aQ2-MA-F8F.title" = "Um Dedo Clique no Centro";
+"aQ2-MA-F8F.title" = "Clique no Centro de um Dedo";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS"; */
 "aTl-1u-JFS.title" = "Imprimir…";
@@ -312,7 +312,7 @@
 "aUF-d1-5bR.title" = "Janela";
 
 /* Class = "NSMenu"; title = "Font"; ObjectID = "aXa-aM-Jaq"; */
-"aXa-aM-Jaq.title" = "Tipo de letra";
+"aXa-aM-Jaq.title" = "Fonte";
 
 /* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "agt-UL-0e3"; */
 "agt-UL-0e3.title" = "Usar Padrão";
@@ -330,10 +330,10 @@
 "c8a-y6-VQd.title" = "Transformações";
 
 /* Class = "NSMenuItem"; title = "Use None"; ObjectID = "cDB-IK-hbR"; */
-"cDB-IK-hbR.title" = "Utilização Nenhum";
+"cDB-IK-hbR.title" = "Não usar nenhum";
 
 /* Class = "NSMenuItem"; title = "Selection"; ObjectID = "cqv-fj-IhA"; */
-"cqv-fj-IhA.title" = "Selecção";
+"cqv-fj-IhA.title" = "Seleção";
 
 /* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "cwL-P1-jid"; */
 "cwL-P1-jid.title" = "Links Inteligentes";
@@ -354,16 +354,16 @@
 "eDR-Aa-cTe.title" = "Trackpad:";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
-"fQ6-M2-dr6.title" = "Sair Middle";
+"fQ6-M2-dr6.title" = "Sair do Middle";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
-"gQZ-HU-YQU.title" = "Verifique se há atualizações…";
+"gQZ-HU-YQU.title" = "Verificar atualizações…";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
 "gVA-U4-sdL.title" = "Colar";
 
 /* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "hQb-2v-fYv"; */
-"hQb-2v-fYv.title" = "Cotações Inteligentes";
+"hQb-2v-fYv.title" = "Aspas Inteligentes";
 
 /* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "hz2-CU-CR7"; */
 "hz2-CU-CR7.title" = "Verificar documento agora";
@@ -384,7 +384,7 @@
 "jFq-tB-4Kx.title" = "\tDa direita para a esquerda";
 
 /* Class = "NSMenuItem"; title = "Format"; ObjectID = "jxT-CU-nIS"; */
-"jxT-CU-nIS.title" = "Formato";
+"jxT-CU-nIS.title" = "Formatar";
 
 /* Class = "NSMenuItem"; title = "Show Sidebar"; ObjectID = "kIP-vf-haE"; */
 "kIP-vf-haE.title" = "Mostrar Barra lateral";
@@ -399,13 +399,13 @@
 "o6e-r0-MWq.title" = "Ligaduras";
 
 /* Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; */
-"oas-Oc-fiZ.title" = "Aberto Recente";
+"oas-Oc-fiZ.title" = "Abrir Recente";
 
 /* Class = "NSMenuItem"; title = "Loosen"; ObjectID = "ogc-rX-tC1"; */
 "ogc-rX-tC1.title" = "Afrouxar";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; */
-"pa3-QI-u2k.title" = "Eliminar";
+"pa3-QI-u2k.title" = "Deletar";
 
 /* Class = "NSMenuItem"; title = "Save…"; ObjectID = "pxx-59-PXV"; */
 "pxx-59-PXV.title" = "Salvar…";
@@ -438,7 +438,7 @@
 "tRr-pd-1PS.title" = "Detectores de dados";
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "tXI-mr-wws"; */
-"tXI-mr-wws.title" = "Aberto Recente";
+"tXI-mr-wws.title" = "Abrir Recente";
 
 /* Class = "NSMenu"; title = "Kern"; ObjectID = "tlD-Oa-oAM"; */
 "tlD-Oa-oAM.title" = "Kern";
@@ -447,13 +447,13 @@
 "uQy-DD-JDr.title" = "Middle";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
-"uRl-iY-unG.title" = "Corte";
+"uRl-iY-unG.title" = "Cortar";
 
 /* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
-"vCt-Cm-ARK.title" = "Aceda a Preferências do Sistema → Segurança e Privacidade → Privacidade → Privacidade → Acessibilidade";
+"vCt-Cm-ARK.title" = "Vá em Preferências do Sistema → Segurança e Privacidade → Privacidade → Acessibilidade";
 
 /* Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "vKC-jM-MkH"; */
-"vKC-jM-MkH.title" = "Estilo Pasta";
+"vKC-jM-MkH.title" = "Colar Estilo";
 
 /* Class = "NSMenuItem"; title = "Show Ruler"; ObjectID = "vLm-3I-IUL"; */
 "vLm-3I-IUL.title" = "Mostrar Régua";
@@ -462,19 +462,19 @@
 "vNY-rz-j42.title" = "Limpar Menu";
 
 /* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "vmV-6d-7jI"; */
-"vmV-6d-7jI.title" = "Fazer capa superior";
+"vmV-6d-7jI.title" = "Capitalizar";
 
 /* Class = "NSMenu"; title = "Ligatures"; ObjectID = "w0m-vy-SC9"; */
 "w0m-vy-SC9.title" = "Ligaduras";
 
 /* Class = "NSMenuItem"; title = "Align Right"; ObjectID = "wb2-vD-lq4"; */
-"wb2-vD-lq4.title" = "Alinhar Direita";
+"wb2-vD-lq4.title" = "Alinhar à Direita";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
-"wic-K8-WSX.title" = "Autorizar Middle";
+"wic-K8-WSX.title" = "Autorizar o Middle";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
-"wpr-3q-Mcd.title" = "Ajudar";
+"wpr-3q-Mcd.title" = "Ajuda";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
 "x3v-GG-iWU.title" = "Copiar";
@@ -483,32 +483,32 @@
 "xQD-1f-W4t.title" = "Usar Todos";
 
 /* Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0"; */
-"xrE-MZ-jX0.title" = "Discurso";
+"xrE-MZ-jX0.title" = "Fala";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "yCX-6y-ayG"; */
-"yCX-6y-ayG.title" = "Três Dedos Clique";
+"yCX-6y-ayG.title" = "Clique de três dedos";
 
 /* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; */
 "z6F-FW-3nz.title" = "Exibir substituições";
 
-"Conflict with macOS three finger drag" = "Conflito com macOS arrastar três dedos";
+"Conflict with macOS three finger drag" = "Conflito com arrastar três dedos do macOS";
 
-"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "O gesto de clique com três dedos pode impedir que a funcionalidade de arrastar com três dedos do macOS funcione correctamente. Você pode querer selecionar um gesto diferente ou desativar o arrasto com três dedos em Preferências do sistema macOS.";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "O gesto de clique com três dedos pode impedir que a funcionalidade de arrastar com três dedos do macOS funcione corretamente. Você pode selecionar um gesto diferente ou desativar o arrasto com três dedos em Preferências do sistema no macOS.";
 
-"Three finger tap with macOS three finger drag" = "Bate com três dedos com macOS arrasto de três dedos";
+"Three finger tap with macOS three finger drag" = "Toque com três dedos com arrasto de três dedos do macOS";
 
-"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Quando o arrasto de três dedos é ativado e três dedos são batidos, o MacOS executa um clique que o Meio não irá impedir.";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Quando o arrasto de três dedos é ativado e você toca com três dedos, o macOS executa um clique que o Middle não vai impedir.";
 
 "OK" = "OK";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
-"Kew-ib-Ihk.title" = "Solte quando o trackpad for removido";
+"Kew-ib-Ihk.title" = "Soltar quando parar de tocar no trackpad";
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
-"p39-0h-R0h.title" = "Isto é útil quando se usa o clique do meio do trackpad para pan em aplicações de modelagem 3D. Clique com três dedos, pan com um dedo, e solte removendo os toques.";
+"p39-0h-R0h.title" = "Isso é útil quando se usa o clique do meio do trackpad para navegar em aplicações de modelagem 3D. Clique com três dedos, arraste com um dedo, e solte parando de tocar.";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Use fn e clique esquerdo para clicar no meio";
+"gGO-yQ-xCQ.title" = "Usar fn e clique esquerdo para clique do meio";
 
 /* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
 "mCY-qk-eUa.title" = "Clique com dois dedos";
