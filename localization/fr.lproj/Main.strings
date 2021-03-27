@@ -21,19 +21,19 @@
 "3IN-sU-3Bg.title" = "Orthographe";
 
 /* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "3Om-Ey-2VK"; */
-"3Om-Ey-2VK.title" = "Valeur par défaut";
+"3Om-Ey-2VK.title" = "Utiliser valeur par défaut";
 
 /* Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH"; */
 "3rS-ZA-NoH.title" = "Parole";
 
 /* Class = "NSMenuItem"; title = "Tighten"; ObjectID = "46P-cB-AYj"; */
-"46P-cB-AYj.title" = "Resserrer";
+"46P-cB-AYj.title" = "Serrer";
 
 /* Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u"; */
 "4EN-yA-p0u.title" = "Rechercher";
 
 /* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "4J7-dP-txa"; */
-"4J7-dP-txa.title" = "Activer le mode plein écran";
+"4J7-dP-txa.title" = "Entrer en mode plein écran";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "4sb-4s-VLi"; */
 "4sb-4s-VLi.title" = "Quitter Middle";
@@ -93,10 +93,10 @@
 "Bw7-FT-i3A.title" = "Enregistrer sous…";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
-"Ccz-CJ-ZRm.title" = "Tapotement à trois doigts";
+"Ccz-CJ-ZRm.title" = "Toucher avec trois doigts";
 
 /* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
-"Bcb-Ja-zQs.title" = "Tapotement à quatre doigts";
+"Bcb-Ja-zQs.title" = "Toucher avec quatre doigts";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
 "DVo-aG-piG.title" = "Fermer";
@@ -105,7 +105,7 @@
 "Dv1-io-Yv7.title" = "Orthographe et grammaire";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
-"ExA-de-taD.title" = "Contrôle de l’ordinateur non  autorisé";
+"ExA-de-taD.title" = "Contrôle de l’ordinateur non autorisé";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "Aide";
@@ -129,7 +129,7 @@
 "GEO-Iw-cKr.title" = "Format";
 
 /* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "GUa-eO-cwY"; */
-"GUa-eO-cwY.title" = "Valeur par défaut";
+"GUa-eO-cwY.title" = "Utiliser valeur par défaut";
 
 /* Class = "NSMenuItem"; title = "Font"; ObjectID = "Gi5-1S-RQB"; */
 "Gi5-1S-RQB.title" = "Police";
@@ -174,7 +174,7 @@
 "Kd2-mp-pUS.title" = "Tout afficher";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
-"L4H-fe-hjK.title" = "Si l’option est désactivée, cliquez sur le cadenas et entrez votre mot de passe.";
+"L4H-fe-hjK.title" = "Si l’option est désactivée, cliquer sur le cadenas et entrer votre mot de passe.";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
 "LE2-aR-0XJ.title" = "Tout ramener au premier plan";
@@ -198,7 +198,7 @@
 "MkV-Pr-PK5.title" = "Copier règle";
 
 /* Class = "NSMenuItem"; title = "One Finger Force Touch"; ObjectID = "Mx0-0X-Uk5"; */
-"Mx0-0X-Uk5.title" = "Clic fort d'un seul doigt";
+"Mx0-0X-Uk5.title" = "Clic forcé d'un seul doigt";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
 "NJ3-Fi-h4c.title" = "À propos";
@@ -255,7 +255,7 @@
 "Td7-aD-5lo.title" = "Fenêtre";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
-"Tfy-3A-o4I.title" = "Une fois masqué, relancer l'application à partir du Finder pour ouvrir le menu.";
+"Tfy-3A-o4I.title" = "Une fois masquée, relancer l'application à partir du Finder pour ouvrir le menu.";
 
 /* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG"; */
 "UEZ-Bs-lqG.title" = "Mettre en majuscules";
@@ -270,10 +270,10 @@
 "Vjx-xi-njq.title" = "Italique";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
-"W48-6f-4Dl.title" = "Édition";
+"W48-6f-4Dl.title" = "Éditer";
 
 /* Class = "NSMenuItem"; title = "Underline"; ObjectID = "WRG-CD-K1S"; */
-"WRG-CD-K1S.title" = "Souligné";
+"WRG-CD-K1S.title" = "Souligner";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "Was-JA-tGl"; */
 "Was-JA-tGl.title" = "Nouveau";
@@ -318,7 +318,7 @@
 "aXa-aM-Jaq.title" = "Police";
 
 /* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "agt-UL-0e3"; */
-"agt-UL-0e3.title" = "Valeur par défaut";
+"agt-UL-0e3.title" = "Utiliser valeur par défaut";
 
 /* Class = "NSMenuItem"; title = "Show Colors"; ObjectID = "bgn-CT-cEk"; */
 "bgn-CT-cEk.title" = "Afficher les couleurs";
@@ -423,7 +423,7 @@
 "qIS-W8-SiK.title" = "Mise en page…";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "qWt-7C-fnF"; */
-"qWt-7C-fnF.title" = "Tapotement à trois doigts";
+"qWt-7C-fnF.title" = "Toucher avec trois doigts";
 
 /* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "rbD-Rh-wIN"; */
 "rbD-Rh-wIN.title" = "Vérifier l'orthographe lors de la saisie";
@@ -449,11 +449,11 @@
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
 "uRl-iY-unG.title" = "Couper";
 
-/* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
-"vCt-Cm-ARK.title" = "Aller à Préférences Système → Sécurité et confidentialité → Confidentialité → Accessibilité";
+/* Class = "NSTextFieldCell"; title = "Go to System Preferences → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
+"vCt-Cm-ARK.title" = "Aller dans Préférences Système → Sécurité et confidentialité → Confidentialité → Accessibilité";
 
 /* Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "vKC-jM-MkH"; */
-"vKC-jM-MkH.title" = "Coller style";
+"vKC-jM-MkH.title" = "Coller le style";
 
 /* Class = "NSMenuItem"; title = "Show Ruler"; ObjectID = "vLm-3I-IUL"; */
 "vLm-3I-IUL.title" = "Afficher la règle";
@@ -491,11 +491,11 @@
 /* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; */
 "z6F-FW-3nz.title" = "Afficher les substitutions";
 
-"Conflict with macOS three finger drag" = "Conflit avec macOS glisser trois doigts";
+"Conflict with macOS three finger drag" = "Conflit avec le glisser trois doigts de macOS";
 
-"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Le geste du clic à trois doigts pourrait empêcher la fonctionnalité de glisser-déposer de macOS à trois doigts de fonctionner correctement. Vous pouvez sélectionner un autre geste ou désactiver le glisser-déposer à trois doigts dans les Préférences Système MacOS.";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Le clic à trois doigts pourrait empêcher la fonctionnalité de glisser-déposer à trois doigts, de macOS, de fonctionner correctement. Vous pouvez sélectionner un autre geste ou désactiver le glisser-déposer à trois doigts dans les Préférences Système MacOS.";
 
-"Three finger tap with macOS three finger drag" = "Tapotement à trois doigts avec macOS trois doigts";
+"Three finger tap with macOS three finger drag" = "Toucher à trois doigts avec le glissement trois doigts de macOs";
 
 "When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Lorsque le glissement de trois doigts est activé et que trois doigts sont tapés, macOS exécute un clic que Middle n'empêchera pas.";
 
