@@ -36,7 +36,7 @@
 "4J7-dP-txa.title" = "Vollbildmodus";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "4sb-4s-VLi"; */
-"4sb-4s-VLi.title" = "Middle Beenden";
+"4sb-4s-VLi.title" = "Middle beenden";
 
 /* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
 "575-o0-Etz.title" = "Autorisieren…";
@@ -72,7 +72,7 @@
 "8mr-sm-Yjd.title" = "Schreibrichtung";
 
 /* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "9ic-FL-obx"; */
-"9ic-FL-obx.title" = "Vertretungen";
+"9ic-FL-obx.title" = "Ersetzungen";
 
 /* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "9yt-4B-nSM"; */
 "9yt-4B-nSM.title" = "Intelligentes Kopieren/Einfügen";
@@ -93,7 +93,7 @@
 "Bw7-FT-i3A.title" = "Speichern unter…";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
-"Ccz-CJ-ZRm.title" = "Dreifinger-Tippen";
+"Ccz-CJ-ZRm.title" = "Drei-Finger-Tippen";
 
 /* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
 "Bcb-Ja-zQs.title" = "Vier-Finger-Tippen";
@@ -120,7 +120,7 @@
 "Fal-I4-PZk.title" = "Text";
 
 /* Class = "NSMenu"; title = "Substitutions"; ObjectID = "FeM-D8-WVr"; */
-"FeM-D8-WVr.title" = "Vertretungen";
+"FeM-D8-WVr.title" = "Ersetzungen";
 
 /* Class = "NSMenuItem"; title = "Bold"; ObjectID = "GB9-OM-e27"; */
 "GB9-OM-e27.title" = "Fett gedruckt";
@@ -189,7 +189,7 @@
 "Lbh-J2-qVU.title" = "\tVon links nach rechts";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
-"LxB-Qw-Mem.title" = "Middle Beenden";
+"LxB-Qw-Mem.title" = "Middle beenden";
 
 /* Class = "NSMenuItem"; title = "Purchase"; ObjectID = "MWV-Ks-lbA"; */
 "MWV-Ks-lbA.title" = "Kaufen";
@@ -219,7 +219,7 @@
 "OhY-VJ-Tcc.title" = "Fenster";
 
 /* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "Middle Verstecken";
+"Olw-nP-bQN.title" = "Middle verstecken";
 
 /* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV"; */
 "OwM-mh-QMV.title" = "Vorherige finden";
@@ -354,10 +354,10 @@
 "dRJ-4n-Yzg.title" = "Zurück";
 
 /* Class = "NSTextFieldCell"; title = "Trackpad: "; ObjectID = "eDR-Aa-cTe"; */
-"eDR-Aa-cTe.title" = "Trackpad:";
+"eDR-Aa-cTe.title" = "Trackpad: ";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
-"fQ6-M2-dr6.title" = "Middle Beenden";
+"fQ6-M2-dr6.title" = "Middle beenden";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
 "gQZ-HU-YQU.title" = "Nach Updates suchen…";
@@ -366,7 +366,7 @@
 "gVA-U4-sdL.title" = "Einfügen";
 
 /* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "hQb-2v-fYv"; */
-"hQb-2v-fYv.title" = "Intelligente Angebote";
+"hQb-2v-fYv.title" = "Intelligente Anführungszeichen";
 
 /* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "hz2-CU-CR7"; */
 "hz2-CU-CR7.title" = "Dokument jetzt prüfen";
@@ -453,7 +453,7 @@
 "vCt-Cm-ARK.title" = "Gehen Sie zu Systemeinstellungen → Sicherheit & Datenschutz → Datenschutz → Barrierefreiheit";
 
 /* Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "vKC-jM-MkH"; */
-"vKC-jM-MkH.title" = "Stil Einfügen";
+"vKC-jM-MkH.title" = "Stil einfügen";
 
 /* Class = "NSMenuItem"; title = "Show Ruler"; ObjectID = "vLm-3I-IUL"; */
 "vLm-3I-IUL.title" = "Lineal anzeigen";
@@ -471,7 +471,7 @@
 "wb2-vD-lq4.title" = "Rechts ausrichten";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
-"wic-K8-WSX.title" = "Middle Autorisieren";
+"wic-K8-WSX.title" = "Middle autorisieren";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
 "wpr-3q-Mcd.title" = "Hilfe";
@@ -486,10 +486,10 @@
 "xrE-MZ-jX0.title" = "Sprache";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "yCX-6y-ayG"; */
-"yCX-6y-ayG.title" = "Dreifinger-Klick";
+"yCX-6y-ayG.title" = "Drei-Finger-Klick";
 
 /* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; */
-"z6F-FW-3nz.title" = "Ersatz anzeigen";
+"z6F-FW-3nz.title" = "Ersetzungen anzeigen";
 
 "Conflict with macOS three finger drag" = "Konflikt mit macOS Drei-Finger-Bewegen";
 
@@ -501,7 +501,7 @@
 "Kew-ib-Ihk.title" = "Lösen, wenn Trackpad-Berührungen entfernt werden";
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
-"p39-0h-R0h.title" = "Dies ist nützlich, wenn Sie den Trackpad-Mittelklick zum Schwenken in 3D-Modellierungsanwendungen verwenden. Klicken Sie mit drei Fingern, schwenken Sie mit einem Finger und lassen Sie die Maustaste los, indem Sie Berührungen entfernen.";
+"p39-0h-R0h.title" = "Dies ist nützlich, wenn Sie den Trackpad-Mittelklick zum Schwenken in 3D-Modellierungsanwendungen verwenden. Klicken Sie mit drei Fingern, schwenken Sie mit einem Finger und lassen Sie anschließend das Trackpad los.";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
 "gGO-yQ-xCQ.title" = "Fn und Linksklick für Mittelklick verwenden";
@@ -509,7 +509,7 @@
 /* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
 "mCY-qk-eUa.title" = "Zwei-Finger-Klick";
 
-"Three finger tap with macOS three finger drag" = "Drei-Finger-Tippen mit MacOS-Drei-Finger-Bewegen";
+"Three finger tap with macOS three finger drag" = "Drei-Finger-Tippen mit macOS-Drei-Finger-Bewegen";
 
-"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Wenn das Ziehen mit drei Fingern aktiviert ist und drei Finger getippt werden, führt macOS einen Klick aus, der von der Mitte nicht verhindert wird.";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Wenn das Ziehen mit drei Fingern aktiviert ist und mit drei Fingern getippt wird, führt macOS einen Klick aus, der von Middle nicht verhindert wird.";
 
