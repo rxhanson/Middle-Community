@@ -1,0 +1,160 @@
+
+/* Class = "NSMenuItem"; title = "Debug"; ObjectID = "0G3-TF-iyg"; */
+"0G3-TF-iyg.title" = "Εντοπισμός σφαλμάτων";
+
+/* Class = "NSMenuItem"; title = "Middle"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Middle";
+
+/* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Έξοδος από το Middle";
+
+/* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
+"575-o0-Etz.title" = "Δώστε άδεια…";
+
+/* Class = "NSMenuItem"; title = "About"; ObjectID = "5Y9-2l-gqF"; */
+"5Y9-2l-gqF.title" = "Πληροφορίες";
+
+/* Class = "NSMenuItem"; title = "About Middle"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "Πληροφορίες για το Middle";
+
+/* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
+"6F1-Vv-ruT.title" = "Ελεγχος Middle.app";
+
+/* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
+"6np-Zg-K5q.title" = "Ελεγχος για ενημερώσεις αυτόματα";
+
+/* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "6rO-9w-PdI"; */
+"6rO-9w-PdI.title" = "Άνοιγμα ρυθμίσεων";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Ρυθμίσεις…";
+
+/* Class = "NSButtonCell"; title = "Launch on login"; ObjectID = "BbU-e2-Ypo"; */
+"BbU-e2-Ypo.title" = "Αυτόματο άνοιγμα στην ενεργοποίηση";
+
+/* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
+"Ccz-CJ-ZRm.title" = "Άγγιγμα τριών δαχτύλων";
+
+/* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
+"ExA-de-taD.title" = "Δεν ύπάρχει άδεια για έλεγχο του υπολογιστή σας";
+
+/* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Βοήθεια Middle";
+
+/* Class = "NSMenuItem"; title = "Ignore frontmost.app"; ObjectID = "Hc4-Pm-7tu"; */
+"Hc4-Pm-7tu.title" = "Αγνόηση frontmost.app";
+
+/* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "Ρυθμίσεις Middle";
+
+/* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
+"Kew-ib-Ihk.title" = "Απελευθέρωση όταν το άγγιγμα του trackpad αφαιρεθεί";
+
+/* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
+"L4H-fe-hjK.title" = "Εάν η επιλογή είναι απενεργοποιημένη, πατήστε την κλειδαριά και πληκτρολογήστε τον κωδικό σας";
+
+/* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
+"LQa-8U-aNp.title" = "Το Middle χρειάζεται την άδειά σας να δει πληροφορίες από τις συσκευές αφής σας.";
+
+/* Class = "NSMenu"; title = "Debug"; ObjectID = "Lvn-z3-2Z5"; */
+"Lvn-z3-2Z5.title" = "Εντοπισμός σφαλμάτων";
+
+/* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
+"LxB-Qw-Mem.title" = "Έξοδος από το Middle";
+
+/* Class = "NSMenuItem"; title = "Purchase"; ObjectID = "MWV-Ks-lbA"; */
+"MWV-Ks-lbA.title" = "Αγορά";
+
+/* Class = "NSMenuItem"; title = "One Finger Force Touch"; ObjectID = "Mx0-0X-Uk5"; */
+"Mx0-0X-Uk5.title" = "Force Touch με ένα δάχτυλο";
+
+/* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
+"NJ3-Fi-h4c.title" = "Πληροφορίες";
+
+/* Class = "NSWindow"; title = "Authorize Middle"; ObjectID = "OhY-VJ-Tcc"; */
+"OhY-VJ-Tcc.title" = "Δώστε άδεια στο Middle";
+
+/* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Κρύψιμο Middle";
+
+/* Class = "NSTextFieldCell"; title = "Magic Mouse: "; ObjectID = "Qn1-tG-Pis"; */
+"Qn1-tG-Pis.title" = "Magic Mouse: ";
+
+/* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
+"Tfy-3A-o4I.title" = "Όταν το Middle είναι κρυμμένο, επανεκκινήστε το από το Finder για να ανοίξετε το μενού.";
+
+/* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
+"YvJ-SA-Bje.title" = "Κρύψιμο εικονιδίου menu bar";
+
+/* Class = "NSMenuItem"; title = "-"; ObjectID = "ZFQ-xY-Fls"; */
+"ZFQ-xY-Fls.title" = "-";
+
+/* Class = "NSMenuItem"; title = "-"; ObjectID = "F5y-6x-Tuc"; */
+"F5y-6x-Tuc.title" = "-";
+
+/* Class = "NSMenuItem"; title = "One Finger Click in Center"; ObjectID = "aQ2-MA-F8F"; */
+"aQ2-MA-F8F.title" = "Κλικ Ενός Δαχτύλου στο Κέντρο";
+
+/* Class = "NSTextFieldCell"; title = "Trackpad: "; ObjectID = "eDR-Aa-cTe"; */
+"eDR-Aa-cTe.title" = "Επιφάνεια αφής: ";
+
+/* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
+"fQ6-M2-dr6.title" = "Εξοδος Middle";
+
+/* Class = "NSMenuItem"; title = "Launch viewer on start"; ObjectID = "gAS-dZ-pX7"; */
+"gAS-dZ-pX7.title" = "Άνοιγμα προβολέα στην εκκίνηση";
+
+/* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
+"gGO-yQ-xCQ.title" = "Χρήση fn και αριστερού κλικ για μεσαίο κλικ";
+
+/* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
+"gQZ-HU-YQU.title" = "Έλεγχος για ενημερώσεις...";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "ksi-rt-hhB"; */
+"ksi-rt-hhB.title" = "Ρυθμίσεις…";
+
+/* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
+"mCY-qk-eUa.title" = "Κλικ Δύο Δαχτύλων";
+
+/* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
+"p39-0h-R0h.title" = "Αυτό είναι χρήσιμο κατά τη χρήση μεσαίου κλικ στην επιφάνεια αφής για πλοήγηση σε προγράμματα 3D σχεδίασης. Κάντε κλικ με τρία δάχτυλα, πλοηγηθείτε με ένα δάχτυλο, και ελευθερώστε τον έλεγχο αφαιρώντας τα δάχτυλά σας από την επιφάνεια.";
+
+/* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
+"q6q-GJ-liZ.title" = "Κλικ Τριών Δαχτύλων";
+
+/* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "qWt-7C-fnF"; */
+"qWt-7C-fnF.title" = "Άγγιγμα Τριών Δαχτύλων";
+
+/* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
+"Bcb-Ja-zQs.title" = "Άγγιμα Τεσσάρων Δαχτύλων";
+
+/* Class = "NSMenu"; title = "Middle"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Middle";
+
+/* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
+"vCt-Cm-ARK.title" = "Πηγαίνετε στις Ρυθμίσεις → Ασφάλεια και Ιδιωτικότητα → Ιδιωτικότητα → Προσβασιμότητα";
+
+/* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
+"vZH-gr-9dX.title" = "Εμφάνιση προβολέα…";
+
+/* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
+"wic-K8-WSX.title" = "Δώστε Άδεια στο Middle";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Βοήθεια";
+
+/* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "yCX-6y-ayG"; */
+"yCX-6y-ayG.title" = "Κλικ Τριών Δαχτύλων";
+
+/* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
+"zdd-tk-qnC.title" = "Προβολέας Αφής";
+
+"Conflict with macOS three finger drag" = "Σύγκρουση με τράβηγμα τριών δαχτύλων του macOS";
+
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Το κλικ τριών δαχτύλων μπορεί να εμποδίσει το τράβηγμα τριών δαχτύλων του macOS από το να λειτουργεί. Εάν θέλετε, μπορείτε να επιλέξετε μία διαφορετική χειρονομία ή να επνεργοποιήσετε το τράβηγμα τριών δαχτύλων στις Ρυθμίσεις του macOS.";
+
+"OK" = "OK";
+
+"Three finger tap with macOS three finger drag" = "Άγγιγμα τριών δαχτύλων με τράβηγμα τριών δαχτύλων του macOS";
+
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Όταν το τράβηγμα τριών δαχτύλων είναι ενεργοποιημένο και τρία δάχτυλα αγγίζουν την επιφάνεια αφής, το macOS πραγματοποιεί ένα κλικ που δεν θα εμποδίσει το Middle.";
