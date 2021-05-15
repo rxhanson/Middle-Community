@@ -66,10 +66,10 @@
 "MWV-Ks-lbA.title" = "購入";
 
 /* Class = "NSMenuItem"; title = "One Finger Force Touch"; ObjectID = "Mx0-0X-Uk5"; */
-"Mx0-0X-Uk5.title" = “一本指で強めのクリック";
+"Mx0-0X-Uk5.title" = "一本指で強めのクリック";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
-"NJ3-Fi-h4c.title" = “について";
+"NJ3-Fi-h4c.title" = "について";
 
 /* Class = "NSWindow"; title = "Authorize Middle"; ObjectID = "OhY-VJ-Tcc"; */
 "OhY-VJ-Tcc.title" = "Middleを許可する";
@@ -117,34 +117,34 @@
 "ksi-rt-hhB.title" = "設定…";
 
 /* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
-"mCY-qk-eUa.title" = “二本指でクリック";
+"mCY-qk-eUa.title" = "二本指でクリック";
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
 "p39-0h-R0h.title" = "3Dモデリングアプリケーションでトラックパッドの中央クリックを使用して画面移動する場合に便利です。三本指でクリックして、一本指で画面を移動し、指を離して解除できます。";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
-"q6q-GJ-liZ.title" = “三本指でクリック";
+"q6q-GJ-liZ.title" = "三本指でクリック";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "qWt-7C-fnF"; */
 "qWt-7C-fnF.title" = "三本指でタップ";
 
 /* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
-"Bcb-Ja-zQs.title" = “四本指でタップ";
+"Bcb-Ja-zQs.title" = "四本指でタップ";
 
 /* Class = "NSMenu"; title = "Middle"; ObjectID = "uQy-DD-JDr"; */
 "uQy-DD-JDr.title" = "Middle";
 
 /* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
-"vCt-Cm-ARK.title" = “「システム環境設定」 → 「セキュリティとプライバシー」 → 「プライバシー」 → 「アクセシビリティ」";
+"vCt-Cm-ARK.title" = "「システム環境設定」 → 「セキュリティとプライバシー」 → 「プライバシー」 → 「アクセシビリティ」";
 
 /* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
 "vZH-gr-9dX.title" = "ビューアを表示…";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
-"wic-K8-WSX.title" = "Middleを"許可する";
+"wic-K8-WSX.title" = "Middleを許可する";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
-"wpr-3q-Mcd.title" = “ヘルプ";
+"wpr-3q-Mcd.title" = "ヘルプ";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "yCX-6y-ayG"; */
 "yCX-6y-ayG.title" = "三本指でクリック";
@@ -160,4 +160,4 @@
 
 "Three finger tap with macOS three finger drag" = "macOSの三本指ドラッグで三本指タップ";
 
-"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = “三本指ドラッグ機能が有効の状態で三本指でタップされた場合、macOSはMiddleが防止できないクリックを実行します。";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "三本指ドラッグ機能が有効の状態で三本指でタップされた場合、macOSはMiddleが防止できないクリックを実行します。";
