@@ -12,7 +12,7 @@
 "575-o0-Etz.title" = "許可する…";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "5Y9-2l-gqF"; */
-"5Y9-2l-gqF.title" = "について";
+"5Y9-2l-gqF.title" = "Middleについて";
 
 /* Class = "NSMenuItem"; title = "About Middle"; ObjectID = "5kV-Vb-QxS"; */
 "5kV-Vb-QxS.title" = "Middleについて";
@@ -30,7 +30,7 @@
 "BOF-NM-1cW.title" = "設定…";
 
 /* Class = "NSButtonCell"; title = "Launch on login"; ObjectID = "BbU-e2-Ypo"; */
-"BbU-e2-Ypo.title" = "ログイン時に起動";
+"BbU-e2-Ypo.title" = "ログイン時に起動する";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
 "Ccz-CJ-ZRm.title" = "三本指タップ";
@@ -42,7 +42,7 @@
 "FKE-Sm-Kum.title" = "Middle ヘルプ";
 
 /* Class = "NSMenuItem"; title = "Ignore frontmost.app"; ObjectID = "Hc4-Pm-7tu"; */
-"Hc4-Pm-7tu.title" = "frontmost.appを無視する";
+"Hc4-Pm-7tu.title" = "frontmost.appでは無視する";
 
 /* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
 "IQv-IB-iLA.title" = "Middle 設定";
@@ -51,7 +51,7 @@
 "Kew-ib-Ihk.title" = "トラックパッドから指を離して解除";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
-"L4H-fe-hjK.title" = "チェックボックスが無効になっている場合は, 鍵マークをクリックしてパスワードを入力してください。";
+"L4H-fe-hjK.title" = "チェックボックスが無効になっている場合は、鍵マークをクリックしてパスワードを入力してください。";
 
 /* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
 "LQa-8U-aNp.title" = "Middleはタッチデバイスからイベントを読み取るための許可が必要です";
@@ -69,7 +69,7 @@
 "Mx0-0X-Uk5.title" = "一本指で強めのクリック";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
-"NJ3-Fi-h4c.title" = "について";
+"NJ3-Fi-h4c.title" = "Middleについて";
 
 /* Class = "NSWindow"; title = "Authorize Middle"; ObjectID = "OhY-VJ-Tcc"; */
 "OhY-VJ-Tcc.title" = "Middleを許可する";
@@ -81,7 +81,7 @@
 "Qn1-tG-Pis.title" = "Magic Mouse: ";
 
 /* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
-"S0p-oC-mLd.title" = "選択へジャンプ";
+"S0p-oC-mLd.title" = "選択箇所へジャンプ";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
 "Tfy-3A-o4I.title" = "非表示になっている場合は、Finderから再起動してメニューを開いてください。";
@@ -154,10 +154,10 @@
 
 "Conflict with macOS three finger drag" = "macOSの三本指ドラッグと競合しています";
 
-"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "三本指のクリックジェスチャーにより、macOSの三本指ドラッグ機能が正常に動作しなくなる可能性があります。別のジェスチャーを選択するか、macOSシステム環境設定で三本指ドラッグを無効にすることができます";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "三本指のクリックジェスチャーにより、macOSの三本指ドラッグ機能が正常に動作しなくなる可能性があります。別のジェスチャーを選択するか、macOSのシステム環境設定から三本指ドラッグを無効にすることができます。";
 
 "OK" = "OK";
 
 "Three finger tap with macOS three finger drag" = "macOSの三本指ドラッグで三本指タップ";
 
-"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "三本指ドラッグ機能が有効の状態で三本指でタップされた場合、macOSはMiddleが防止できないクリックを実行します。";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "三本指ドラッグ機能が有効の状態で三本指でタップされた場合、macOSはMiddleが阻止できないクリックを実行してしまいます。";
