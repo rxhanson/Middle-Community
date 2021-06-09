@@ -9,9 +9,9 @@
 
 https://support.apple.com/es-lamr/HT204609";
 
-"Three finger tap with macOS three finger drag" = "Toque de tres dedos con arrastre con tres dedos de macOS";
+"Three finger tap with macOS three finger drag" = "Toque con tres dedos con MacOS tres dedos de arrastre";
 
-"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Cuando se habilita el arrastre de tres dedos y se dan tres golpecitos, el MacOS ejecuta un clic que Middle no impedirá.";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Cuando se habilita el arrastre de tres dedos y se dan tres toques, MacOS ejecuta un clic que Middle no puede gestionar.";
 
 "OK" = "OK";
 
@@ -67,10 +67,10 @@ https://support.apple.com/es-lamr/HT204609";
 "Kew-ib-Ihk.title" = "Soltar al quitar el toque sobre el trackpad";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
-"L4H-fe-hjK.title" = "Si la casilla está deseleccionada, haz clic en el candado, ingresa la contraseña del administrador y concede permiso a Middle.";
+"L4H-fe-hjK.title" = "Si la casilla está deshabilitada, haz clic en el candado e introduce la contraseña del administrador";
 
 /* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
-"LQa-8U-aNp.title" = "Middle necesita tu permiso para recibir a los eventos de tus dispositivos touch.";
+"LQa-8U-aNp.title" = "Middle necesita tu permiso para reconocer los eventos de tus dispositivos táctiles.";
 
 /* Class = "NSMenu"; title = "Viewer"; ObjectID = "Lvn-z3-2Z5"; */
 "Lvn-z3-2Z5.title" = "Visor";
@@ -100,10 +100,10 @@ https://support.apple.com/es-lamr/HT204609";
 "S0p-oC-mLd.title" = "Ir a la selección";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
-"Tfy-3A-o4I.title" = "Cuando está oculto, abrir de nuevo Middle para abrir el menú.";
+"Tfy-3A-o4I.title" = "Cuando esté oculto, iniciar de nuevo desde Middle para abrir el menú.";
 
 /* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
-"YvJ-SA-Bje.title" = "Ocultar el ícono en la barra de menús";
+"YvJ-SA-Bje.title" = "Ocultar el icono en la barra de menús";
 
 /* Class = "NSMenuItem"; title = "-"; ObjectID = "F5y-6x-Tuc"; */
 "F5y-6x-Tuc.title" = "-";
@@ -124,7 +124,7 @@ https://support.apple.com/es-lamr/HT204609";
 "gAS-dZ-pX7.title" = "Abrir el visor al iniciar";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Pulsar la tecla Fn y Clic izquierdo para el Clic central";
+"gGO-yQ-xCQ.title" = "Pulsar la tecla Fn y clic izquierdo para el clic central";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
 "gQZ-HU-YQU.title" = "Buscar actualizaciones...";
@@ -148,13 +148,13 @@ https://support.apple.com/es-lamr/HT204609";
 "Bcb-Ja-zQs.title" = "Toque con cuatro dedos";
 
 /* Class = "NSMenu"; title = "Middle"; ObjectID = "uQy-DD-JDr"; */
-"uQy-DD-JDr.title" = "Middle";
+"uQy-DD-JDr.title" = "Medio";
 
 /* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
 "vCt-Cm-ARK.title" = "Ir a Preferencias del Sistema → Seguridad y privacidad → Privacidad → Accesibilidad";
 
 /* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
-"vZH-gr-9dX.title" = "Mostrar visor...";
+"vZH-gr-9dX.title" = "Mostrar el visor...";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
 "wic-K8-WSX.title" = "Concede permiso a Middle";
@@ -166,4 +166,4 @@ https://support.apple.com/es-lamr/HT204609";
 "yCX-6y-ayG.title" = "Clic con tres dedos";
 
 /* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
-"zdd-tk-qnC.title" = "Visor Touch";
+"zdd-tk-qnC.title" = "Visor táctil";
