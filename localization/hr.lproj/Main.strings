@@ -158,3 +158,5 @@
 
 "When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Kada je povlačenje sa tri prsta omogućeno i kada se tapne sa tri prsta, macOS će izvršiti klik koji Middle neće spriječiti.";
 
+/* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
+"GNd-nl-0Oj.title" = "Restrict two finger click to right click side";

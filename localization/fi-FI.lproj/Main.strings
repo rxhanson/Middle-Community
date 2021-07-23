@@ -161,3 +161,6 @@
 "Three finger tap with macOS three finger drag" = "Kolmen sormen napautus yhdessä macOS:n kolmen sormen raahauksen kanssa";
 
 "When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Kun kolmen sormen raahaus on käytössä ja napautetaan kolmella sormella, macOS suorittaa painalluksen ja Middle ei estä tätä.";
+
+/* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
+"GNd-nl-0Oj.title" = "Restrict two finger click to right click side";

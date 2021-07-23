@@ -512,3 +512,6 @@
 
 /* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
 "mCY-qk-eUa.title" = "Clic à deux doigts";
+
+/* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
+"GNd-nl-0Oj.title" = "Restrict two finger click to right click side";

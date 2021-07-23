@@ -158,3 +158,6 @@
 "Three finger tap with macOS three finger drag" = "Ketuk tiga jari dengan seret tiga jari macOS";
 
 "When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Saat seret tiga jari diaktifkan dan tiga jari diketuk, macOS menjalankan klik yang tidak akan dicegah oleh Middle.";
+
+/* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
+"GNd-nl-0Oj.title" = "Restrict two finger click to right click side";

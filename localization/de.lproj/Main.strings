@@ -513,3 +513,5 @@
 
 "When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Wenn das Ziehen mit drei Fingern aktiviert ist und mit drei Fingern getippt wird, führt macOS einen Klick aus, der von Middle nicht verhindert wird.";
 
+/* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
+"GNd-nl-0Oj.title" = "Restrict two finger click to right click side";

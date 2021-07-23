@@ -1,93 +1,90 @@
 
 /* Class = "NSMenuItem"; title = "Debug"; ObjectID = "0G3-TF-iyg"; */
-"0G3-TF-iyg.title" = "Debuguj";
+"0G3-TF-iyg.title" = "Depanare";
 
 /* Class = "NSMenuItem"; title = "Middle"; ObjectID = "1Xt-HY-uBw"; */
 "1Xt-HY-uBw.title" = "Middle";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "4sb-4s-VLi"; */
-"4sb-4s-VLi.title" = "Zamknij Middle";
+"4sb-4s-VLi.title" = "Închide Middle";
 
 /* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
-"575-o0-Etz.title" = "Autoryzuj…";
+"575-o0-Etz.title" = "Permite…";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "5Y9-2l-gqF"; */
-"5Y9-2l-gqF.title" = "O";
+"5Y9-2l-gqF.title" = "Despre";
 
 /* Class = "NSMenuItem"; title = "About Middle"; ObjectID = "5kV-Vb-QxS"; */
-"5kV-Vb-QxS.title" = "O aplikacji";
+"5kV-Vb-QxS.title" = "Despre Middle";
 
 /* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
-"6F1-Vv-ruT.title" = "Sprawdź Middle.app";
+"6F1-Vv-ruT.title" = "Verifică Middle.app";
 
 /* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
-"6np-Zg-K5q.title" = "Automatycznie sprawdzaj aktualizacje";
+"6np-Zg-K5q.title" = "Verifică actualizări automat";
 
 /* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "6rO-9w-PdI"; */
-"6rO-9w-PdI.title" = "Otwórz Preferencje systemowe";
+"6rO-9w-PdI.title" = "Deschide Preferințe Sistem";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
-"BOF-NM-1cW.title" = "Ustawienia…";
+"BOF-NM-1cW.title" = "Preferințe…";
 
 /* Class = "NSButtonCell"; title = "Launch on login"; ObjectID = "BbU-e2-Ypo"; */
-"BbU-e2-Ypo.title" = "Włączaj przy zalogowaniu";
+"BbU-e2-Ypo.title" = "Lansează la conectare";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
-"Ccz-CJ-ZRm.title" = "Tapnij trzema palcami";
+"Ccz-CJ-ZRm.title" = "Atingere cu Trei Degete";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
-"ExA-de-taD.title" = "Brak autoryzacji do kontrolowania komputera";
+"ExA-de-taD.title" = "Nu este autorizat să vă controleze computerul";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
-"FKE-Sm-Kum.title" = "Pomoc Middle";
+"FKE-Sm-Kum.title" = "Middle Ajutor";
 
 /* Class = "NSMenuItem"; title = "Ignore frontmost.app"; ObjectID = "Hc4-Pm-7tu"; */
-"Hc4-Pm-7tu.title" = "Ignoruj frontmost.app";
+"Hc4-Pm-7tu.title" = "Ignoră frontmost.app";
 
 /* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
-"IQv-IB-iLA.title" = "Ustawienia aplikacji";
+"IQv-IB-iLA.title" = "Preferințe Middle";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
-"Kew-ib-Ihk.title" = "Zwolnij, gdy gładzik przestał być dotykany";
+"Kew-ib-Ihk.title" = "Eliberează când atingerile trackpad-ului sunt scoase";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
-"L4H-fe-hjK.title" = "Jeżeli pole wyboru jest nieaktywne, naciśnij kłódkę i potwierdź swoim hasłem użytkownika";
+"L4H-fe-hjK.title" = "Dacă caseta de bifat este dezactivată, faceți clic pe lacăt și introduceți parola";
 
 /* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
-"LQa-8U-aNp.title" = "Middle wymaga zezwolenia na odczytywanie akcji z urządzeń wprowadzania dotykowego.";
+"LQa-8U-aNp.title" = "Middle are nevoie de permisiunea dvs. pentru a citi evenimente de pe dispozitivele dvs. tactile.";
 
 /* Class = "NSMenu"; title = "Debug"; ObjectID = "Lvn-z3-2Z5"; */
-"Lvn-z3-2Z5.title" = "Debuguj";
+"Lvn-z3-2Z5.title" = "Depanare";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
-"LxB-Qw-Mem.title" = "Zamknij Middle";
+"LxB-Qw-Mem.title" = "Închide Middle";
 
 /* Class = "NSMenuItem"; title = "Purchase"; ObjectID = "MWV-Ks-lbA"; */
-"MWV-Ks-lbA.title" = "Kup";
+"MWV-Ks-lbA.title" = "Cumpară";
 
 /* Class = "NSMenuItem"; title = "One Finger Force Touch"; ObjectID = "Mx0-0X-Uk5"; */
-"Mx0-0X-Uk5.title" = "Force Touch jednym palcem";
+"Mx0-0X-Uk5.title" = "Un Deget Atingere Forțată";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
-"NJ3-Fi-h4c.title" = "O";
+"NJ3-Fi-h4c.title" = "Despre";
 
 /* Class = "NSWindow"; title = "Authorize Middle"; ObjectID = "OhY-VJ-Tcc"; */
-"OhY-VJ-Tcc.title" = "Autoryzuj Middle";
+"OhY-VJ-Tcc.title" = "Autorizează Middle";
 
 /* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "Ukryj Middle";
+"Olw-nP-bQN.title" = "Ascunde Middle";
 
 /* Class = "NSTextFieldCell"; title = "Magic Mouse: "; ObjectID = "Qn1-tG-Pis"; */
-"Qn1-tG-Pis.title" = "Magic Mouse: ";
-
-/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
-"S0p-oC-mLd.title" = "Przejdź do wyboru";
+"Qn1-tG-Pis.title" = "Mouse Magic: ";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
-"Tfy-3A-o4I.title" = "Kiedy ukryta, otwórz Middle ponownie z folderu Aplikacji, aby wyświetlić ustawień";
+"Tfy-3A-o4I.title" = "Când este ascuns, relansați din Finder pentru a deschide meniul.";
 
 /* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
-"YvJ-SA-Bje.title" = "Ukryj ikonę na Pasku Menu";
+"YvJ-SA-Bje.title" = "Ascunde iconiță din bară meniu";
 
 /* Class = "NSMenuItem"; title = "-"; ObjectID = "ZFQ-xY-Fls"; */
 "ZFQ-xY-Fls.title" = "-";
@@ -96,75 +93,71 @@
 "F5y-6x-Tuc.title" = "-";
 
 /* Class = "NSMenuItem"; title = "One Finger Click in Center"; ObjectID = "aQ2-MA-F8F"; */
-"aQ2-MA-F8F.title" = "Naciśnij na środku jednym palcem";
+"aQ2-MA-F8F.title" = "Clic în Centru cu Un Deget";
 
 /* Class = "NSTextFieldCell"; title = "Trackpad: "; ObjectID = "eDR-Aa-cTe"; */
-"eDR-Aa-cTe.title" = "Gładzik: ";
+"eDR-Aa-cTe.title" = "Trackpad: ";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
-"fQ6-M2-dr6.title" = "Zamknij Middle";
+"fQ6-M2-dr6.title" = "Închide Middle";
 
 /* Class = "NSMenuItem"; title = "Launch viewer on start"; ObjectID = "gAS-dZ-pX7"; */
-"gAS-dZ-pX7.title" = "Uruchamiaj sprawdzanie dotyku przy starcie systemu";
+"gAS-dZ-pX7.title" = "Lansează vizualizator la pornire";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Użyj klawisza fn i lewego przycisku, aby wykonać akcę środkowego naciśnięcia";
+"gGO-yQ-xCQ.title" = "Folosește fn și clic stanga pentru clic mijlociu";
 
-/* Class = "NSMenuItem"; title = "Check for Updates…"; ObjectID = "gQZ-HU-YQU"; */
-"gQZ-HU-YQU.title" = "Sprawdź aktualizacje…";
+/* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
+"gQZ-HU-YQU.title" = "Verifică Actualizari...";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "ksi-rt-hhB"; */
-"ksi-rt-hhB.title" = "Ustawienia…";
+"ksi-rt-hhB.title" = "Preferințe…";
 
 /* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
-"mCY-qk-eUa.title" = "Naciśnij dwoma palcami";
+"mCY-qk-eUa.title" = "Clic Două Degete";
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
-"p39-0h-R0h.title" = "Przydatne, gdy gładzik wykorzystywany jest w aplikacjach do modelowania 3D. Naciśnij trzema palcami by wywołać akcję kliknięcia kółkiem myszki, a następnie obracaj obraz dotykając jednym palcem. Zwolnij palec, aby zatrzymać akcję.";
+"p39-0h-R0h.title" = "Acest lucru este util atunci când utilizați clicul central al trackpadului pentru a vă deplasa în aplicațiile de modelare 3D. Faceți clic cu trei degete, rotiți cu un deget și eliberați eliminând atingerile.";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
-"q6q-GJ-liZ.title" = "Naciśnij trzema palcami";
+"q6q-GJ-liZ.title" = "Clic cu Trei Degete";
 
 /* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "qWt-7C-fnF"; */
-"qWt-7C-fnF.title" = "Tapnij trzema palcami";
+"qWt-7C-fnF.title" = "Atingere cu Trei Degete";
 
 /* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
-"Bcb-Ja-zQs.title" = "Tapnij czterema palcami";
+"Bcb-Ja-zQs.title" = "Atingere cu Patru Degete";
 
 /* Class = "NSMenu"; title = "Middle"; ObjectID = "uQy-DD-JDr"; */
 "uQy-DD-JDr.title" = "Middle";
 
 /* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
-"vCt-Cm-ARK.title" = "Idź do Preferencji Systemowych → Bezpieczeństwo i Prywatność → Prywatność → Dostępność";
+"vCt-Cm-ARK.title" = "Mergi la Preferințe Sistem  → Securitate și confidențialitate → Confidențialitate → Accesibilitate";
 
 /* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
-"vZH-gr-9dX.title" = "Otwórz sprawdzanie dotyku…";
+"vZH-gr-9dX.title" = "Afișați vizualizatorul…";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
-"wic-K8-WSX.title" = "Autoryzuj Middle";
+"wic-K8-WSX.title" = "Autorizează Middle";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
-"wpr-3q-Mcd.title" = "Pomoc";
+"wpr-3q-Mcd.title" = "Ajutor";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "yCX-6y-ayG"; */
-"yCX-6y-ayG.title" = "Naciśnij trzema palcami";
+"yCX-6y-ayG.title" = "Clic cu Trei Degete";
 
 /* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
-"zdd-tk-qnC.title" = "Sprawdzanie dotyku";
+"zdd-tk-qnC.title" = "Atinge Vizualizatorul";
 
-"Conflict with macOS three finger drag" = "Konflikt z systemową funkcją Przeciągania trzema palcami";
+"Conflict with macOS three finger drag" = "Conflict cu macOS cu tragere trei degete";
 
-"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Wybrana opcja Kliknięcia trzema palcami może spowodować nieprawidłowe działanie systemowej funkcji Przeciągania trzema palcami. Zalecamy wybór innej akcji w Middle lub wyłączenie funkcji Przeciągania trzema palcami w ustawieniach Dostępności systemu.";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Gestul de clic cu trei degete ar putea împiedica funcționalitatea macOS cu trei degete să funcționeze corect. Poate doriți să selectați un alt gest sau să dezactivați glisarea cu trei degete în Preferințe de sistem macOS.";
 
 "OK" = "OK";
 
-"Three finger tap with macOS three finger drag" = "Systemowa funkcja Przeciągania trzema palcami, a wybrana akcja Tapnięcia trzema palcami";
+"Three finger tap with macOS three finger drag" = "Atingeți cu trei degete cu macOS trageți cu trei degete";
 
-"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Gdy aktywowana jest funkcja Przeciągania trzema palcami i zostanie wykonana akcja Tapnięcia trzema palcami, System wykona kliknięcie, którego aplikacja Middle nie będzie mogła anulować.";
-
-"Viewing windows will be displayed for each device when touches are deteced on that device" = "Okna sprawdzania dotyku zostaną wyświetlone dla każdego urządzenia, na którym zostanie wykryty dotyk";
-
-"Delay Relaunch after Wake" = "Opóźnij uruchomienie po wybudzeniu urządzenia";
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Când 'trageți cu trei degete' este activat și atingeți cu trei degete, macOS execută un clic pe care Middle nu îl va împiedica.";
 
 /* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
 "GNd-nl-0Oj.title" = "Restrict two finger click to right click side";

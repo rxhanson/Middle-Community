@@ -160,3 +160,6 @@
 "Three finger tap with macOS three finger drag" = "用macOS的三指拖动来三指点按";
 
 "When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = “当三指拖动被启动而你三指点按时，macOS会执行一次Middle不会阻止的点按。";
+
+/* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
+"GNd-nl-0Oj.title" = "Restrict two finger click to right click side";
