@@ -105,7 +105,7 @@
 "Dv1-io-Yv7.title" = "Orthographe et grammaire";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
-"ExA-de-taD.title" = "Contrôle de l’ordinateur non autorisé";
+"ExA-de-taD.title" = "Contrôle de l’ordinateur refusé";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "Aide";
@@ -255,7 +255,7 @@
 "Td7-aD-5lo.title" = "Fenêtre";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
-"Tfy-3A-o4I.title" = "Une fois masquée, relancer l'application à partir du Finder pour ouvrir le menu.";
+"Tfy-3A-o4I.title" = "Une fois masquée, relancez l'application à partir du Finder pour ouvrir le menu.";
 
 /* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG"; */
 "UEZ-Bs-lqG.title" = "Mettre en majuscules";
@@ -502,7 +502,7 @@
 "OK" = "OK";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
-"Kew-ib-Ihk.title" = "Libération lorsque les touches du trackpad sont retirées";
+"Kew-ib-Ihk.title" = "Relâcher lorsque les touches du trackpad sont retirées";
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
 "p39-0h-R0h.title" = "Ceci est utile lorsque vous utilisez le clic central du trackpad pour effectuer un panoramique dans les applications de modélisation 3D. Cliquez avec trois doigts, effectuez un panoramique avec un doigt et relâchez en retirant les touches.";
