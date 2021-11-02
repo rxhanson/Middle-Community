@@ -9,16 +9,16 @@
 "4sb-4s-VLi.title" = "退出Middle";
 
 /* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
-"575-o0-Etz.title" = "授權…";
+"575-o0-Etz.title" = "授權⋯";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "5Y9-2l-gqF"; */
-"5Y9-2l-gqF.title" = "關於...";
+"5Y9-2l-gqF.title" = "關於⋯";
 
 /* Class = "NSMenuItem"; title = "About Middle"; ObjectID = "5kV-Vb-QxS"; */
-"5kV-Vb-QxS.title" = "關於Middle”;
+"5kV-Vb-QxS.title" = "關於 Middle”;
 
 /* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
-"6F1-Vv-ruT.title" = "檢查Middle.app";
+"6F1-Vv-ruT.title" = "檢查 Middle.app";
 
 /* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
 "6np-Zg-K5q.title" = "自動檢查更新";
@@ -27,7 +27,7 @@
 "6rO-9w-PdI.title" = "開啟系統偏好設定";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
-"BOF-NM-1cW.title" = "偏好設定…";
+"BOF-NM-1cW.title" = "偏好設定⋯";
 
 /* Class = "NSButtonCell"; title = "Launch on login"; ObjectID = "BbU-e2-Ypo"; */
 "BbU-e2-Ypo.title" = "登陸時啟動";
@@ -36,19 +36,19 @@
 "Ccz-CJ-ZRm.title" = "三指點擊";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
-"ExA-de-taD.title" = "Middle未被授權控制你的電腦";
+"ExA-de-taD.title" = "Middle 未被授權控制你的電腦";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
 "FKE-Sm-Kum.title" = "Middle 协助 ";
 
 /* Class = "NSMenuItem"; title = "Ignore frontmost.app"; ObjectID = "Hc4-Pm-7tu"; */
-"Hc4-Pm-7tu.title" = "無視frontmost.app";
+"Hc4-Pm-7tu.title" = "無視 frontmost.app";
 
 /* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
 "IQv-IB-iLA.title" = "Middle 偏好設定";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
-"Kew-ib-Ihk.title" = "「觸摸板」被觸摸時釋放";
+"Kew-ib-Ihk.title" = "觸摸板被觸摸時釋放";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
 "L4H-fe-hjK.title" = "如果該複選框被禁用，請點按掛鎖並輸入密碼";
@@ -60,7 +60,7 @@
 "Lvn-z3-2Z5.title" = "檢視器";
 
 /* Class = "NSMenuItem"; title = "Middle"; ObjectID = "LxB-Qw-Mem"; */
-"LxB-Qw-Mem.title" = "退出Middle";
+"LxB-Qw-Mem.title" = "退出 Middle";
 
 /* Class = "NSMenuItem"; title = "Purchase"; ObjectID = "MWV-Ks-lbA"; */
 "MWV-Ks-lbA.title" = "購買";
@@ -72,10 +72,10 @@
 "NJ3-Fi-h4c.title" = “關於”;
 
 /* Class = "NSWindow"; title = "Authorize Middle"; ObjectID = "OhY-VJ-Tcc"; */
-"OhY-VJ-Tcc.title" = "授權Middle;
+"OhY-VJ-Tcc.title" = "授權 Middle;
 
 /* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "隱藏Middle”;
+"Olw-nP-bQN.title" = "隱藏 Middle”;
 
 /* Class = "NSTextFieldCell"; title = "Magic Mouse: "; ObjectID = "Qn1-tG-Pis"; */
 "Qn1-tG-Pis.title" = "Magic Mouse: ";
@@ -84,7 +84,7 @@
 "S0p-oC-mLd.title" = "跳轉到選擇";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
-"Tfy-3A-o4I.title" = "隱藏後，請從Finder重新啟動以打開菜單";
+"Tfy-3A-o4I.title" = "隱藏後，請從 Finder 重新啟動以打開菜單";
 
 /* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
 "YvJ-SA-Bje.title" = "隱藏菜單欄圖標”;
@@ -102,19 +102,19 @@
 "eDR-Aa-cTe.title" = "觸控板: ";
 
 /* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
-"fQ6-M2-dr6.title" = "退出Middle”;
+"fQ6-M2-dr6.title" = "退出 Middle”;
 
 /* Class = "NSMenuItem"; title = "Launch viewer on start"; ObjectID = "gAS-dZ-pX7"; */
 "gAS-dZ-pX7.title" = "啟動時啟動檢視器";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "請使用fn並以左鍵點按便能中鍵點按";
+"gGO-yQ-xCQ.title" = "請使用 Fn 並以左鍵點按便能中鍵點按";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
-"gQZ-HU-YQU.title" = "檢查更新 …”;
+"gQZ-HU-YQU.title" = "檢查更新⋯”;
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "ksi-rt-hhB"; */
-"ksi-rt-hhB.title" = "偏好設定…";
+"ksi-rt-hhB.title" = "偏好設定⋯";
 
 /* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
 "mCY-qk-eUa.title" = “兩指點按”;
@@ -152,15 +152,15 @@
 /* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
 "zdd-tk-qnC.title" = "觸摸檢視器";
 
-"Conflict with macOS three finger drag" = "與macOS的三指拖動有衝突";
+"Conflict with macOS three finger drag" = "與 macOS 的三指拖動有衝突";
 
-"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "三指點按的手勢可能會阻止macOS三指拖動功能的正常運作。您可能會想在macOS系的「統偏好設定」中選擇其他手勢或禁用三指拖動。";
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "三指點按的手勢可能會阻止 macOS 三指拖動功能的正常運作。您可能會想在 macOS 系的「統偏好設定」中選擇其他手勢或禁用三指拖動。";
 
 "OK" = "OK";
 
-"Three finger tap with macOS three finger drag" = "用macOS的三指拖動來三指點按";
+"Three finger tap with macOS three finger drag" = "用 macOS 的三指拖動來三指點按";
 
 "When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = “當三指拖動被啟動而你三指點按時，macOS會執行一次Middle不會阻止的點按。";
 
 /* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
-"GNd-nl-0Oj.title" = "Restrict two finger click to right click side";
+"GNd-nl-0Oj.title" = "限制兩指點按於右鍵單擊區域";
