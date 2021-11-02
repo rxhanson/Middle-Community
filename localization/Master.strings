@@ -105,7 +105,7 @@
 "gAS-dZ-pX7.title" = "Launch viewer on start";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Use fn and left click to middle click";
+"gGO-yQ-xCQ.title" = "Use Fn and left click to middle click";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
 "gQZ-HU-YQU.title" = "Check for Updates...";
