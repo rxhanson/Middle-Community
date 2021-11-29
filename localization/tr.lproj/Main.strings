@@ -39,13 +39,13 @@
 "ExA-de-taD.title" = "Bilgisayarınızı Kontrol Etmek için Yetkilendirilmemiş";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
-"FKE-Sm-Kum.title" = "Middle Yardım";
+"FKE-Sm-Kum.title" = "Middle Yardım Al";
 
 /* Class = "NSMenuItem"; title = "Ignore frontmost.app"; ObjectID = "Hc4-Pm-7tu"; */
 "Hc4-Pm-7tu.title" = "frontmost.app'ı Yoksay";
 
 /* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
-"IQv-IB-iLA.title" = "Middle Tercihler";
+"IQv-IB-iLA.title" = "Middle Tercihleri";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
 "Kew-ib-Ihk.title" = "İzleme dörtgeninden dokunuş kalktığında bırak";
@@ -108,10 +108,10 @@
 "gAS-dZ-pX7.title" = "Görüntüleyiciyi başlangıçta başlat";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Orta tuş ile tıklamak için fn ve sol tıklamayı kullanın";
+"gGO-yQ-xCQ.title" = "Orta tuş ile tıklamak için FN ve sol tıklamayı kullanın";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
-"gQZ-HU-YQU.title" = "Güncellemeleri kontrol et...";
+"gQZ-HU-YQU.title" = "Güncellemeleri kontrol et…";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "ksi-rt-hhB"; */
 "ksi-rt-hhB.title" = "Tercihler…";
@@ -135,7 +135,7 @@
 "uQy-DD-JDr.title" = "Middle";
 
 /* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
-"vCt-Cm-ARK.title" = "Sistem Tercihleri → Güvenlik ve Gizlilik → Gizlilik → Erişilebilirlik seçeneğine gidin";
+"vCt-Cm-ARK.title" = "Sistem Tercihleri → Güvenlik ve Gizlilik → Gizlilik → Erişilebilirlik seçeneğine gidin.";
 
 /* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
 "vZH-gr-9dX.title" = "Görüntüleyiciyi göster…";
@@ -144,7 +144,7 @@
 "wic-K8-WSX.title" = "Middle'a Yetki Ver";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
-"wpr-3q-Mcd.title" = "Yardım";
+"wpr-3q-Mcd.title" = "Yardım Al";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "yCX-6y-ayG"; */
 "yCX-6y-ayG.title" = "Üç Parmak Tıklaması";
@@ -156,7 +156,7 @@
 
 "The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Üç parmakla tıklama hareketi, macOS üç parmakla sürükleme işlevinin düzgün çalışmasını engelleyebilir. MacOS Sistem Tercihlerinde farklı bir hareket seçmek veya üç parmakla sürüklemeyi devre dışı bırakmak isteyebilirsiniz.";
 
-"OK" = "OK";
+"OK" = "Tamam";
 
 "Three finger tap with macOS three finger drag" = "MacOS üç parmakla sürükle ile üç parmakla dokunuş";
 
