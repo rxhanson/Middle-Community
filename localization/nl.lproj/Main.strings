@@ -134,7 +134,7 @@
 "uQy-DD-JDr.title" = "Middle";
 
 /* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
-"vCt-Cm-ARK.title" = "Ga naar Systeemvoorkeuren → Beveiliging en Geheimhouding → Geheimhouding → Toegankelijkheid";
+"vCt-Cm-ARK.title" = "Ga naar Systeemvoorkeuren → Beveiliging en privacy → Privacy → Toegankelijkheid";
 
 /* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
 "vZH-gr-9dX.title" = "Viewer tonen…";
