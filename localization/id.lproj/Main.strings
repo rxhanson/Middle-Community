@@ -105,7 +105,7 @@
 "gAS-dZ-pX7.title" = "Jalankan penampil di awal";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Gunakan fn dan klik kiri untuk klik tengah";
+"gGO-yQ-xCQ.title" = "Gunakan tombol \"Fn\" diikuti klik kiri untuk melakukan klik tengah";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
 "gQZ-HU-YQU.title" = "Periksa Pembaruan...";
@@ -160,4 +160,4 @@
 "When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Saat seret tiga jari diaktifkan dan tiga jari diketuk, macOS menjalankan klik yang tidak akan dicegah oleh Middle.";
 
 /* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
-"GNd-nl-0Oj.title" = "Restrict two finger click to right click side";
+"GNd-nl-0Oj.title" = "Batasi area klik dua jari hanya pada zona klik kanan pada trackpad";
