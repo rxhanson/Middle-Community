@@ -1,7 +1,7 @@
 
 "Conflict with macOS three finger drag" = "Conflicto con \"Arrastrar con tres dedos\" de macOS";
 
-"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "El gesto \"Clic con tres dedos\" podría impedir al gesto \"Arrastrar con tres dedos\" de macOS funcionar adecuadamente. Seleccionar otro gesto o desmarcar \"Activar arrastre\" en las Preferencias del Sistema. (*)
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "El gesto \"Clic con tres dedos\" podría impedir que el gesto \"Arrastrar con tres dedos\" de macOS funcione adecuadamente. Seleccione otro gesto o desmarque \"Activar arrastre\" en las Preferencias del Sistema. (*)
 
 
 (*) Preferencias del Sistema > Accesibilidad > Ratón y trackpad
@@ -52,7 +52,7 @@ https://support.apple.com/es-lamr/HT204609";
 "Ccz-CJ-ZRm.title" = "Toque con tres dedos";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
-"ExA-de-taD.title" = "Acceso a controlar tu Mac denegado";
+"ExA-de-taD.title" = "Acceso a controlar su Mac denegado";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
 "FKE-Sm-Kum.title" = "Ayuda de Middle";
@@ -67,10 +67,10 @@ https://support.apple.com/es-lamr/HT204609";
 "Kew-ib-Ihk.title" = "Soltar al quitar el toque sobre el trackpad";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
-"L4H-fe-hjK.title" = "Si la casilla está deshabilitada, haz clic en el candado e introduce la contraseña del administrador";
+"L4H-fe-hjK.title" = "Si esta casilla está deshabilitada, haga clic en el candado e introduzca la contraseña del administrador.";
 
 /* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
-"LQa-8U-aNp.title" = "Middle necesita tu permiso para reconocer los eventos de tus dispositivos táctiles.";
+"LQa-8U-aNp.title" = "Middle necesita su permiso para reconocer los eventos de sus dispositivos táctiles.";
 
 /* Class = "NSMenu"; title = "Viewer"; ObjectID = "Lvn-z3-2Z5"; */
 "Lvn-z3-2Z5.title" = "Visor";
@@ -88,7 +88,7 @@ https://support.apple.com/es-lamr/HT204609";
 "NJ3-Fi-h4c.title" = "Acerca de Middle";
 
 /* Class = "NSWindow"; title = "Authorize Middle"; ObjectID = "OhY-VJ-Tcc"; */
-"OhY-VJ-Tcc.title" = "Concede permiso a Middle";
+"OhY-VJ-Tcc.title" = "Conceder permiso a Middle";
 
 /* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
 "Olw-nP-bQN.title" = "Ocultar Middle";
@@ -100,7 +100,7 @@ https://support.apple.com/es-lamr/HT204609";
 "S0p-oC-mLd.title" = "Ir a la selección";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
-"Tfy-3A-o4I.title" = "Cuando esté oculto, iniciar de nuevo desde Middle para abrir el menú.";
+"Tfy-3A-o4I.title" = "Cuando esté oculto, inicie Middle de nuevo para abrir el menú.";
 
 /* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
 "YvJ-SA-Bje.title" = "Ocultar el icono en la barra de menús";
@@ -136,7 +136,7 @@ https://support.apple.com/es-lamr/HT204609";
 "mCY-qk-eUa.title" = "Clic con dos dedos";
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
-"p39-0h-R0h.title" = "Esta acción es útil cuando uses el clic central del trackpad para efectuar una panorámica en las aplicaciones de modelado 3D. Haz clic con tres dedos, arrastra con un dedo y suelta el trackpad.";
+"p39-0h-R0h.title" = "Esta acción es útil cuando use el clic central del trackpad para efectuar una panorámica en las aplicaciones de modelado 3D. Haga clic con tres dedos, arrastre con un dedo y suelte el trackpad.";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
 "q6q-GJ-liZ.title" = "Clic con tres dedos";
@@ -157,7 +157,7 @@ https://support.apple.com/es-lamr/HT204609";
 "vZH-gr-9dX.title" = "Mostrar el visor...";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
-"wic-K8-WSX.title" = "Concede permiso a Middle";
+"wic-K8-WSX.title" = "Conceder permiso a Middle";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
 "wpr-3q-Mcd.title" = "Ayuda";
@@ -169,4 +169,4 @@ https://support.apple.com/es-lamr/HT204609";
 "zdd-tk-qnC.title" = "Visor táctil";
 
 /* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
-"GNd-nl-0Oj.title" = "Limite el clic con dos dedos al lado derecho del clic";
+"GNd-nl-0Oj.title" = "Limita el clic con dos dedos al lado derecho del clic";
