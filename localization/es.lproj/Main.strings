@@ -1,7 +1,7 @@
 
 "Conflict with macOS three finger drag" = "Conflicto con \"Arrastrar con tres dedos\" de macOS";
 
-"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "El gesto \"Clic con tres dedos\" podría impedir al gesto \"Arrastrar con tres dedos\" de macOS de funcionar como debería. Seleccionar otro gesto o desmarcar \"Activar arrastre\" en las Preferencias del Sistema. (*)
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "El gesto \"Clic con tres dedos\" podría impedir que el gesto \"Arrastrar con tres dedos\" de macOS de funcione como debe. Seleccione otro gesto o desmarque la casilla  \"Activar arrastre\" en las Preferencias del Sistema. (*)
 
 
 (*) Preferencias del Sistema > Accesibilidad > Ratón y trackpad
@@ -25,7 +25,7 @@ https://support.apple.com/es-es/HT204609";
 "4sb-4s-VLi.title" = "Salir de Middle";
 
 /* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
-"575-o0-Etz.title" = "Permite...";
+"575-o0-Etz.title" = "Autorizar...";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "5Y9-2l-gqF"; */
 "5Y9-2l-gqF.title" = "Acerca de";
@@ -34,7 +34,7 @@ https://support.apple.com/es-es/HT204609";
 "5kV-Vb-QxS.title" = "Acerca de Middle";
 
 /* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
-"6F1-Vv-ruT.title" = "Verifica Middle";
+"6F1-Vv-ruT.title" = "Verificar Middle.app";
 
 /* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
 "6np-Zg-K5q.title" = "Buscar actualizaciones automáticamente";
@@ -55,7 +55,7 @@ https://support.apple.com/es-es/HT204609";
 "Bcb-Ja-zQs.title" = "Toque con cuatro dedos";
 
 /* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
-"ExA-de-taD.title" = "Denegado a controlar tu ordenador";
+"ExA-de-taD.title" = "No está autorizado a controlar su ordenador";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
 "FKE-Sm-Kum.title" = "Ayuda de Middle";
@@ -67,13 +67,13 @@ https://support.apple.com/es-es/HT204609";
 "IQv-IB-iLA.title" = "Preferencias de Middle";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
-"Kew-ib-Ihk.title" = "Soltar cuando quites el toque sobre el trackpad";
+"Kew-ib-Ihk.title" = "Soltar cuando quite el toque sobre el trackpad";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
-"L4H-fe-hjK.title" = "Si la casilla está deshabilitada, haz clic en el candado e introduce la contraseña del administrador";
+"L4H-fe-hjK.title" = "Si la casilla está deshabilitada, haga clic en el candado e introduzca la contraseña del administrador";
 
 /* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
-"LQa-8U-aNp.title" = "Middle necesita tu permiso para reconocer los eventos de tus dispositivos táctiles.";
+"LQa-8U-aNp.title" = "Middle necesita su permiso para reconocer los eventos de sus dispositivos táctiles.";
 
 /* Class = "NSMenu"; title = "Viewer"; ObjectID = "Lvn-z3-2Z5"; */
 "Lvn-z3-2Z5.title" = "Visor";
@@ -91,7 +91,7 @@ https://support.apple.com/es-es/HT204609";
 "NJ3-Fi-h4c.title" = "Acerca de Middle";
 
 /* Class = "NSWindow"; title = "Authorize Middle"; ObjectID = "OhY-VJ-Tcc"; */
-"OhY-VJ-Tcc.title" = "Concede permiso a Middle";
+"OhY-VJ-Tcc.title" = "Autorizar Middle";
 
 /* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
 "Olw-nP-bQN.title" = "Ocultar Middle";
@@ -103,7 +103,7 @@ https://support.apple.com/es-es/HT204609";
 "S0p-oC-mLd.title" = "Ir a la selección";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
-"Tfy-3A-o4I.title" = "Cuando esté oculto, iniciar de nuevo desde Middle para abrir el menú.";
+"Tfy-3A-o4I.title" = "Cuando esté oculto, inicie Middle de nuevo para abrir el menú.";
 
 /* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
 "YvJ-SA-Bje.title" = "Ocultar el icono en la barra de menús";
@@ -136,7 +136,7 @@ https://support.apple.com/es-es/HT204609";
 "mCY-qk-eUa.title" = "Clic con dos dedos";
 
 /* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
-"p39-0h-R0h.title" = "Esta acción es útil cuando se usa el clic central del trackpad para efectuar una panorámica en las aplicaciones de modelado 3D. Haz clic con tres dedos, arrastra con un dedo y suelta el trackpad.";
+"p39-0h-R0h.title" = "Esta acción es útil cuando se utiliza el clic central del trackpad para efectuar una panorámica en las aplicaciones de modelado 3D. Haga clic con tres dedos, arrastre con un dedo y suelte el trackpad.";
 
 /* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
 "q6q-GJ-liZ.title" = "Clic con tres dedos";
@@ -154,7 +154,7 @@ https://support.apple.com/es-es/HT204609";
 "vZH-gr-9dX.title" = "Muestra el visor...";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
-"wic-K8-WSX.title" = "Concede permiso a Middle";
+"wic-K8-WSX.title" = "Autorizar a Middle";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
 "wpr-3q-Mcd.title" = "Ayuda";
