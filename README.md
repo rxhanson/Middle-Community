@@ -1,4 +1,4 @@
-# Middle
+# Middle Community
 
 Middle is a macOS app that's made specifically to provide middle click functionality to the Apple Magic Mouse and trackpads.
 The app is closed source, but the localization is sourced here. If you fix more than a few lines of an existing language, or provide a new language, I'll give you a license key for Middle. 
