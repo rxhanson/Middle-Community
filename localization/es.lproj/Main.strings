@@ -124,7 +124,7 @@ https://support.apple.com/es-es/HT204609";
 "gAS-dZ-pX7.title" = "Abrir el visor al iniciar";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Pulsar la tecla Fn y clic izquierdo para el clic central";
+"gGO-yQ-xCQ.title" = "Utilizar la tecla Fn y clic izquierdo para el clic central";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
 "gQZ-HU-YQU.title" = "Buscar actualizaciones...";
@@ -148,10 +148,10 @@ https://support.apple.com/es-es/HT204609";
 "uQy-DD-JDr.title" = "Medio";
 
 /* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
-"vCt-Cm-ARK.title" = "Ir a Preferencias de Sistema → Seguridad y privacidad → Privacidad → Accesibilidad";
+"vCt-Cm-ARK.title" = "Ir a Preferencias de sistema → Seguridad y privacidad → Privacidad → Accesibilidad";
 
 /* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
-"vZH-gr-9dX.title" = "Muestra el visor...";
+"vZH-gr-9dX.title" = "Mostrar el visor...";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
 "wic-K8-WSX.title" = "Autorizar a Middle";
@@ -169,5 +169,5 @@ https://support.apple.com/es-es/HT204609";
 "F5y-6x-Tuc.title" = "-";
 
 /* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
-"GNd-nl-0Oj.title" = "Limite el clic con dos dedos al lado derecho del clic";
+"GNd-nl-0Oj.title" = "Limitar el clic con dos dedos al lado derecho del clic";
 
