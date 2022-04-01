@@ -34,13 +34,13 @@ https://support.apple.com/es-lamr/HT204609";
 "5kV-Vb-QxS.title" = "Acerca de Middle";
 
 /* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
-"6F1-Vv-ruT.title" = "Verificar Middle";
+"6F1-Vv-ruT.title" = "Verificar Middle.app";
 
 /* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
 "6np-Zg-K5q.title" = "Buscar actualizaciones automáticamente";
 
 /* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "6rO-9w-PdI"; */
-"6rO-9w-PdI.title" = "Abrir Preferencias del Sistema";
+"6rO-9w-PdI.title" = "Abrir Preferencias del sistema";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
 "BOF-NM-1cW.title" = "Preferencias...";
@@ -124,7 +124,7 @@ https://support.apple.com/es-lamr/HT204609";
 "gAS-dZ-pX7.title" = "Abrir el visor al iniciar";
 
 /* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
-"gGO-yQ-xCQ.title" = "Pulsar la tecla Fn y clic izquierdo para el clic central";
+"gGO-yQ-xCQ.title" = "Utilizar la tecla Fn y clic izquierdo para el clic central";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
 "gQZ-HU-YQU.title" = "Buscar actualizaciones...";
@@ -151,13 +151,13 @@ https://support.apple.com/es-lamr/HT204609";
 "uQy-DD-JDr.title" = "Medio";
 
 /* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
-"vCt-Cm-ARK.title" = "Ir a Preferencias del Sistema → Seguridad y privacidad → Privacidad → Accesibilidad";
+"vCt-Cm-ARK.title" = "Vaya a Preferencias del sistema → Seguridad y privacidad → Privacidad → Accesibilidad";
 
 /* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
 "vZH-gr-9dX.title" = "Mostrar el visor...";
 
 /* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
-"wic-K8-WSX.title" = "Conceder permiso a Middle";
+"wic-K8-WSX.title" = "Autorizar a Middle";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
 "wpr-3q-Mcd.title" = "Ayuda";
@@ -169,4 +169,4 @@ https://support.apple.com/es-lamr/HT204609";
 "zdd-tk-qnC.title" = "Visor táctil";
 
 /* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
-"GNd-nl-0Oj.title" = "Limita el clic con dos dedos al lado derecho del clic";
+"GNd-nl-0Oj.title" = "Limitar el clic con dos dedos al lado derecho del clic";
