@@ -161,3 +161,6 @@
 
 /* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
 "GNd-nl-0Oj.title" = "Batasi area klik dua jari hanya pada zona klik kanan pada trackpad";
+
+/* Class = "NSButtonCell"; title = "Wide center click area"; ObjectID = "cud-UH-rSf"; */
+"cud-UH-rSf.title" = "Wide center click area";

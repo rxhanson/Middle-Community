@@ -164,3 +164,6 @@
 
 /* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
 "GNd-nl-0Oj.title" = "İki parmakla tıklamayı sağ tıklamayla sınırla";
+
+/* Class = "NSButtonCell"; title = "Wide center click area"; ObjectID = "cud-UH-rSf"; */
+"cud-UH-rSf.title" = "Wide center click area";

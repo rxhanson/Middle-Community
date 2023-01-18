@@ -158,3 +158,6 @@
 "Three finger tap with macOS three finger drag" = "Háromujjas koppintás a macOS három ujj húzás segítségével";
 
 "When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Ha a háromujjas húzás engedélyezve van, és három ujjal koppintasz, a macOS olyan kattintást hajt végre, amelyet a Middle nem akadályoz meg.";
+
+/* Class = "NSButtonCell"; title = "Wide center click area"; ObjectID = "cud-UH-rSf"; */
+"cud-UH-rSf.title" = "Wide center click area";

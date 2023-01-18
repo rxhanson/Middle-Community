@@ -1,0 +1,166 @@
+
+/* Class = "NSMenuItem"; title = "Debug"; ObjectID = "0G3-TF-iyg"; */
+"0G3-TF-iyg.title" = "डिबग";
+
+/* Class = "NSMenuItem"; title = "Middle"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "मध्य";
+
+/* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "मध्य बंद करें";
+
+/* Class = "NSMenuItem"; title = "Authorize…"; ObjectID = "575-o0-Etz"; */
+"575-o0-Etz.title" = "अनुमति…";
+
+/* Class = "NSMenuItem"; title = "About"; ObjectID = "5Y9-2l-gqF"; */
+"5Y9-2l-gqF.title" = "ऐप के बारे में";
+
+/* Class = "NSMenuItem"; title = "About Middle"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "मध्य ऐप के बारे में";
+
+/* Class = "NSTextFieldCell"; title = "Check Middle.app"; ObjectID = "6F1-Vv-ruT"; */
+"6F1-Vv-ruT.title" = "Middle.app चेक करें";
+
+/* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "6np-Zg-K5q"; */
+"6np-Zg-K5q.title" = "अपने आप अपडेट करें";
+
+/* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "6rO-9w-PdI"; */
+"6rO-9w-PdI.title" = "सिस्टम सेटिंग्स खोलें";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "सेटिंग्स…";
+
+/* Class = "NSButtonCell"; title = "Launch on login"; ObjectID = "BbU-e2-Ypo"; */
+"BbU-e2-Ypo.title" = "लॉगिन पर लॉन्च करें";
+
+/* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "Ccz-CJ-ZRm"; */
+"Ccz-CJ-ZRm.title" = "तीन अंगुलियों से टैप";
+
+/* Class = "NSMenuItem"; title = "Not Authorized to Control Your Computer"; ObjectID = "ExA-de-taD"; */
+"ExA-de-taD.title" = "आपके कंप्यूटर को नियंत्रित करने की अनुमति नहीं है";
+
+/* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "मध्य मदद";
+
+/* Class = "NSMenuItem"; title = "Ignore frontmost.app"; ObjectID = "Hc4-Pm-7tu"; */
+"Hc4-Pm-7tu.title" = "नज़रअंदाज़ frontmost.app";
+
+/* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "मध्य सेटिंग्स";
+
+/* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
+"Kew-ib-Ihk.title" = "ट्रैकपैड स्पर्श किए जाने पर रिलीज़ करें";
+
+/* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
+"L4H-fe-hjK.title" = "यदि चेकबॉक्स अक्षम है, तो पैडलॉक पर क्लिक करें और अपना पासवर्ड दर्ज करें";
+
+/* Class = "NSTextFieldCell"; title = "Middle needs your permission to read events from your touch devices."; ObjectID = "LQa-8U-aNp"; */
+"LQa-8U-aNp.title" = "मध्य को आपके स्पर्श उपकरणों से ईवेंट पढ़ने के लिए आपकी अनुमति चाहिए.";
+
+/* Class = "NSMenu"; title = "Debug"; ObjectID = "Lvn-z3-2Z5"; */
+"Lvn-z3-2Z5.title" = "डिबग";
+
+/* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "LxB-Qw-Mem"; */
+"LxB-Qw-Mem.title" = "मध्य बंद करें";
+
+/* Class = "NSMenuItem"; title = "Purchase"; ObjectID = "MWV-Ks-lbA"; */
+"MWV-Ks-lbA.title" = "खरीदें";
+
+/* Class = "NSMenuItem"; title = "One Finger Force Touch"; ObjectID = "Mx0-0X-Uk5"; */
+"Mx0-0X-Uk5.title" = "एक अंगुली फोर्स टच";
+
+/* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
+"NJ3-Fi-h4c.title" = "ऐप के बारे में";
+
+/* Class = "NSWindow"; title = "Authorize Middle"; ObjectID = "OhY-VJ-Tcc"; */
+"OhY-VJ-Tcc.title" = "अनुमति मध्य";
+
+/* Class = "NSMenuItem"; title = "Hide Middle"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "मध्य छिपाएं";
+
+/* Class = "NSTextFieldCell"; title = "Magic Mouse: "; ObjectID = "Qn1-tG-Pis"; */
+"Qn1-tG-Pis.title" = "मैजिक माउस: ";
+
+/* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
+"Tfy-3A-o4I.title" = "छुपाए जाने पर, खोलने के लिए Finder से पुन लॉन्च करें.";
+
+/* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
+"YvJ-SA-Bje.title" = "मेनू बार आइकन छुपाएं";
+
+/* Class = "NSMenuItem"; title = "-"; ObjectID = "ZFQ-xY-Fls"; */
+"ZFQ-xY-Fls.title" = "-";
+
+/* Class = "NSMenuItem"; title = "-"; ObjectID = "F5y-6x-Tuc"; */
+"F5y-6x-Tuc.title" = "-";
+
+/* Class = "NSMenuItem"; title = "One Finger Click in Center"; ObjectID = "aQ2-MA-F8F"; */
+"aQ2-MA-F8F.title" = "केंद्र में एक उंगली क्लिक";
+
+/* Class = "NSTextFieldCell"; title = "Trackpad: "; ObjectID = "eDR-Aa-cTe"; */
+"eDR-Aa-cTe.title" = "ट्रैकपैड: ";
+
+/* Class = "NSMenuItem"; title = "Quit Middle"; ObjectID = "fQ6-M2-dr6"; */
+"fQ6-M2-dr6.title" = "मध्य बंद करें";
+
+/* Class = "NSMenuItem"; title = "Launch viewer on start"; ObjectID = "gAS-dZ-pX7"; */
+"gAS-dZ-pX7.title" = "प्रारंभ पर व्यूअर लॉन्च करें";
+
+/* Class = "NSButtonCell"; title = "Use fn and left click to middle click"; ObjectID = "gGO-yQ-xCQ"; */
+"gGO-yQ-xCQ.title" = "Fn का उपयोग करें और बाएँ क्लिक से मध्य क्लिक";
+
+/* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "gQZ-HU-YQU"; */
+"gQZ-HU-YQU.title" = "अपडेट करें…";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "ksi-rt-hhB"; */
+"ksi-rt-hhB.title" = "सेटिंग्स…";
+
+/* Class = "NSMenuItem"; title = "Two Finger Click"; ObjectID = "mCY-qk-eUa"; */
+"mCY-qk-eUa.title" = "दो उंगलियाँ का क्लिक";
+
+/* Class = "NSTextFieldCell"; title = "This is useful when using the trackpad middle click to pan in 3D modeling applications. Click with three fingers, pan with one finger, and release by removing touches."; ObjectID = "p39-0h-R0h"; */
+"p39-0h-R0h.title" = "3D मॉडलिंग ऐप्स में पैन करने के लिए ट्रैकपैड मध्य क्लिक का उपयोग करते समय यह उपयोगी होता है। तीन अंगुलियों से क्लिक करें, एक अंगुली से पैन करें, और स्पर्श हटाकर छोड़ दें।";
+
+/* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "q6q-GJ-liZ"; */
+"q6q-GJ-liZ.title" = "तीन उंगलियां क्लिक";
+
+/* Class = "NSMenuItem"; title = "Three Finger Tap"; ObjectID = "qWt-7C-fnF"; */
+"qWt-7C-fnF.title" = "तीन उंगलियां टैप";
+
+/* Class = "NSMenuItem"; title = "Four Finger Tap"; ObjectID = "Bcb-Ja-zQs"; */
+"Bcb-Ja-zQs.title" = "चार उंगलियां टैप";
+
+/* Class = "NSMenu"; title = "Middle"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "मध्य";
+
+/* Class = "NSTextFieldCell"; title = "Go to System Preferences  → Security & Privacy → Privacy → Accessibility"; ObjectID = "vCt-Cm-ARK"; */
+"vCt-Cm-ARK.title" = "सिस्टम सेटिंग्स में जाओ → सुरक्षा और गोपनीयता → गोपनीयता → प्रवेर्शयोग्यता";
+
+/* Class = "NSMenuItem"; title = "Show viewer…"; ObjectID = "vZH-gr-9dX"; */
+"vZH-gr-9dX.title" = "व्यूअर दिखाओ…";
+
+/* Class = "NSTextFieldCell"; title = "Authorize Middle"; ObjectID = "wic-K8-WSX"; */
+"wic-K8-WSX.title" = "मध्य को अनुमति दें";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "मदद";
+
+/* Class = "NSMenuItem"; title = "Three Finger Click"; ObjectID = "yCX-6y-ayG"; */
+"yCX-6y-ayG.title" = "तीन अंगुलियों से क्लिक";
+
+/* Class = "NSWindow"; title = "Touch Viewer"; ObjectID = "zdd-tk-qnC"; */
+"zdd-tk-qnC.title" = "स्पर्श दर्शक";
+
+"Conflict with macOS three finger drag" = "macOS के तीन उंगलियां ड्रैग के साथ संघर्ष";
+
+"The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "तीन अंगुलियों से क्लिक का हावभाव macOS के थ्री फिंगर ड्रैग कार्यक्षमता को ठीक से काम करने से रोक सकता है। आप एक अलग हावभाव का चयन करना चाह सकते हैं या macOS सिस्टम सेटिंग्स में तीन अंगुलियों से ड्रैग को अक्षम कर सकते हैं।";
+
+"OK" = "ठीक है";
+
+"Three finger tap with macOS three finger drag" = "macOS तीन उंगलियां ड्रैग के साथ तीन उंगलियां टैप";
+
+"When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "जब तीन उंगलियां ड्रैग सक्षम होता है और तीन अंगुलियों को टैप किया जाता है, तो macOS एक ऐसा क्लिक निष्पादित करता है जिसे मध्य नहीं रोकेगा।";
+
+/* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
+"GNd-nl-0Oj.title" = "दो अंगुलियों के क्लिक को दाईं ओर क्लिक करने के लिए प्रतिबंधित करें";
+
+/* Class = "NSButtonCell"; title = "Wide center click area"; ObjectID = "cud-UH-rSf"; */
+"cud-UH-rSf.title" = "Wide center click area";
