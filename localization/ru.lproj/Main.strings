@@ -514,7 +514,7 @@
 "mCY-qk-eUa.title" = "Клик двумя пальцем";
 
 /* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
-"GNd-nl-0Oj.title" = "Restrict two finger click to right click side";
+"GNd-nl-0Oj.title" = "Заменить клик двумя пальцами на клик по правой стороне";
 
 /* Class = "NSButtonCell"; title = "Wide center click area"; ObjectID = "cud-UH-rSf"; */
-"cud-UH-rSf.title" = "Wide center click area";
+"cud-UH-rSf.title" = "Разширить область для клика по центу";
