@@ -39,16 +39,16 @@
 "ExA-de-taD.title" = "Δεν ύπάρχει άδεια για έλεγχο του υπολογιστή σας";
 
 /* Class = "NSMenuItem"; title = "Middle Help"; ObjectID = "FKE-Sm-Kum"; */
-"FKE-Sm-Kum.title" = "Βοήθεια Middle";
+"FKE-Sm-Kum.title" = "Βοήθεια για το Middle";
 
 /* Class = "NSMenuItem"; title = "Ignore frontmost.app"; ObjectID = "Hc4-Pm-7tu"; */
 "Hc4-Pm-7tu.title" = "Αγνόηση frontmost.app";
 
 /* Class = "NSWindow"; title = "Middle Preferences"; ObjectID = "IQv-IB-iLA"; */
-"IQv-IB-iLA.title" = "Ρυθμίσεις Middle";
+"IQv-IB-iLA.title" = "Ρυθμίσεις για το Middle";
 
 /* Class = "NSButtonCell"; title = "Release when trackpad touches removed"; ObjectID = "Kew-ib-Ihk"; */
-"Kew-ib-Ihk.title" = "Απελευθέρωση όταν το άγγιγμα του trackpad αφαιρεθεί";
+"Kew-ib-Ihk.title" = "Απελευθέρωση όταν το άγγιγμα του trackpad έχει αφαιρεθεί";
 
 /* Class = "NSTextFieldCell"; title = "If the checkbox is disabled, click the padlock and enter your password"; ObjectID = "L4H-fe-hjK"; */
 "L4H-fe-hjK.title" = "Εάν η επιλογή είναι απενεργοποιημένη, πατήστε την κλειδαριά και πληκτρολογήστε τον κωδικό σας";
@@ -66,7 +66,7 @@
 "MWV-Ks-lbA.title" = "Αγορά";
 
 /* Class = "NSMenuItem"; title = "One Finger Force Touch"; ObjectID = "Mx0-0X-Uk5"; */
-"Mx0-0X-Uk5.title" = "Force Touch με ένα δάχτυλο";
+"Mx0-0X-Uk5.title" = "Εξαναγκασμός αφής με ένα δάχτυλο";
 
 /* Class = "NSMenuItem"; title = "About"; ObjectID = "NJ3-Fi-h4c"; */
 "NJ3-Fi-h4c.title" = "Πληροφορίες";
@@ -78,13 +78,13 @@
 "Olw-nP-bQN.title" = "Κρύψιμο Middle";
 
 /* Class = "NSTextFieldCell"; title = "Magic Mouse: "; ObjectID = "Qn1-tG-Pis"; */
-"Qn1-tG-Pis.title" = "Magic Mouse: ";
+"Qn1-tG-Pis.title" = "Μαγικό Ποντίκι: ";
 
 /* Class = "NSTextFieldCell"; title = "When hidden, relaunch from Finder to open the menu."; ObjectID = "Tfy-3A-o4I"; */
 "Tfy-3A-o4I.title" = "Όταν το Middle είναι κρυμμένο, επανεκκινήστε το από το Finder για να ανοίξετε το μενού.";
 
 /* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "YvJ-SA-Bje"; */
-"YvJ-SA-Bje.title" = "Κρύψιμο εικονιδίου menu bar";
+"YvJ-SA-Bje.title" = "Κρύψιμο εικονιδίου γραμμή μενού";
 
 /* Class = "NSMenuItem"; title = "-"; ObjectID = "ZFQ-xY-Fls"; */
 "ZFQ-xY-Fls.title" = "-";
@@ -153,14 +153,14 @@
 
 "The three finger click gesture might prevent the macOS three finger drag functionality from working properly. You may want to select a different gesture or disable three finger drag in macOS System Preferences." = "Το κλικ τριών δαχτύλων μπορεί να εμποδίσει το τράβηγμα τριών δαχτύλων του macOS από το να λειτουργεί. Εάν θέλετε, μπορείτε να επιλέξετε μία διαφορετική χειρονομία ή να επνεργοποιήσετε το τράβηγμα τριών δαχτύλων στις Ρυθμίσεις του macOS.";
 
-"OK" = "OK";
+"OK" = "Εντάξει";
 
 "Three finger tap with macOS three finger drag" = "Άγγιγμα τριών δαχτύλων με τράβηγμα τριών δαχτύλων του macOS";
 
 "When three finger drag is enabled and three fingers are tapped, macOS executes a click that Middle will not prevent." = "Όταν το τράβηγμα τριών δαχτύλων είναι ενεργοποιημένο και τρία δάχτυλα αγγίζουν την επιφάνεια αφής, το macOS πραγματοποιεί ένα κλικ που δεν θα εμποδίσει το Middle.";
 
 /* Class = "NSButtonCell"; title = "Restrict two finger click to right click side"; ObjectID = "GNd-nl-0Oj"; */
-"GNd-nl-0Oj.title" = "Restrict two finger click to right click side";
+"GNd-nl-0Oj.title" = "Περιορίστε τα δύο δάχτυλα κλικ στην πλευρά του δεξιού κλικ";
 
 /* Class = "NSButtonCell"; title = "Wide center click area"; ObjectID = "cud-UH-rSf"; */
-"cud-UH-rSf.title" = "Wide center click area";
+"cud-UH-rSf.title" = "Ευρεία περιοχή κεντρικού κλικ";
